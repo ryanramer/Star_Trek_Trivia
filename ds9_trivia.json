@@ -432,7 +432,7 @@
       "C": "The Tears of the Prophets",
       "D": "The Prophet Stones"
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": "DS9-032",
@@ -915,7 +915,7 @@
     "series": "DS9",
     "difficulty": "medium",
     "type": "multiple_choice",
-    "category": "Starfleet Ranks & Protocol",
+    "category": "Alien Species & Cultures",
     "question": "What Bajoran religious title is the head of the Bajoran faith given?",
     "answers": {
       "A": "Ranjen",
@@ -1091,7 +1091,7 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "B"
+    "correct": "A"
   },
   {
     "id": "DS9-079",

@@ -173,10 +173,10 @@
     "difficulty": "easy",
     "type": "multiple_choice",
     "category": "Ships & Technology",
-    "question": "What unique propulsion technology does Voyager use that standard ships lack?",
+    "question": "What unique computer technology does Voyager use that earlier Federation ships lack?",
     "answers": {
-      "A": "Bioneural circuitry and bio-neural gel packs",
-      "B": "Bio-neural gel packs",
+      "A": "Bio-neural gel packs",
+      "B": "Positronic crystal matrices",
       "C": "Ablative hull armor",
       "D": "Quantum slipstream drive"
     },
@@ -663,7 +663,7 @@
     "series": "VOY",
     "difficulty": "medium",
     "type": "multiple_choice",
-    "category": "Quotes & Catchphrases",
+    "category": "Characters & Crew",
     "question": "What is the Doctor's default name before he gives himself one?",
     "answers": {
       "A": "The Doctor (no other name)",
@@ -1007,7 +1007,7 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": "VOY-073",
@@ -1030,7 +1030,7 @@
     "difficulty": "hard",
     "type": "true_false",
     "category": "Characters & Crew",
-    "question": "Icheb voluntarily had his Borg components removed so Voyager could use them to restore Seven of Nine.",
+    "question": "Icheb voluntarily donates his cortical node to save Seven of Nine when hers begins to fail.",
     "answers": {
       "A": "True",
       "B": "False"
@@ -1379,10 +1379,10 @@
     "difficulty": "hard",
     "type": "multiple_choice",
     "category": "Crossovers & Connections",
-    "question": "Which DS9 character appears in Voyager's 'Life Line' episode?",
+    "question": "Which TNG character appears in Voyager's 'Life Line' episode alongside Reginald Barclay?",
     "answers": {
       "A": "Miles O'Brien",
-      "B": "Quark",
+      "B": "Geordi La Forge",
       "C": "Lwaxana Troi",
       "D": "Counselor Troi"
     },

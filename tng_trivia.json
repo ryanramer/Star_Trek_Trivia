@@ -425,7 +425,7 @@
     "difficulty": "easy",
     "type": "multiple_choice",
     "category": "Alien Species & Cultures",
-    "question": "What Klingon word means honor or glory?",
+    "question": "What Klingon exclamation means 'success'?",
     "answers": {
       "A": "Sto-Vo-Kor",
       "B": "bat'leth",
@@ -501,7 +501,7 @@
       "A": "Meribor",
       "B": "Eline",
       "C": "Batai",
-      "D": "Katan"
+      "D": "Kamin"
     },
     "correct": "D"
   },
@@ -803,8 +803,8 @@
     "series": "TNG",
     "difficulty": "medium",
     "type": "multiple_choice",
-    "category": "Ships & Technology",
-    "question": "What is the name of the tactical station operator whose frequent line is 'Aye, sir'?",
+    "category": "Characters & Crew",
+    "question": "Who serves as the primary tactical and security officer aboard the Enterprise-D for most of TNG?",
     "answers": {
       "A": "Ensign Ro",
       "B": "Lt. Worf",
@@ -1183,12 +1183,12 @@
     "difficulty": "hard",
     "type": "multiple_choice",
     "category": "Ships & Technology",
-    "question": "What type of particles does the Enterprise use to navigate through a Borg cube's defenses in 'Best of Both Worlds'?",
+    "question": "What type of beam does the Enterprise use to scan inside a Borg cube and locate Locutus in 'Best of Both Worlds'?",
     "answers": {
-      "A": "Tachyon particles",
-      "B": "Graviton particles",
-      "C": "Dekyon particles",
-      "D": "Nadion particles"
+      "A": "Antiproton beam",
+      "B": "Graviton beam",
+      "C": "Dekyon beam",
+      "D": "Nadion beam"
     },
     "correct": "A"
   },
@@ -1267,12 +1267,12 @@
     "difficulty": "hard",
     "type": "multiple_choice",
     "category": "Villains & Antagonists",
-    "question": "What is the name of Lore's Borg-led faction?",
+    "question": "In 'Descent,' what does Lore use to manipulate Data into helping him?",
     "answers": {
-      "A": "The Dissenters",
-      "B": "The Renegade Collective",
-      "C": "The Liberators",
-      "D": "The Uprising"
+      "A": "A computer virus",
+      "B": "A telepathic signal",
+      "C": "Negative emotions transmitted via the emotion chip",
+      "D": "A neural interface implant"
     },
     "correct": "C"
   },
@@ -1323,14 +1323,14 @@
     "difficulty": "hard",
     "type": "multiple_choice",
     "category": "Alien Species & Cultures",
-    "question": "What is the Romulan Senate's governing body called?",
+    "question": "What is the title of the Romulan head of state?",
     "answers": {
-      "A": "The Praetorium",
-      "B": "The High Council",
-      "C": "The Tal Shiar",
-      "D": "The Continuing Committee"
+      "A": "First Consul",
+      "B": "Praetor",
+      "C": "Proconsul",
+      "D": "Chancellor"
     },
-    "correct": "D"
+    "correct": "B"
   },
   {
     "id": "TNG-096",
