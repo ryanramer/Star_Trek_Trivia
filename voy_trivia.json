@@ -1389,13 +1389,13 @@
     "category": "Episodes & Story Arcs",
     "question": "In 'Latent Image,' the Doctor discovers a suppressed memory of a moral dilemma. What was it?",
     "answers": {
-      "A": "He chose to save Seven over Ensign Kim when only one could be saved",
+      "A": "He chose to save Ensign Harry Kim over Ensign Ahni Jetal when only one could survive",
       "B": "He covered up an accidental death",
       "C": "He performed unauthorized surgery on a crew member",
       "D": "He deleted another EMH's program"
     },
     "correct": "A",
-    "explanation": "In 'Latent Image' (Season 5), the Doctor uncovers a triage decision in which he was forced to choose between two equally injured patients - his close friendship with one drove the choice, and the resulting guilt fractured his program until Janeway intervened."
+    "explanation": "Faced with two equally injured patients and only time to save one, the Doctor chose Kim — his friend — over Ensign Jetal. The unresolved guilt fractured his program until Janeway refused to simply delete the memory and instead helped him cope."
   },
   {
     "id": "VOY-094",
