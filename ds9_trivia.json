@@ -12,7 +12,8 @@
       "C": "Benjamin Sisko",
       "D": "Kira Nerys"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Commander (later Captain) Benjamin Sisko is assigned to command DS9 in the pilot episode 'Emissary,' overseeing the former Cardassian station Terok Nor after the Bajoran withdrawal."
   },
   {
     "id": "DS9-002",
@@ -25,7 +26,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Emissary,' Sisko and Dax discover the Bajoran wormhole, the only known stable wormhole in the galaxy, leading to the Gamma Quadrant. The station is later moved adjacent to its mouth."
   },
   {
     "id": "DS9-003",
@@ -40,7 +42,8 @@
       "C": "Ferengi",
       "D": "Changeling/Founder"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Odo is a Changeling, one of the shape-shifting Founders of the Dominion, though he was raised in the Alpha Quadrant by Bajoran scientist Dr. Mora Pol and discovers his origins in 'The Search.'"
   },
   {
     "id": "DS9-004",
@@ -53,7 +56,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Major Kira, a former Bajoran resistance fighter, is assigned as the Bajoran liaison and station first officer in 'Emissary,' and serves in that role throughout the series."
   },
   {
     "id": "DS9-005",
@@ -68,7 +72,8 @@
       "C": "Changelings",
       "D": "Vorta"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "The Founders are Changelings—shapeshifting beings from the Gamma Quadrant who created the Dominion to bring order to the 'solids' they distrusted, as revealed in 'The Search, Part II.'"
   },
   {
     "id": "DS9-006",
@@ -81,7 +86,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Quark runs Quark's Bar on the Promenade throughout the entire series, serving as a black-market hub, dabo gaming establishment, and source of recurring schemes."
   },
   {
     "id": "DS9-007",
@@ -96,7 +102,8 @@
       "C": "Gamma Quadrant",
       "D": "Alpha Quadrant"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "The Bajoran wormhole connects the Alpha Quadrant near Bajor to the Idran system in the Gamma Quadrant, opening trade and eventually contact with the Dominion."
   },
   {
     "id": "DS9-008",
@@ -109,7 +116,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Jadzia is a joined Trill, host to the Dax symbiont, which retains memories from its previous hosts including Curzon, who was a mentor to Sisko."
   },
   {
     "id": "DS9-009",
@@ -124,7 +132,8 @@
       "C": "Jake",
       "D": "Noah"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Jake Sisko, played by Cirroc Lofton, is Benjamin's teenage son who grew up on DS9, eventually becoming a journalist and writer."
   },
   {
     "id": "DS9-010",
@@ -137,7 +146,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Jem'Hadar lack a key enzyme and are dependent on ketracel-white, which is dispensed by their Vorta supervisors—a built-in control mechanism designed by the Founders."
   },
   {
     "id": "DS9-011",
@@ -152,7 +162,8 @@
       "C": "Garak",
       "D": "Weyoun"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Elim Garak, played by Andrew Robinson, runs a tailor shop on the Promenade after being exiled from Cardassia, but is a former operative of the Obsidian Order."
   },
   {
     "id": "DS9-012",
@@ -165,7 +176,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Sisko is promoted from Commander to Captain in the Season 3 finale 'The Adversary,' following his commanding success against the Jem'Hadar earlier in the season."
   },
   {
     "id": "DS9-013",
@@ -180,7 +192,8 @@
       "C": "The Order of the Blessed Exchequer",
       "D": "The Way of the Warrior"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Bajoran religion centers on worship of the Prophets, the non-linear beings residing in the wormhole, and on adherence to their teachings as preserved by Vedeks and Kais."
   },
   {
     "id": "DS9-014",
@@ -193,7 +206,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Dr. Julian Bashir, played by Alexander Siddig, is assigned as CMO in 'Emissary,' having graduated salutatorian of his Starfleet Medical class."
   },
   {
     "id": "DS9-015",
@@ -208,7 +222,8 @@
       "C": "USS Defiant",
       "D": "USS Rio Grande"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "The USS Defiant is the warship Sisko brings to DS9 in 'The Search' to confront the Dominion threat; it serves as the station's primary combat vessel throughout the war."
   },
   {
     "id": "DS9-016",
@@ -221,7 +236,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Dukat served as Prefect of Bajor and commander of Terok Nor during the latter years of the Cardassian Occupation, a fact established in 'Emissary' and reinforced throughout the series."
   },
   {
     "id": "DS9-017",
@@ -236,7 +252,8 @@
       "C": "The Cardassians",
       "D": "The Bajoran Resistance"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "The station was constructed by Bajoran slave labor under Cardassian supervision and named Terok Nor; it was abandoned when the Cardassians withdrew from Bajor and was then turned over to Starfleet/Bajoran joint administration."
   },
   {
     "id": "DS9-018",
@@ -249,7 +266,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Chief Miles Edward O'Brien transfers from the Enterprise-D in 'Emissary' to become DS9's Chief of Operations, responsible for the aging Cardassian station's failing systems."
   },
   {
     "id": "DS9-019",
@@ -264,7 +282,8 @@
       "C": "A silver chain",
       "D": "Earrings called d'ja pagh"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Bajorans wear an earring on the right ear as a sign of their faith; clerics use it to read a Bajoran's pagh (spirit) by grasping the ear."
   },
   {
     "id": "DS9-020",
@@ -277,7 +296,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "After meeting the wormhole aliens in 'Emissary,' Sisko is recognized by Kai Opaka and the Bajoran people as the prophesied Emissary, a role he accepts with increasing seriousness."
   },
   {
     "id": "DS9-021",
@@ -292,7 +312,8 @@
       "C": "The Klingon Civil War",
       "D": "The Dominion War"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The Dominion War, fought between the Federation/Klingon/Romulan alliance and the Dominion/Cardassian/Breen forces, spans roughly seasons 5-7 and dominates the show's serialized arcs."
   },
   {
     "id": "DS9-022",
@@ -305,7 +326,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Worf transfers to DS9 in the Season 4 premiere 'The Way of the Warrior' to assist Sisko in handling Klingon Empire tensions after the Khitomer Accords are jeopardized."
   },
   {
     "id": "DS9-023",
@@ -320,7 +342,8 @@
       "C": "The Book of Ferengi",
       "D": "The Rules of Acquisition"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The 285 Rules of Acquisition codify Ferengi business ethics, with Rule #1 being 'Once you have their money, you never give it back.' Quark frequently quotes them throughout the series."
   },
   {
     "id": "DS9-024",
@@ -333,7 +356,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Rom is Quark's younger brother who works as a waiter and later engineer, and his son Nog becomes Jake Sisko's best friend and the first Ferengi in Starfleet."
   },
   {
     "id": "DS9-025",
@@ -348,7 +372,8 @@
       "C": "Ishka",
       "D": "Rom"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Grand Nagus Zek, the eccentric leader of Ferengi commerce, is introduced in 'The Nagus' (Season 1) and recurs throughout the series before retiring and naming Rom his successor."
   },
   {
     "id": "DS9-026",
@@ -361,7 +386,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Vorta serve as field supervisors, diplomats, and Jem'Hadar commanders for the Founders, occupying the middle administrative tier of Dominion society."
   },
   {
     "id": "DS9-027",
@@ -376,7 +402,8 @@
       "C": "Klingon Outpost",
       "D": "Cardassia Prime"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Cardassia Prime is the Cardassian Union's homeworld and seat of government, neighboring Bajor and serving as the political center of Cardassian power."
   },
   {
     "id": "DS9-028",
@@ -389,7 +416,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'The Search,' the Romulans loan a cloaking device to the Defiant in exchange for intelligence on the Dominion, with the restriction it only be used in the Gamma Quadrant."
   },
   {
     "id": "DS9-029",
@@ -404,7 +432,8 @@
       "C": "Chief Medical Officer",
       "D": "Science Officer"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Odo serves as Chief of Security on DS9, a position he held under Cardassian rule on Terok Nor and continued under Starfleet/Bajoran administration."
   },
   {
     "id": "DS9-030",
@@ -417,7 +446,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Sisko's father, Joseph, owns Sisko's Creole Kitchen in New Orleans, and Benjamin is depicted as an enthusiastic Creole cook throughout the series, frequently preparing meals for family and crew."
   },
   {
     "id": "DS9-031",
@@ -432,7 +462,8 @@
       "C": "The Tears of the Prophets",
       "D": "The Prophet Stones"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "The Tears of the Prophets are nine orbs of Bajoran scripture, each granting visions and considered sacred gifts from the wormhole aliens; the Season 6 finale episode is also titled 'Tears of the Prophets.'"
   },
   {
     "id": "DS9-032",
@@ -445,7 +476,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "DS9 was the first Star Trek series to embrace heavy serialization, particularly through the multi-episode Dominion War arc spanning seasons 5-7—a stark departure from the episodic format of TOS and TNG."
   },
   {
     "id": "DS9-033",
@@ -460,7 +492,8 @@
       "C": "Tobin",
       "D": "Curzon"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "After Jadzia's death in 'Tears of the Prophets,' the Dax symbiont is hastily joined to counselor-in-training Ezri Tigan, who joins the DS9 crew in Season 7's 'Shadows and Symbols.'"
   },
   {
     "id": "DS9-034",
@@ -475,7 +508,8 @@
       "C": "7",
       "D": "8"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Jadzia is Dax's eighth host, preceded by seven prior hosts: Lela, Tobin, Emony, Audrid, Torias, Joran, and Curzon, as established across multiple episodes including 'Equilibrium' and 'Facets.'"
   },
   {
     "id": "DS9-035",
@@ -488,7 +522,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Weyoun, played by Jeffrey Combs, appears in multiple cloned iterations as the chief Vorta diplomat and supervisor of Dominion operations in the Alpha Quadrant during the war."
   },
   {
     "id": "DS9-036",
@@ -503,7 +538,8 @@
       "C": "Extreme Measures",
       "D": "Homefront"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Section 31 is first revealed in the Season 6 episode 'Inquisition,' when Director Sloan kidnaps Bashir to recruit him, exposing the existence of the autonomous black-ops agency."
   },
   {
     "id": "DS9-037",
@@ -516,7 +552,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Changelings must return to their natural liquid form roughly every 16 hours to regenerate; Odo originally used a bucket for this purpose before receiving more sophisticated quarters."
   },
   {
     "id": "DS9-038",
@@ -531,7 +568,8 @@
       "C": "The Link",
       "D": "The Founders' World"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Founders originally lived on a planet within the Omarion Nebula in the Gamma Quadrant; this world is destroyed by the Tal Shiar/Obsidian Order fleet in 'The Die is Cast,' after which they relocate to a new homeworld."
   },
   {
     "id": "DS9-039",
@@ -544,7 +582,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Doctor Bashir, I Presume,' it is revealed that Julian's parents had him genetically enhanced as a child—illegal under Federation law since the Eugenics Wars—and he had concealed the fact for his entire Starfleet career."
   },
   {
     "id": "DS9-040",
@@ -559,7 +598,8 @@
       "C": "The Obsidian Order",
       "D": "The Cardassian Guard"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Garak was an operative of the Obsidian Order, the Cardassian intelligence agency feared throughout the quadrant; he was exiled by Enabran Tain and stationed himself on DS9 as a 'plain, simple tailor.'"
   },
   {
     "id": "DS9-041",
@@ -572,7 +612,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The 30th anniversary episode 'Trials and Tribble-ations' inserts the DS9 crew into TOS footage from 'The Trouble with Tribbles,' as they pursue a Klingon Arne Darvin trying to assassinate Kirk."
   },
   {
     "id": "DS9-042",
@@ -587,7 +628,8 @@
       "C": "Galaxy-class",
       "D": "Defiant-class"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The USS Defiant (NX-74205) is the prototype of the Defiant-class, a compact escort/warship developed in response to the Borg threat after Wolf 359."
   },
   {
     "id": "DS9-043",
@@ -600,7 +642,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Worf and Jadzia marry in 'You Are Cordially Invited' in Season 6, following an extended Klingon courtship that began after his transfer to DS9."
   },
   {
     "id": "DS9-044",
@@ -615,7 +658,8 @@
       "C": "The Confluence",
       "D": "The Great Link"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The Great Link is the communal merging of Changelings into a shared sea of consciousness, in which individual identity dissolves; Odo experiences it for the first time in 'The Search.'"
   },
   {
     "id": "DS9-045",
@@ -628,7 +672,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Dukat allies with and is later possessed by the Pah-wraiths, the banished enemies of the Prophets, in his descent into religious fanaticism culminating in the series finale 'What You Leave Behind.'"
   },
   {
     "id": "DS9-046",
@@ -643,7 +688,8 @@
       "C": "Mirror Universe",
       "D": "Crossover"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The Season 2 episode 'Crossover' established DS9's recurring Mirror Universe storyline, which continued in 'Through the Looking Glass,' 'Shattered Mirror,' 'Resurrection,' and 'The Emperor's New Cloak.'"
   },
   {
     "id": "DS9-047",
@@ -656,7 +702,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Image in the Sand' and 'Shadows and Symbols,' it is revealed that Sisko's birth mother Sarah was a Prophet who possessed a human woman to ensure Benjamin's birth as the Emissary."
   },
   {
     "id": "DS9-048",
@@ -671,7 +718,8 @@
       "C": "An elite special forces unit",
       "D": "A judicial oversight body"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Section 31, named for the section of the Starfleet Charter authorizing extraordinary measures, operates autonomously and outside Federation law, as established in 'Inquisition' and explored in subsequent episodes."
   },
   {
     "id": "DS9-049",
@@ -684,7 +732,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Heart of Stone' Nog requests Sisko's recommendation to the Academy, becoming the first Ferengi in Starfleet; he is later commissioned as an ensign and promoted to lieutenant by the series end."
   },
   {
     "id": "DS9-050",
@@ -699,7 +748,8 @@
       "C": "Dukat (possessed by a Pah-wraith)",
       "D": "A Jem'Hadar soldier"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "In the Season 6 finale 'Tears of the Prophets,' Dukat—then possessed by a Pah-wraith—murders Jadzia in the DS9 temple while attempting to seal the wormhole."
   },
   {
     "id": "DS9-051",
@@ -712,7 +762,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Cardassian Union is governed by the Central Command (military) and the Obsidian Order (intelligence) with the Detapa Council ostensibly civilian; their society values duty, obedience, and family above all."
   },
   {
     "id": "DS9-052",
@@ -727,7 +778,8 @@
       "C": "Cardassia Outpost Alpha",
       "D": "Empok Nor"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "DS9 was originally Terok Nor, a Cardassian-built mining and processing station in orbit over Bajor during the Occupation; it was renamed when Bajor invited Starfleet to administer it."
   },
   {
     "id": "DS9-053",
@@ -740,7 +792,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Initially Dukat's loyal aide, Corat Damar succeeds him as Cardassian leader under the Dominion, but in Season 7 he founds the Cardassian Rebellion against Weyoun, dying in the final assault on Cardassia."
   },
   {
     "id": "DS9-054",
@@ -755,7 +808,8 @@
       "C": "Pulse phaser cannons",
       "D": "Tricobalt devices"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "The Defiant is equipped with rapid-fire pulse phaser cannons rather than standard phaser arrays, allowing it to deliver concentrated forward firepower against capital ships and fleets."
   },
   {
     "id": "DS9-055",
@@ -768,7 +822,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'You Are Cordially Invited,' Worf and Jadzia's wedding follows traditional Klingon ritual including the holosuite reenactment of Kahless and Lukara's stand at the Great Hall of Qam-Chee."
   },
   {
     "id": "DS9-056",
@@ -783,7 +838,8 @@
       "C": "To prevent a Borg invasion",
       "D": "To restore Sisko from temporal displacement"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "In 'The Visitor,' an elderly Jake takes his own life to release his father from a subspace anomaly that had pulled Sisko out of normal time, restoring the original timeline."
   },
   {
     "id": "DS9-057",
@@ -796,7 +852,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Pah-wraiths are wormhole aliens banished from the Celestial Temple by the Prophets long ago, imprisoned in the Fire Caves of Bajor, and considered demonic spirits in Bajoran theology."
   },
   {
     "id": "DS9-058",
@@ -811,7 +868,8 @@
       "C": "Neebs",
       "D": "Zek"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Grand Nagus Zek, played by Wallace Shawn, frequently visits DS9 and entrusts Quark with various commercial dealings; he ultimately retires and selects Rom as his successor in 'The Dogs of War.'"
   },
   {
     "id": "DS9-059",
@@ -824,7 +882,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "'What You Leave Behind,' a feature-length double episode airing June 2, 1999, concludes the Dominion War, Sisko's destiny as the Emissary, and the series itself."
   },
   {
     "id": "DS9-060",
@@ -839,7 +898,8 @@
       "C": "Taste and flavor (they find most food bland)",
       "D": "Sound frequencies"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Weyoun remarks several times (notably in 'Treachery, Faith and the Great River') that the Founders genetically engineered the Vorta with deliberately diminished aesthetic senses, including a poor sense of taste."
   },
   {
     "id": "DS9-061",
@@ -852,7 +912,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Odo's mentor and father figure is the Bajoran scientist Dr. Mora Pol, who studied him as an unknown life form. Kira is Odo's eventual romantic partner, not his father figure."
   },
   {
     "id": "DS9-062",
@@ -867,7 +928,8 @@
       "C": "Ak'voh",
       "D": "Death Howl"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The Klingon death ritual involves the warrior's comrades opening the deceased's eyes and roaring at the sky to warn the dead that a Klingon warrior is arriving; first depicted in TNG's 'Heart of Glory' and reused throughout DS9."
   },
   {
     "id": "DS9-063",
@@ -880,7 +942,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Cardassian Occupation of Bajor lasted roughly 50 years (c. 2319 to 2369), ending shortly before the events of 'Emissary' and leaving Bajor traumatized and impoverished."
   },
   {
     "id": "DS9-064",
@@ -895,7 +958,8 @@
       "C": "Dixon Hill",
       "D": "James Bond"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Bashir and O'Brien frequently use the 'Julian Bashir, Secret Agent' holosuite program—a Bond-style 1960s spy fantasy—introduced in 'Our Man Bashir' in Season 4."
   },
   {
     "id": "DS9-065",
@@ -908,7 +972,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Garak repeatedly insists he is 'just a plain, simple tailor,' but is in fact a former operative of the Obsidian Order, the Cardassian intelligence service led by his father Enabran Tain."
   },
   {
     "id": "DS9-066",
@@ -923,7 +988,8 @@
       "C": "Grand Kai",
       "D": "Kai"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The Kai is the spiritual leader of the Bajoran people, elected by the Vedek Assembly; Kai Opaka, Kai Winn Adami, and Kai Bareil are featured during the series."
   },
   {
     "id": "DS9-067",
@@ -938,7 +1004,8 @@
       "C": "Torturing a Cardassian prisoner",
       "D": "Assassinating Dukat"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'In the Pale Moonlight,' Sisko conspires with Garak to forge a Dominion attack plan that, after a Romulan senator's assassination, brings the Romulan Empire into the war against the Dominion. Sisko famously concludes 'I can live with it.'"
   },
   {
     "id": "DS9-068",
@@ -951,7 +1018,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Curzon Dax, the seventh Dax host and a Federation ambassador, was Sisko's mentor and close friend; their relationship continues into Sisko's friendship with Jadzia and is dramatized in 'Emissary' and 'Blood Oath.'"
   },
   {
     "id": "DS9-069",
@@ -966,7 +1034,8 @@
       "C": "Isogenic enzyme",
       "D": "Morphogenic enzyme"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Ketracel-white (also called 'the white') is the isogenic enzyme the Jem'Hadar lack and require to live; the Vorta dispense it via tubes in their necks, ensuring loyalty through chemical dependency."
   },
   {
     "id": "DS9-070",
@@ -979,7 +1048,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "As stated in 'The Search, Part I,' the Defiant was developed as a prototype warship to counter the Borg threat following the Battle of Wolf 359, though the program was mothballed before being reactivated for use against the Dominion."
   },
   {
     "id": "DS9-071",
@@ -994,7 +1064,8 @@
       "C": "Laas",
       "D": "The Founder"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The recurring Founder antagonist played by Salome Jens is never given a personal name on screen; she is credited and referred to only as 'the Female Changeling.'"
   },
   {
     "id": "DS9-072",
@@ -1007,7 +1078,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'What You Leave Behind,' the Female Changeling orders the extermination of the Cardassian people as retribution for Damar's rebellion; an estimated 800 million Cardassians die before the surrender."
   },
   {
     "id": "DS9-073",
@@ -1022,7 +1094,8 @@
       "C": "A Starfleet admiral in 1950s New York",
       "D": "Benny Russell, a 1950s science fiction writer"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "In 'Far Beyond the Stars,' Sisko experiences visions of being Benny Russell, a Black science fiction writer in 1950s New York whose story about a space station commander named Sisko is suppressed by his editor."
   },
   {
     "id": "DS9-074",
@@ -1035,7 +1108,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "As revealed in 'Equilibrium,' Joran Belar was the sixth Dax host, a violent murderer whose existence the Trill Symbiosis Commission concealed; Jadzia recovers his memories during the episode."
   },
   {
     "id": "DS9-075",
@@ -1050,7 +1124,8 @@
       "C": "The Ohalu Prophecy",
       "D": "The Reckoning"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The Reckoning is the ancient Bajoran prophecy of a final confrontation between the Prophets and the Pah-wraiths, dramatized in the Season 6 episode of the same name."
   },
   {
     "id": "DS9-076",
@@ -1063,7 +1138,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'When It Rains...' and 'Extreme Measures,' it is revealed Section 31 infected Odo with a morphogenic virus during his visit to Starfleet Medical in 'Homefront,' using him as a vector to spread the disease throughout the Great Link."
   },
   {
     "id": "DS9-077",
@@ -1078,7 +1154,8 @@
       "C": "USS Rio Grande",
       "D": "USS Orinoco"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The runabout USS Yangtzee Kiang is destroyed in 'Battle Lines' (Season 1), crashing on a moon in the Gamma Quadrant where Kai Opaka is killed and then resurrected by microbes."
   },
   {
     "id": "DS9-078",
@@ -1091,7 +1168,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Duras sisters Lursa and B'Etor, recurring TNG antagonists, appear in the Season 1 DS9 episode 'Past Prologue,' attempting to sell weapons to Bajoran extremist Tahna Los before being killed in Star Trek: Generations."
   },
   {
     "id": "DS9-079",
@@ -1106,7 +1184,8 @@
       "C": "Skrain Dukat",
       "D": "Corat Damar"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Legate Corat Damar (played by Casey Biggs) rises from Dukat's aide to Cardassian head of state under Dominion rule, then leads the Cardassian Rebellion against Weyoun in Season 7 before being killed liberating Cardassia Prime."
   },
   {
     "id": "DS9-080",
@@ -1119,7 +1198,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In the Season 6 episode 'Sacrifice of Angels,' Sisko begs the Prophets to stop a 2,800-ship Dominion reinforcement fleet from emerging from the wormhole; they vanish the entire fleet, with the price being Sisko's eventual departure."
   },
   {
     "id": "DS9-081",
@@ -1134,7 +1214,8 @@
       "C": "3",
       "D": "6"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Multiple Weyoun clones appear across the series after Weyoun 4's death—including Weyoun 5, 6 (the defector), 7, and 8—as the Founders activate replacement clones to continue his role as Dominion supervisor."
   },
   {
     "id": "DS9-082",
@@ -1147,7 +1228,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Enabran Tain, head of the Obsidian Order, is revealed in 'The Wire' and 'In Purgatory's Shadow' to be Garak's biological father; their tortured relationship is a major arc of Garak's backstory."
   },
   {
     "id": "DS9-083",
@@ -1162,7 +1244,8 @@
       "C": "5 years",
       "D": "2 years"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The Dominion War began with the Cardassian-Dominion alliance and the Federation's mining of the wormhole in late 2373 ('Call to Arms') and ended with the signing of the Treaty of Bajor in 2375—approximately two years."
   },
   {
     "id": "DS9-084",
@@ -1175,7 +1258,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Empok Nor, featured in the Season 5 episode 'Empok Nor,' is a sister station to Terok Nor (DS9), of the same Nor-class Cardassian design, abandoned in the Trivas system."
   },
   {
     "id": "DS9-085",
@@ -1190,7 +1274,8 @@
       "C": "Federation defeat and billions of deaths unless they surrender",
       "D": "The destruction of Deep Space 9"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "In 'Statistical Probabilities,' Bashir's fellow genetically enhanced 'Jack Pack' calculate that Federation defeat is virtually certain and recommend immediate surrender to minimize the projected 900+ billion deaths."
   },
   {
     "id": "DS9-086",
@@ -1203,7 +1288,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In the finale 'What You Leave Behind,' Odo returns to the Great Link to cure his people of the Section 31 virus, leaving Kira and DS9 behind as part of the war's resolution."
   },
   {
     "id": "DS9-087",
@@ -1218,7 +1304,8 @@
       "C": "The Seers",
       "D": "The Beings"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Bajorans call the non-linear wormhole aliens 'the Prophets,' worshipping them as gods who reside in the Celestial Temple and communicate through the Orbs and the Emissary."
   },
   {
     "id": "DS9-088",
@@ -1231,7 +1318,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Federation forces targeted Dominion ketracel-white storage depots and supply lines (such as in 'A Time to Stand') to weaken the Jem'Hadar, since the supply was their lifeline; the Dominion guarded these convoys heavily."
   },
   {
     "id": "DS9-089",
@@ -1246,7 +1334,8 @@
       "C": "Palandine",
       "D": "Mila"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Mila, the housekeeper at Enabran Tain's estate, is revealed (most explicitly in 'When It Rains...' and in Andrew Robinson's novel A Stitch in Time) to be Garak's mother and Tain's longtime mistress."
   },
   {
     "id": "DS9-090",
@@ -1259,7 +1348,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'What You Leave Behind,' Sisko tackles the Pah-wraith-possessed Dukat into the Fire Caves on Bajor, sealing them away, then joins the Prophets in the Celestial Temple, promising Kasidy he will one day return."
   },
   {
     "id": "DS9-091",
@@ -1274,7 +1364,8 @@
       "C": "Enabran Tain",
       "D": "Gul Dukat"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Enabran Tain headed the Obsidian Order until its destruction in 'The Die is Cast,' when a joint Tal Shiar/Obsidian Order strike on the Founders' homeworld was annihilated by the Dominion."
   },
   {
     "id": "DS9-092",
@@ -1287,7 +1378,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Treachery, Faith and the Great River,' Weyoun 6 recounts that the Vorta were primitive ape-like forest creatures who once sheltered a Founder from hunters; in gratitude, the Founders genetically engineered them into the Dominion's administrative caste."
   },
   {
     "id": "DS9-093",
@@ -1302,7 +1394,8 @@
       "C": "Season 1",
       "D": "Season 3"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Season 3 opens with 'The Search,' in which Sisko brings the Defiant to the Gamma Quadrant to confront the Dominion directly and encounters the Founders for the first time, establishing the central antagonist for the remainder of the series."
   },
   {
     "id": "DS9-094",
@@ -1315,7 +1408,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In the penultimate episode 'The Dogs of War,' Zek retires and names Rom—the unlikely social reformer—as the next Grand Nagus, signaling sweeping change to Ferengi society."
   },
   {
     "id": "DS9-095",
@@ -1330,7 +1424,8 @@
       "C": "The final assault on Cardassia",
       "D": "The siege of AR-558"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The original Defiant is destroyed by Breen energy-dampening weapons during the Second Battle of Chin'toka in 'The Changing Face of Evil' (Season 7); the USS Sao Paulo is renamed Defiant as its replacement."
   },
   {
     "id": "DS9-096",

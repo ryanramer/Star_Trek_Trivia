@@ -274,9 +274,23 @@ function selectAnswer(key) {
     fb.classList.remove('hidden');
     fb.classList.toggle('correct', isCorrect);
     fb.classList.toggle('wrong', !isCorrect);
-    fb.textContent = isCorrect
+
+    // Clear previous content
+    fb.innerHTML = '';
+
+    const headline = document.createElement('div');
+    headline.className = 'feedback-headline';
+    headline.textContent = isCorrect
         ? 'CORRECT!'
         : `WRONG — Correct: ${q.correct}. ${q.answers[q.correct]}`;
+    fb.appendChild(headline);
+
+    if (q.explanation) {
+        const exp = document.createElement('div');
+        exp.className = 'feedback-explanation';
+        exp.textContent = q.explanation;
+        fb.appendChild(exp);
+    }
 
     $('score').textContent = `Score: ${state.score}`;
     const nextBtn = $('next-btn');
@@ -385,6 +399,13 @@ function showResults() {
             right.className = 'missed-correct';
             right.textContent = `Correct:    ${a.correct}. ${q.answers[a.correct]}`;
             div.appendChild(right);
+
+            if (q.explanation) {
+                const exp = document.createElement('div');
+                exp.className = 'missed-explanation';
+                exp.textContent = q.explanation;
+                div.appendChild(exp);
+            }
 
             missedDiv.appendChild(div);
         });

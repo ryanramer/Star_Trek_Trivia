@@ -41,6 +41,7 @@ Write-Log INFO '=================================================='
 
 # ---------- INPUTS ----------
 $Inputs = @(
+    @{ File = 'tos_trivia.json'; Series = 'TOS' },
     @{ File = 'tng_trivia.json'; Series = 'TNG' },
     @{ File = 'ds9_trivia.json'; Series = 'DS9' },
     @{ File = 'voy_trivia.json'; Series = 'VOY' }

@@ -12,7 +12,8 @@
       "C": "Paris",
       "D": "Tuvok"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Captain Kathryn Janeway, played by Kate Mulgrew, commands the USS Voyager throughout the series, beginning with the pilot 'Caretaker.'"
   },
   {
     "id": "VOY-002",
@@ -25,7 +26,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In the pilot 'Caretaker,' the Caretaker entity pulls Voyager into the Delta Quadrant, stranding the ship approximately 70,000 light years from home."
   },
   {
     "id": "VOY-003",
@@ -40,7 +42,8 @@
       "C": "Nova-class",
       "D": "Sovereign-class"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The USS Voyager (NCC-74656) is an Intrepid-class starship, a long-range science vessel designed for deep space exploration."
   },
   {
     "id": "VOY-004",
@@ -53,7 +56,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Seven of Nine, born Annika Hansen, was assimilated by the Borg as a child and severed from the Collective by Janeway in 'Scorpion, Part II' (Season 4)."
   },
   {
     "id": "VOY-005",
@@ -68,7 +72,8 @@
       "C": "Dr. Bashir",
       "D": "The Doctor"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Voyager's Emergency Medical Hologram, played by Robert Picardo, is simply called 'The Doctor' throughout the series, never settling on a permanent name."
   },
   {
     "id": "VOY-006",
@@ -81,7 +86,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Kazon, divided into rival sects, serve as Voyager's primary antagonists in Seasons 1 and 2, culminating in the takeover of Voyager in 'Basics.'"
   },
   {
     "id": "VOY-007",
@@ -96,7 +102,8 @@
       "C": "Security Chief",
       "D": "First Officer"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Chakotay, formerly a Maquis captain, accepts a commission as Commander and First Officer when his crew merges with Janeway's in 'Caretaker.'"
   },
   {
     "id": "VOY-008",
@@ -109,7 +116,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Lt. Tom Paris, recruited by Janeway from the Federation penal colony in New Zealand, serves as Voyager's chief conn officer and helmsman throughout the series."
   },
   {
     "id": "VOY-009",
@@ -124,7 +132,8 @@
       "C": "25,000 light years",
       "D": "50,000 light years"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "In 'Caretaker,' Janeway notes the ship is approximately 70,000 light years from Federation space, which would take roughly 75 years to traverse at maximum warp."
   },
   {
     "id": "VOY-010",
@@ -137,7 +146,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "B'Elanna Torres, daughter of a human father and a Klingon mother, is promoted to Chief Engineer by Janeway in 'Parallax' (Season 1)."
   },
   {
     "id": "VOY-011",
@@ -152,7 +162,8 @@
       "C": "Romulan",
       "D": "Bajoran"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Lt. Commander Tuvok, Voyager's tactical and security officer, is a Vulcan who had infiltrated Chakotay's Maquis cell as Janeway's undercover operative."
   },
   {
     "id": "VOY-012",
@@ -165,7 +176,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Neelix joins Voyager in 'Caretaker' and serves as cook, ambassador, and self-appointed morale officer; Janeway formally appoints him Morale Officer in 'Investigations.'"
   },
   {
     "id": "VOY-013",
@@ -180,7 +192,8 @@
       "C": "Ablative hull armor",
       "D": "Quantum slipstream drive"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Voyager's computer systems use bio-neural gel packs - organic processors that improve response time over traditional isolinear circuitry, as first explained in 'Caretaker' and central to the plot of 'Learning Curve.'"
   },
   {
     "id": "VOY-014",
@@ -193,7 +206,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Introduced in 'Scorpion,' Species 8472 are biologically advanced beings from fluidic space whose tissue is resistant to Borg assimilation, making them powerful enough to threaten the Collective itself."
   },
   {
     "id": "VOY-015",
@@ -208,7 +222,8 @@
       "C": "Annika Hansen",
       "D": "Erin Hansen"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Seven of Nine was born Annika Hansen and was assimilated at age six along with her parents Magnus and Erin Hansen, exobiologists studying the Borg ('The Raven')."
   },
   {
     "id": "VOY-016",
@@ -221,7 +236,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Caretaker, a Nacene entity protecting the Ocampa, pulls Voyager across the galaxy searching for a compatible mate; he dies in the pilot episode before he can send the ship home."
   },
   {
     "id": "VOY-017",
@@ -236,7 +252,8 @@
       "C": "Ocampan",
       "D": "Kazon"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Neelix is a Talaxian, a species from the Delta Quadrant whose homeworld region was devastated by the Haakonian Order, as revealed in 'Jetrel.'"
   },
   {
     "id": "VOY-018",
@@ -249,7 +266,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Kes, an Ocampa rescued from the Caretaker's array in the pilot, has a natural lifespan of approximately nine years - a fact that drives much of her storyline."
   },
   {
     "id": "VOY-019",
@@ -264,7 +282,8 @@
       "C": "NCC-74205",
       "D": "NCC-74656"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The USS Voyager bears the registry number NCC-74656, shown on the ship's hull and identified in dialogue throughout the series."
   },
   {
     "id": "VOY-020",
@@ -277,7 +296,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "After the Maquis ship Val Jean is destroyed in 'Caretaker,' Janeway integrates Chakotay's surviving Maquis crew into Voyager's complement under Starfleet protocols."
   },
   {
     "id": "VOY-021",
@@ -292,7 +312,8 @@
       "C": "Tuvok",
       "D": "Chakotay"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Ensign Harry Kim, fresh out of Starfleet Academy, serves as Voyager's Operations Officer and famously remains an Ensign for the entire seven-year journey."
   },
   {
     "id": "VOY-022",
@@ -305,7 +326,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Hirogen, introduced in 'Hunters' (Season 4), are a nomadic warrior culture that travels in hunting parties, collecting trophies (relics) from worthy prey."
   },
   {
     "id": "VOY-023",
@@ -320,7 +342,8 @@
       "C": "Vulcan spice tea",
       "D": "Earl Grey tea, hot"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Janeway's love of coffee is a running gag throughout the series; she famously orders 'Coffee, black' and calls coffee 'the finest organic suspension ever devised' in 'Hunters.'"
   },
   {
     "id": "VOY-024",
@@ -333,7 +356,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Dr. Lewis Zimmerman of the Jupiter Station Holoprogramming Center designed the EMH Mark I, basing its appearance on himself, as revealed in 'The Swarm' and 'Life Line.'"
   },
   {
     "id": "VOY-025",
@@ -348,7 +372,8 @@
       "C": "A Borg transwarp hub",
       "D": "Transwarp conduit"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "In 'Endgame,' Voyager uses one of six Borg transwarp conduits within a hub to return home, simultaneously destroying the hub from inside a Borg sphere."
   },
   {
     "id": "VOY-026",
@@ -361,7 +386,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Delta Quadrant is the Borg's home territory, and Voyager has repeated encounters with the Collective starting in 'Blood Fever' / 'Unity' and the 'Scorpion' two-parter."
   },
   {
     "id": "VOY-027",
@@ -376,7 +402,8 @@
       "C": "Seven of Nine",
       "D": "Samantha Wildman"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Tom Paris and B'Elanna Torres begin a relationship in 'Day of Honor' (Season 4), marry in 'Drive' (Season 7), and have a daughter named Miral in 'Endgame.'"
   },
   {
     "id": "VOY-028",
@@ -389,7 +416,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Chakotay, a former Starfleet officer, resigned to join the Maquis and captained the Val Jean before being stranded with Voyager in 'Caretaker.'"
   },
   {
     "id": "VOY-029",
@@ -404,7 +432,8 @@
       "C": "She is a symbolic figurehead only",
       "D": "She manages diplomatic relations"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The Borg Queen, established in Star Trek: First Contact and continued in Voyager ('Dark Frontier,' 'Unimatrix Zero,' 'Endgame'), serves as the central consciousness and coordinating intelligence of the Collective."
   },
   {
     "id": "VOY-030",
@@ -417,7 +446,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "After the death of the Chief Medical Officer in the pilot, the EMH (The Doctor) becomes Voyager's permanent Chief Medical Officer for the duration of the series."
   },
   {
     "id": "VOY-031",
@@ -432,7 +462,8 @@
       "C": "Seska",
       "D": "Chakotay"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Chakotay, captain of the Maquis ship Val Jean, accepts a field commission as Commander and becomes Voyager's First Officer in 'Caretaker.'"
   },
   {
     "id": "VOY-032",
@@ -445,7 +476,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Seska, revealed in 'State of Flux' to be a Cardassian Obsidian Order operative surgically altered to appear Bajoran, defects to the Kazon and becomes a recurring antagonist."
   },
   {
     "id": "VOY-033",
@@ -460,7 +492,8 @@
       "C": "Caretaker",
       "D": "Deadlock"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "'Caretaker,' the two-hour pilot that aired January 16, 1995, introduces the crew and establishes Voyager's stranding in the Delta Quadrant."
   },
   {
     "id": "VOY-034",
@@ -475,7 +508,8 @@
       "C": "Luciano Pavarotti",
       "D": "Enrico Caruso"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The Doctor pursues opera as a hobby and performs his own holographic operatic shows on the holodeck, most notably in 'Virtuoso' where he becomes a celebrity on a Qomar world."
   },
   {
     "id": "VOY-035",
@@ -488,7 +522,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Annika Hansen was assimilated at age six along with her parents Magnus and Erin Hansen, who were studying the Borg from their ship the Raven ('The Raven,' 'Dark Frontier')."
   },
   {
     "id": "VOY-036",
@@ -503,7 +538,8 @@
       "C": "10 times faster",
       "D": "1,000 times faster"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Blink of an Eye' (Season 6), the planet's tachyon-affected time dilation causes a day on Voyager to equal years on the surface, with civilization advancing from primitive tribes to spaceflight while Voyager remains stuck in orbit."
   },
   {
     "id": "VOY-037",
@@ -516,7 +552,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Voyager uses a standard deuterium/antideuterium matter-antimatter reactor moderated by dilithium crystals, consistent with other Federation starship designs."
   },
   {
     "id": "VOY-038",
@@ -531,7 +568,8 @@
       "C": "The Delta Quadrant nebula",
       "D": "Fluidic space"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Species 8472 comes from fluidic space, an alternate dimension consisting entirely of organic fluid, accessed through quantum singularities ('Scorpion,' Parts I and II)."
   },
   {
     "id": "VOY-039",
@@ -544,7 +582,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Harry Kim remains an Ensign for all seven seasons of Voyager, a long-running joke among fans and frequently lampooned in the series itself."
   },
   {
     "id": "VOY-040",
@@ -559,7 +598,8 @@
       "C": "A temporal weapon ship",
       "D": "A time loop device"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Annorax commands a Krenim temporal weapon ship in 'Year of Hell' (Season 4) that uses temporal incursions to erase entire species and civilizations from the timeline."
   },
   {
     "id": "VOY-041",
@@ -572,7 +612,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Tuvok and Janeway served together aboard the USS Billings under Captain Paris years before Voyager; their long friendship is referenced throughout the series, particularly in 'Flashback' and 'Resolutions.'"
   },
   {
     "id": "VOY-042",
@@ -587,7 +628,8 @@
       "C": "The Hazari",
       "D": "The Devore"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "In 'Think Tank' (Season 5), the group is a collective of unrelated species - led by Kurros (Jason Alexander) - who solve problems for payment and operate independently of any government or species."
   },
   {
     "id": "VOY-043",
@@ -600,7 +642,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Hope and Fear' (Season 4), Voyager experiments with a quantum slipstream drive on the Arturis-supplied USS Dauntless, traveling 300 light years before the field destabilizes."
   },
   {
     "id": "VOY-044",
@@ -615,7 +658,8 @@
       "C": "Icheb, Mezoti, Rebi, and Azan",
       "D": "Icheb, Seven, and Three of Five"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "In 'Collective' (Season 6), Voyager rescues four Borg children - Icheb, Mezoti, and twins Rebi and Azan - from a damaged cube. Icheb remains aboard the longest, becoming Seven's protégé."
   },
   {
     "id": "VOY-045",
@@ -628,7 +672,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Malon, introduced in 'Night' (Season 5), are an industrial species whose freighters dump toxic theta radiation waste into uninhabited regions of space, often causing ecological devastation."
   },
   {
     "id": "VOY-046",
@@ -643,7 +688,8 @@
       "C": "A mirror universe incursion",
       "D": "A spatial anomaly causes a duplicate Voyager in a parallel dimension"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "In 'Deadlock' (Season 2), passing through a plasma cloud creates a duplicate Voyager in a parallel space; one version eventually self-destructs to defeat a Vidiian boarding party, with the Harry Kim and baby Naomi Wildman from the destroyed ship surviving."
   },
   {
     "id": "VOY-047",
@@ -656,7 +702,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Naomi Wildman, daughter of Ensign Samantha Wildman and Ktarian Greskrendtregk, is born in 'Deadlock' (Season 2) and is established as the first child born aboard Voyager."
   },
   {
     "id": "VOY-048",
@@ -671,7 +718,8 @@
       "C": "EMH Mark I",
       "D": "Holodoc"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "The Doctor is the EMH Mark I (Emergency Medical Hologram Mark I), the standard designation for Dr. Zimmerman's first-generation holographic medical program installed on Voyager."
   },
   {
     "id": "VOY-049",
@@ -684,7 +732,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Devore Imperium, introduced in 'Counterpoint' (Season 5), is a xenophobic empire that persecutes and detains telepaths; Janeway smuggles Brenari refugees through their space."
   },
   {
     "id": "VOY-050",
@@ -699,7 +748,8 @@
       "C": "All Good Things",
       "D": "Endgame"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "'Endgame,' the two-hour series finale that aired May 23, 2001, depicts Voyager's return to Earth via a Borg transwarp hub with help from a future Admiral Janeway."
   },
   {
     "id": "VOY-051",
@@ -712,7 +762,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Tom Paris was incarcerated at the Federation penal settlement in New Zealand when Janeway recruited him as an observer/pilot in 'Caretaker,' offering him a chance at redemption."
   },
   {
     "id": "VOY-052",
@@ -727,7 +778,8 @@
       "C": "Maje Jabin",
       "D": "Maje Razik"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Maje Cullah of the Kazon-Nistrim sect, played by Anthony De Longis, is Seska's ally and Voyager's primary Kazon antagonist, culminating in the 'Basics' two-parter where they briefly capture the ship."
   },
   {
     "id": "VOY-053",
@@ -740,7 +792,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Starting in 'Future's End' (Season 3), the Doctor acquires a 29th-century autonomous mobile emitter that allows him to operate anywhere, freeing him from sickbay and the holodeck."
   },
   {
     "id": "VOY-054",
@@ -755,7 +808,8 @@
       "C": "The 29th century",
       "D": "The 22nd century"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "The Doctor's mobile emitter is 29th-century technology obtained from a future timeship in 'Future's End,' representing technology approximately 500 years beyond Voyager's era."
   },
   {
     "id": "VOY-055",
@@ -768,7 +822,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Her full Borg designation, established in 'Scorpion, Part II,' is 'Seven of Nine, Tertiary Adjunct of Unimatrix Zero-One,' which is shortened to Seven of Nine after her severance from the Collective."
   },
   {
     "id": "VOY-056",
@@ -783,7 +838,8 @@
       "C": "On Earth, descended from dinosaurs",
       "D": "From a generation ship"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "In 'Distant Origin' (Season 3), Voyager's crew helps Voth scientist Forra Gegen prove that the Voth descend from Earth's hadrosaurs that fled before the K-T extinction event, a theory their religious 'Doctrine' suppresses."
   },
   {
     "id": "VOY-057",
@@ -796,7 +852,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Threshold' (Season 2), Paris breaks the transwarp threshold of warp 10 and undergoes a hyper-evolutionary transformation into an amphibious creature; he and Janeway, both mutated, produce offspring together before being restored."
   },
   {
     "id": "VOY-058",
@@ -811,7 +868,8 @@
       "C": "Atheism and logic",
       "D": "He follows Bajoran religious customs"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Chakotay is from a fictional Native American colony world and practices spirit-guide traditions, frequently using a medicine wheel and pakma'ra to enter vision quests throughout the series."
   },
   {
     "id": "VOY-059",
@@ -824,7 +882,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Q2' (Season 7), Q brings his troublesome son (also called Q) to Voyager so Janeway can mentor him; in earlier appearances ('Death Wish,' 'The Q and the Grey') Q develops a relationship with Janeway that leads to the son's birth."
   },
   {
     "id": "VOY-060",
@@ -839,7 +898,8 @@
       "C": "Starfleet Deep Space Relay Network",
       "D": "The Midas Array via MIDAS and Project Pathfinder"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Starfleet uses the MIDAS array, a deep-space telescope, to bounce a hyper-subspace signal off a pulsar and reach Voyager as part of Project Pathfinder, beginning in the episode 'Pathfinder' (Season 6)."
   },
   {
     "id": "VOY-061",
@@ -852,7 +912,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "TNG's Reginald Barclay (Dwight Schultz) is the obsessed Starfleet engineer who devises the method to contact Voyager in 'Pathfinder' and becomes a recurring presence in Earth-side episodes like 'Inside Man' and 'Author, Author.'"
   },
   {
     "id": "VOY-062",
@@ -867,7 +928,8 @@
       "C": "400 years",
       "D": "200 years"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "In 'Living Witness' (Season 4), a backup module of the Doctor is reactivated approximately 700 years after Voyager's encounter with the Kyrian and Vaskan peoples, who have built distorted historical reconstructions of Voyager's crew."
   },
   {
     "id": "VOY-063",
@@ -880,7 +942,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Caretaker' and continued in 'Parallax,' Janeway issues field commissions and provisional Starfleet ranks to the Maquis crew (Chakotay as Commander, Torres as Lieutenant) to unify the ships under Starfleet protocol."
   },
   {
     "id": "VOY-064",
@@ -895,7 +958,8 @@
       "C": "Competitive chess",
       "D": "Writing holographic novels"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The Doctor's lifelong passion is opera, central to episodes including 'Virtuoso,' 'Tinker Tenor Doctor Spy,' and many others; Robert Picardo's real-life singing background informs the character."
   },
   {
     "id": "VOY-065",
@@ -908,7 +972,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Talaxians, including Neelix and the colony he eventually joins in 'Homestead' (Season 7), are depicted as a warm, family-oriented, and hospitable species."
   },
   {
     "id": "VOY-066",
@@ -923,7 +988,8 @@
       "C": "The Vidiians",
       "D": "The Hirogen"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Jetrel' (Season 1), the Haakonian Order ended their war with the Talaxians by using the metreon cascade weapon on the moon Rinax, killing Neelix's family and an estimated 300,000 Talaxians."
   },
   {
     "id": "VOY-067",
@@ -938,7 +1004,8 @@
       "C": "The hub has no specific name",
       "D": "Conduit Omega"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "In 'Endgame,' the Borg transwarp hub is identified only as one of six in the galaxy ('a transwarp hub') and is never given a unique name in dialogue."
   },
   {
     "id": "VOY-068",
@@ -951,7 +1018,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Magnus and Erin Hansen, exobiologists, took their daughter Annika on a multi-year expedition aboard the USS Raven to study the Borg, ultimately resulting in the family's assimilation ('The Raven,' 'Dark Frontier')."
   },
   {
     "id": "VOY-069",
@@ -966,7 +1034,8 @@
       "C": "The Borg assimilation of Voyager",
       "D": "Janeway's death"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "In 'Timeless' (the 100th episode), Voyager crashes on an ice planet during a failed quantum slipstream test; 15 years later, Kim and Chakotay use a Borg temporal transmitter to send corrections back in time to prevent the disaster."
   },
   {
     "id": "VOY-070",
@@ -979,7 +1048,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In the 'Unimatrix Zero' two-parter (Seasons 6/7), a small subset of drones with a recessive mutation share a virtual sanctuary during regeneration cycles where they retain individuality and form a secret resistance."
   },
   {
     "id": "VOY-071",
@@ -994,7 +1064,8 @@
       "C": "USS Relativity",
       "D": "USS Rhode Island"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "In 'Endgame,' future Admiral Janeway borrows the USS Rhode Island (Nova-class, captained by a future Harry Kim) to provide cover during her temporal incursion to alter Voyager's journey home."
   },
   {
     "id": "VOY-072",
@@ -1007,7 +1078,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The ablative generator armor and transphasic torpedoes used in 'Endgame' are future Starfleet technology brought back by Admiral Janeway from the late 24th century, not Borg-derived; the Borg consider them entirely unfamiliar."
   },
   {
     "id": "VOY-073",
@@ -1022,7 +1094,8 @@
       "C": "Using an ancient subspace highway for rapid travel and conquest",
       "D": "Enslaving the Talaxians"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "In 'Dragon's Teeth' (Season 6), Voyager revives Vaadwaur soldiers from 900 years of stasis; the species had once used a network of underspace corridors for rapid conquest before being driven to near-extinction."
   },
   {
     "id": "VOY-074",
@@ -1035,7 +1108,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Imperfection' (Season 7), Icheb risks his life by donating his cortical node to replace Seven's failing one, despite the Doctor's objections; the procedure succeeds and both survive."
   },
   {
     "id": "VOY-075",
@@ -1050,7 +1124,8 @@
       "C": "They are Hirogen replicas",
       "D": "They are future versions of the crew"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "In 'Course: Oblivion' (Season 5), the entire crew is revealed to be silver-blood biomimetic duplicates created in 'Demon' (Season 4); their ship and bodies disintegrate as they vainly attempt to reach Earth."
   },
   {
     "id": "VOY-076",
@@ -1063,7 +1138,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Stated in 'Caretaker' and confirmed in the Voyager Technical Manual, the Intrepid-class's maximum sustainable cruise velocity is warp 9.975, achievable thanks to its variable-geometry warp nacelles."
   },
   {
     "id": "VOY-077",
@@ -1078,7 +1154,8 @@
       "C": "To stop a temporal paradox",
       "D": "To prevent the Borg from winning a war"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "In 'Endgame,' Admiral Janeway travels back from a future where Voyager took 23 more years to return home, motivated by losses including Seven, Chakotay, and a debilitated Tuvok."
   },
   {
     "id": "VOY-078",
@@ -1091,7 +1168,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Krenim Imperium, led by the obsessed historian Annorax in 'Year of Hell, Parts I and II,' employs a chroniton-based temporal weapon ship to erase rivals from history and restore their lost empire."
   },
   {
     "id": "VOY-079",
@@ -1106,7 +1184,8 @@
       "C": "The 2000s",
       "D": "The 1970s"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "In 'Future's End' (Season 3), Voyager is pulled to 1996 Los Angeles, where they confront Henry Starling, a tech mogul who built his empire on technology stolen from a crashed 29th-century timeship."
   },
   {
     "id": "VOY-080",
@@ -1119,7 +1198,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Not all - some Maquis like Chakotay quickly aligned with Janeway, and the initial planned 'Maquis vs. Starfleet' tension was downplayed by the show's writers in favor of a more unified crew dynamic after the first season."
   },
   {
     "id": "VOY-081",
@@ -1134,7 +1214,8 @@
       "C": "Voyager sues the Doctor for breach of privacy",
       "D": "The Doctor's novel gets published and a holographic character in it becomes real"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "In 'Muse' (Season 6), B'Elanna crashes on a pre-warp world where a poet named Kelis discovers her and adapts her recovered logs and stories of Voyager into theatrical productions for his patrons."
   },
   {
     "id": "VOY-082",
@@ -1147,7 +1228,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Vidiians, introduced in 'Phage' (Season 1), harvest organs and tissue from living victims (called 'donors') to slow the progress of the Phage, a flesh-consuming plague that has ravaged their species for 2,000 years."
   },
   {
     "id": "VOY-083",
@@ -1162,7 +1244,8 @@
       "C": "Joe",
       "D": "Kenneth"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Heroes and Demons' (Season 1), the Doctor adopts the name 'Schweitzer' (after humanitarian Albert Schweitzer) while inside the Beowulf holodeck program, though he discards it after the experience."
   },
   {
     "id": "VOY-084",
@@ -1175,7 +1258,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In the 'Equinox' two-parter (Seasons 5/6), Captain Ransom's crew kills nucleogenic lifeforms from another dimension and converts their remains into enhanced warp drive fuel, jumping their ship light years closer to home."
   },
   {
     "id": "VOY-085",
@@ -1190,7 +1274,8 @@
       "C": "Reg Barclay",
       "D": "Troi"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Lt. Reginald Barclay, the anxious engineer from TNG, becomes the driving force behind Project Pathfinder in 'Pathfinder' (Season 6), eventually achieving regular communication with Voyager."
   },
   {
     "id": "VOY-086",
@@ -1203,7 +1288,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'The Killing Game' two-parter (Season 4), Voyager trades holodeck technology to the Hirogen so they can hunt simulated prey, and the technology's misuse is revisited in 'Flesh and Blood' (Season 7)."
   },
   {
     "id": "VOY-087",
@@ -1218,7 +1304,8 @@
       "C": "1950s science fiction serial characters",
       "D": " 20th-century noir detectives"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "In 'Bride of Chaotica!' (Season 5), the crew exploits Tom Paris's 'Captain Proton' Adventures of Captain Proton, a black-and-white 1930s/50s-style sci-fi serial holoprogram, to drive off photonic beings caught in conflict with Dr. Chaotica."
   },
   {
     "id": "VOY-088",
@@ -1231,7 +1318,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Meld' (Season 2), Tuvok mind-melds with crewman Lon Suder, a Betazoid murderer, and inherits violent impulses that destabilize his Vulcan control - one of the darker episodes of the series."
   },
   {
     "id": "VOY-089",
@@ -1246,7 +1334,8 @@
       "C": "It is unnamed and simply called the Ocampa homeworld",
       "D": "Ocampan IV"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "The Ocampa homeworld is referred to throughout 'Caretaker' and subsequent appearances simply as 'the Ocampa homeworld'; no proper planetary name is given in dialogue."
   },
   {
     "id": "VOY-090",

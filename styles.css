@@ -251,6 +251,7 @@ h3 {
     letter-spacing: 0.05em;
 }
 
+.badge.series-TOS { background: var(--accent); color: #000; }
 .badge.series-TNG { background: var(--accent-blue); color: #000; }
 .badge.series-DS9 { background: var(--accent-purple); color: #000; }
 .badge.series-VOY { background: var(--accent-yellow); color: #000; }
@@ -328,15 +329,47 @@ h3 {
 
 #feedback {
     margin: 16px 0;
-    padding: 16px;
+    padding: 16px 20px;
     border-radius: 12px;
-    font-weight: bold;
-    font-size: 1.1rem;
-    text-align: center;
-    letter-spacing: 0.05em;
+    font-size: 1.05rem;
+    letter-spacing: 0.03em;
+    text-align: left;
 }
 #feedback.correct { background: var(--correct); color: #000; }
 #feedback.wrong { background: var(--wrong); color: #fff; }
+
+.feedback-headline {
+    font-weight: bold;
+    font-size: 1.15rem;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+.feedback-explanation {
+    font-weight: normal;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    letter-spacing: 0;
+    text-align: left;
+    padding: 8px 12px;
+    margin-top: 8px;
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    border-left: 4px solid currentColor;
+}
+
+.missed-explanation {
+    color: var(--accent-light);
+    font-size: 0.9rem;
+    line-height: 1.45;
+    margin-top: 8px;
+    padding: 8px 10px;
+    background: rgba(255, 153, 0, 0.08);
+    border-left: 3px solid var(--accent-light);
+    border-radius: 4px;
+}
 
 /* ===== RESULTS SCREEN ===== */
 #final-score-container {

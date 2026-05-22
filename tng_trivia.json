@@ -12,7 +12,8 @@
       "C": "Geordi La Forge",
       "D": "William Riker"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Jean-Luc Picard commands the Enterprise-D from 2364 through its destruction in Star Trek: Generations (2371)."
   },
   {
     "id": "TNG-002",
@@ -25,7 +26,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Deanna Troi's mother Lwaxana is a full Betazoid; her father Ian Andrew Troi was a human Starfleet officer."
   },
   {
     "id": "TNG-003",
@@ -40,7 +42,8 @@
       "C": "NCC-1701-C",
       "D": "NCC-1701-E"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The Galaxy-class Enterprise-D bears the registry NCC-1701-D, shown on the dedication plaque and throughout TNG."
   },
   {
     "id": "TNG-004",
@@ -53,7 +56,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Dr. Noonien Soong built Data on Omicron Theta, as revealed in 'Datalore' and 'Brothers.'"
   },
   {
     "id": "TNG-005",
@@ -68,7 +72,8 @@
       "C": "Vulcan",
       "D": "Romulan"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Worf, son of Mogh, is the first Klingon Starfleet officer and was raised on Earth by human foster parents after the Khitomer massacre."
   },
   {
     "id": "TNG-006",
@@ -81,7 +86,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Borg first declare 'Resistance is futile' in 'Q Who' and repeat it throughout TNG, including 'The Best of Both Worlds.'"
   },
   {
     "id": "TNG-007",
@@ -96,7 +102,8 @@
       "C": "Lore",
       "D": "Julian"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Lt. Commander Data serves as second officer and operations officer aboard the Enterprise-D throughout TNG."
   },
   {
     "id": "TNG-008",
@@ -109,7 +116,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Beverly Crusher is CMO for most of TNG; only in Season 2 is she replaced by Dr. Pulaski while serving at Starfleet Medical."
   },
   {
     "id": "TNG-009",
@@ -124,7 +132,8 @@
       "C": "Make it so",
       "D": "Go to warp"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Picard's signature command 'Engage' is delivered with a forward point throughout TNG when ordering the ship to warp."
   },
   {
     "id": "TNG-010",
@@ -137,7 +146,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The holodeck uses photons, force fields, and replicated matter to create immersive simulations for recreation, training, and investigation."
   },
   {
     "id": "TNG-011",
@@ -152,7 +162,8 @@
       "C": "Chief Engineer",
       "D": "Chief Medical Officer"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Geordi La Forge is promoted from conn officer to Chief Engineer in Season 2 ('The Child') and holds the post through the films."
   },
   {
     "id": "TNG-012",
@@ -165,7 +176,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Wesley is the son of Beverly and the late Jack Crusher, who served under Picard's command on the USS Stargazer."
   },
   {
     "id": "TNG-013",
@@ -180,7 +192,8 @@
       "C": "The Traveler",
       "D": "Nagilum"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Q, played by John de Lancie, appears in the pilot 'Encounter at Farpoint' and recurs throughout TNG, ending with 'All Good Things...'"
   },
   {
     "id": "TNG-014",
@@ -193,7 +206,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Starfleet General Order 1 forbids interference in the natural development of pre-warp societies, a central theme in episodes like 'Pen Pals' and 'Who Watches the Watchers.'"
   },
   {
     "id": "TNG-015",
@@ -208,7 +222,8 @@
       "C": "Betazoid",
       "D": "Bolian"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Lwaxana Troi, played by Majel Barrett, is a full-blooded Betazoid and Daughter of the Fifth House, introduced in 'Haven.'"
   },
   {
     "id": "TNG-016",
@@ -221,7 +236,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Enterprise-D is the second Galaxy-class vessel constructed at Utopia Planitia, as established in 'Encounter at Farpoint.'"
   },
   {
     "id": "TNG-017",
@@ -236,7 +252,8 @@
       "C": "Make it so",
       "D": "Proceed"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "'Make it so' is Picard's habitual order to subordinates throughout TNG, signaling a decision is final."
   },
   {
     "id": "TNG-018",
@@ -249,7 +266,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Worf is promoted to Chief of Security following Tasha Yar's death in 'Skin of Evil' and holds the post until the Enterprise-D's destruction."
   },
   {
     "id": "TNG-019",
@@ -264,7 +282,8 @@
       "C": "Romulus",
       "D": "Qo'noS"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Vulcan (also called T'Khasi or Ni'Var) orbits 40 Eridani A and is the homeworld of Spock, Sarek, and Tuvok."
   },
   {
     "id": "TNG-020",
@@ -277,7 +296,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Riker serves as Picard's Number One from 'Encounter at Farpoint' until taking command of the USS Titan in Star Trek: Nemesis."
   },
   {
     "id": "TNG-021",
@@ -292,7 +312,8 @@
       "C": "Chain of Command",
       "D": "The Defector"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Picard is assimilated and becomes Locutus of Borg in 'The Best of Both Worlds' Parts I and II, the Season 3 finale and Season 4 premiere."
   },
   {
     "id": "TNG-022",
@@ -305,7 +326,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Ferengi culture is governed by the Rules of Acquisition; profit motive shapes their laws, religion, and family life, as seen in 'The Last Outpost' and throughout DS9."
   },
   {
     "id": "TNG-023",
@@ -320,7 +342,8 @@
       "C": "Holodeck",
       "D": "Replicator"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The transporter dematerializes a subject into a matter stream and reassembles it elsewhere, used routinely throughout TNG."
   },
   {
     "id": "TNG-024",
@@ -333,7 +356,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Lore is Data's older, malevolent prototype built by Dr. Soong, introduced in 'Datalore' and later allied with the Borg in 'Descent.'"
   },
   {
     "id": "TNG-025",
@@ -348,7 +372,8 @@
       "C": "Admiral",
       "D": "Captain"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Picard holds the rank of Captain from the pilot 'Encounter at Farpoint' through Generations; he was promoted decades earlier on the USS Stargazer."
   },
   {
     "id": "TNG-026",
@@ -361,7 +386,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Replicators use transporter-based matter-energy conversion to synthesize food, clothing, and small objects from stored patterns and bulk matter."
   },
   {
     "id": "TNG-027",
@@ -376,7 +402,8 @@
       "C": "VISOR",
       "D": "Cybernetic eye implant"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Geordi was born blind and wears a VISOR (Visual Instrument and Sensory Organ Replacement) that lets him see across the EM spectrum until receiving ocular implants in First Contact."
   },
   {
     "id": "TNG-028",
@@ -389,7 +416,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Ten Forward, located at the forward edge of Deck 10 in the saucer, is the ship's social lounge managed by Guinan."
   },
   {
     "id": "TNG-029",
@@ -404,7 +432,8 @@
       "C": "O'Brien",
       "D": "Nurse Ogawa"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Guinan, the El-Aurian bartender played by Whoopi Goldberg, joins the cast in Season 2 ('The Child') and serves as a confidante to Picard and the crew."
   },
   {
     "id": "TNG-030",
@@ -417,7 +446,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Picard's standard replicator order is 'Tea, Earl Grey, hot,' a verbal pattern repeated throughout TNG and the films."
   },
   {
     "id": "TNG-031",
@@ -432,7 +462,8 @@
       "C": "mek'leth",
       "D": "qapla'"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Qapla' is the Klingon exclamation for 'success,' commonly used as a parting word, as heard in episodes featuring the Klingon Empire."
   },
   {
     "id": "TNG-032",
@@ -445,7 +476,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Data lacks emotions throughout TNG until Dr. Soong's emotion chip is installed in Star Trek: Generations, a central premise of his character arc."
   },
   {
     "id": "TNG-033",
@@ -460,7 +492,8 @@
       "C": "Q",
       "D": "The Borg"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Q places humanity on trial in 'Encounter at Farpoint,' a trial he claims is still in session through 'All Good Things...'"
   },
   {
     "id": "TNG-034",
@@ -475,7 +508,8 @@
       "C": "Spot",
       "D": "Patches"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Spot appears in multiple episodes and is the subject of Data's poem 'Ode to Spot' in 'Schisms.'"
   },
   {
     "id": "TNG-035",
@@ -488,7 +522,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Riker declines command of the USS Drake, the Aries, and the Melbourne; his reluctance to leave the Enterprise is addressed in 'The Icarus Factor' and 'The Best of Both Worlds.'"
   },
   {
     "id": "TNG-036",
@@ -503,7 +538,8 @@
       "C": "Batai",
       "D": "Kamin"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "In 'The Inner Light,' a Kataan probe causes Picard to experience a lifetime as Kamin, an iron weaver on the doomed planet, leaving him with the memory and a Ressikan flute."
   },
   {
     "id": "TNG-037",
@@ -516,7 +552,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Romulans descend from Vulcans who rejected Surak's teachings of logic and left their homeworld, as established in TOS and reinforced in TNG's 'Unification' two-parter."
   },
   {
     "id": "TNG-038",
@@ -531,7 +568,8 @@
       "C": "Warp 9.2",
       "D": "Warp 10"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The Galaxy-class maximum sustainable cruise is Warp 9.6 per the TNG Technical Manual; higher speeds can be reached only briefly before structural damage."
   },
   {
     "id": "TNG-039",
@@ -544,7 +582,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Assimilated in 'The Best of Both Worlds,' Picard becomes Locutus to serve as the Borg's voice to humanity, an ordeal revisited in First Contact."
   },
   {
     "id": "TNG-040",
@@ -559,7 +598,8 @@
       "C": "Dr. Crusher returned early",
       "D": "Dr. Pulaski"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Dr. Katherine Pulaski, played by Diana Muldoon, serves as CMO throughout Season 2 before Beverly Crusher returns in Season 3."
   },
   {
     "id": "TNG-041",
@@ -572,7 +612,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Enterprise-C, commanded by Rachel Garrett, emerges from a temporal rift at Narendra III into the Enterprise-D's era, altering history into a Federation-Klingon war."
   },
   {
     "id": "TNG-042",
@@ -587,7 +628,8 @@
       "C": "Qo'noS",
       "D": "Cardassia Prime"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Qo'noS (often anglicized Kronos) is the Klingon homeworld, seat of the High Council, depicted in 'Sins of the Father' and 'Redemption.'"
   },
   {
     "id": "TNG-043",
@@ -600,7 +642,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Guinan describes the El-Aurians as listeners in 'Q Who' and Star Trek: Generations, which is why she counsels the crew so effectively."
   },
   {
     "id": "TNG-044",
@@ -615,7 +658,8 @@
       "C": "Gold",
       "D": "Blue"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "TNG-era command uniforms use red; operations/security use gold; sciences/medical use blue, the inverse of the TOS color scheme."
   },
   {
     "id": "TNG-045",
@@ -628,7 +672,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "There are 285 Rules of Acquisition, as confirmed in DS9's 'Body Parts'; the question's number 284 is off by one."
   },
   {
     "id": "TNG-046",
@@ -643,7 +688,8 @@
       "C": "Hercule Poirot",
       "D": "Sam Spade"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Data plays Sherlock Holmes in 'Elementary, Dear Data' and 'Ship in a Bottle,' with Geordi as Watson; the program also creates the sentient Moriarty."
   },
   {
     "id": "TNG-047",
@@ -656,7 +702,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Sergey and Helena Rozhenko adopted Worf after the Khitomer massacre, as shown in 'Family' and 'Heart of Glory.'"
   },
   {
     "id": "TNG-048",
@@ -671,7 +718,8 @@
       "C": "The Big Goodbye",
       "D": "Ship in a Bottle"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "'The Big Goodbye' (Season 1) is Picard's first Dixon Hill holodeck adventure; the episode won a Peabody Award for its writing."
   },
   {
     "id": "TNG-049",
@@ -684,7 +732,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Galaxy-class ships can detach the saucer section from the stardrive; this is performed in 'Encounter at Farpoint,' 'The Best of Both Worlds Part II,' and Generations."
   },
   {
     "id": "TNG-050",
@@ -699,7 +748,8 @@
       "C": "d'k tahg",
       "D": "bat'leth"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The bat'leth ('sword of honor') was forged by Kahless from a lock of his own hair, according to legend recounted in 'Reunion' and 'Rightful Heir.'"
   },
   {
     "id": "TNG-051",
@@ -712,7 +762,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "TNG begins in 2364, about 78-100 years after TOS's mid-2260s setting; this gap is dramatized when Spock appears in 'Unification.'"
   },
   {
     "id": "TNG-052",
@@ -727,7 +778,8 @@
       "C": "Gul Madred",
       "D": "Gul Macet"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Gul Madred, played by David Warner, interrogates Picard with the 'four lights' psychological torture in 'Chain of Command, Part II.'"
   },
   {
     "id": "TNG-053",
@@ -740,7 +792,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Picard shouts 'There are four lights!' to Gul Madred at the end of 'Chain of Command, Part II,' refusing to capitulate despite the torture."
   },
   {
     "id": "TNG-054",
@@ -755,7 +808,8 @@
       "C": "Telepathy only",
       "D": "Empathic sensing of emotions"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "As a half-Betazoid, Troi has empathic abilities rather than full telepathy; she senses emotions but cannot read specific thoughts."
   },
   {
     "id": "TNG-055",
@@ -768,7 +822,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Colm Meaney's O'Brien serves as transporter chief on the Enterprise-D from the pilot through Season 6 before transferring to Deep Space 9."
   },
   {
     "id": "TNG-056",
@@ -783,7 +838,8 @@
       "C": "Omicron Theta",
       "D": "Minos"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Data was discovered on the colony of Omicron Theta after the Crystalline Entity destroyed it; Dr. Soong's lab is shown there in 'Datalore.'"
   },
   {
     "id": "TNG-057",
@@ -796,7 +852,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Alexander is Worf's son by K'Ehleyr, introduced in 'Reunion' and raised by Sergey and Helena Rozhenko before returning aboard the Enterprise in 'New Ground.'"
   },
   {
     "id": "TNG-058",
@@ -811,7 +868,8 @@
       "C": "Ensign Crusher",
       "D": "Lt. Yar"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Worf takes the tactical/security post after Tasha Yar's death in 'Skin of Evil' (Season 1) and holds it through the remainder of TNG."
   },
   {
     "id": "TNG-059",
@@ -824,7 +882,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Security chief Natasha Yar is killed by the malevolent oil-creature Armus in the Season 1 episode 'Skin of Evil.'"
   },
   {
     "id": "TNG-060",
@@ -839,7 +898,8 @@
       "C": "Preemptive Strike",
       "D": "All Good Things..."
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "'All Good Things...' is the two-hour series finale in which Q has Picard jumping among past, present, and future to prevent a Q-created anti-time anomaly."
   },
   {
     "id": "TNG-061",
@@ -852,7 +912,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The Borg Queen, played by Alice Krige, debuts in the 1996 film Star Trek: First Contact, not in the TNG TV series."
   },
   {
     "id": "TNG-062",
@@ -867,7 +928,8 @@
       "C": "The Unity",
       "D": "The Collective"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "The Borg refer to themselves as 'the Collective,' a hive mind linked by subspace, as established in 'Q Who' and 'The Best of Both Worlds.'"
   },
   {
     "id": "TNG-063",
@@ -880,7 +942,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Zefram Cochrane's warp flight on April 5, 2063 prompts the landing of the Vulcan T'Plana-Hath in Bozeman, Montana, dramatized in Star Trek: First Contact."
   },
   {
     "id": "TNG-064",
@@ -895,7 +958,8 @@
       "C": "Robert",
       "D": "Rene"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "Rene Picard, son of Robert, is shown in 'Family' (Season 4); his and Robert's later deaths in a fire at the family vineyard devastate Picard in Star Trek: Generations."
   },
   {
     "id": "TNG-065",
@@ -908,7 +972,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Cardassian Occupation of Bajor (2328-2369) is a defining atrocity referenced throughout TNG ('Ensign Ro,' 'Chain of Command') and DS9."
   },
   {
     "id": "TNG-066",
@@ -923,7 +988,8 @@
       "C": "His assimilation by the Borg",
       "D": "His capture by Cardassians"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Tapestry,' Q lets Picard relive his Academy days and avoid the Nausicaan bar fight; the resulting timid life shows Picard the value of his original mistake."
   },
   {
     "id": "TNG-067",
@@ -938,7 +1004,8 @@
       "C": "60 trillion",
       "D": "600 billion"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "Data states in 'The Measure of a Man' that his positronic net runs at 60 trillion operations per second with a storage capacity of 800 quadrillion bits."
   },
   {
     "id": "TNG-068",
@@ -951,7 +1018,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Picard's standard hailing line cites '1,014 souls' aboard in 'Encounter at Farpoint,' establishing the roughly 1,000-person Galaxy-class complement including families."
   },
   {
     "id": "TNG-069",
@@ -966,7 +1034,8 @@
       "C": "Counselor Troi",
       "D": "Admiral Nakamura"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "JAG officer Phillipa Louvois orders Riker to prosecute the case against Data's sentience in 'The Measure of a Man'; Picard defends Data."
   },
   {
     "id": "TNG-070",
@@ -979,7 +1048,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Darmok,' the Tamarians (Children of Tama) speak only in references to their mytho-historical figures, like 'Darmok and Jalad at Tanagra.'"
   },
   {
     "id": "TNG-071",
@@ -994,7 +1064,8 @@
       "C": "Veridian III",
       "D": "Solari IV"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Captain Dathon transports himself and Picard to El-Adrel IV to face a creature together, forcing a shared experience ('Darmok and Jalad at Tanagra') to overcome the language barrier."
   },
   {
     "id": "TNG-072",
@@ -1007,7 +1078,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Inheritance,' Data discovers that Juliana Tainer is an android replica Soong built after the original Juliana died; she remains unaware of her nature."
   },
   {
     "id": "TNG-073",
@@ -1022,7 +1094,8 @@
       "C": "23rd century",
       "D": "25th century"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "TNG is set in the 24th century, beginning in 2364 with 'Encounter at Farpoint' and ending in 2370 with 'All Good Things...'"
   },
   {
     "id": "TNG-074",
@@ -1035,7 +1108,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Enterprise is trapped in a causality loop colliding with the USS Bozeman; Data eventually plants a clue (the number three, via dealt cards) to break the cycle."
   },
   {
     "id": "TNG-075",
@@ -1050,7 +1124,8 @@
       "C": "Sela",
       "D": "Tebok"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Admiral Alidar Jarok poses as a logistics officer to warn the Federation of a Romulan plot in 'The Defector'; he commits suicide after learning the data was a test."
   },
   {
     "id": "TNG-076",
@@ -1063,7 +1138,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Sela (also played by Denise Crosby) is the daughter of the alternate-timeline Tasha Yar from 'Yesterday's Enterprise,' revealed in 'Redemption' and 'Unification.'"
   },
   {
     "id": "TNG-077",
@@ -1078,7 +1154,8 @@
       "C": "Duranium and tritanium composite",
       "D": "Neutronium"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "The TNG Technical Manual specifies the Enterprise-D hull as a duranium/tritanium composite, providing structural strength against impact and weapons fire."
   },
   {
     "id": "TNG-078",
@@ -1091,7 +1168,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Riker is held by Tilonus IV captors who use a memory-probe to make him doubt his own reality; layered hallucinations shift between asylum and Enterprise."
   },
   {
     "id": "TNG-079",
@@ -1106,7 +1184,8 @@
       "C": "Gre'thor",
       "D": "Fek'lhr"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Sto-Vo-Kor is the Klingon afterlife for honored warriors; the dishonored are condemned to Gre'thor, as discussed in 'Rightful Heir' and DS9."
   },
   {
     "id": "TNG-080",
@@ -1119,7 +1198,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Ro Laren, played by Michelle Forbes, is the first major Bajoran character in Trek, introduced in 'Ensign Ro' (Season 5)."
   },
   {
     "id": "TNG-081",
@@ -1134,7 +1214,8 @@
       "C": "Lal",
       "D": "Nova"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "In 'The Offspring,' Data names his android daughter Lal, the Hindi word for 'beloved'; she dies after a cascade failure in her positronic net."
   },
   {
     "id": "TNG-082",
@@ -1147,7 +1228,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "JAG officers like Captain Phillipa Louvois (TNG: 'The Measure of a Man') and Admiral Satie ('The Drumhead') handle Starfleet judicial proceedings."
   },
   {
     "id": "TNG-083",
@@ -1162,7 +1244,8 @@
       "C": "The Crystalline Entity",
       "D": "Nagilum"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Armus, the malevolent oil-like creature on Vagra II, kills Tasha Yar with an energy discharge in 'Skin of Evil.'"
   },
   {
     "id": "TNG-084",
@@ -1175,7 +1258,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Traveler, who mentors Wesley Crusher, hails from Tau Alpha C, as established in 'Where No One Has Gone Before' and 'Remember Me.'"
   },
   {
     "id": "TNG-085",
@@ -1190,7 +1274,8 @@
       "C": "Dekyon beam",
       "D": "Nadion beam"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'The Best of Both Worlds, Part II,' the Enterprise sweeps the Borg cube with a magneton/antiproton beam to locate Locutus, then beams an away team aboard."
   },
   {
     "id": "TNG-086",
@@ -1203,7 +1288,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Excavators find Data's 500-year-old head beneath San Francisco; the crew travels to 1893 to investigate, encountering Samuel Clemens and the Devidians."
   },
   {
     "id": "TNG-087",
@@ -1218,7 +1304,8 @@
       "C": "Gravesworld",
       "D": "Exo III"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The Crystalline Entity destroyed the Omicron Theta colony where Data was created, as established in 'Datalore' and revisited in 'Silicon Avatar.'"
   },
   {
     "id": "TNG-088",
@@ -1231,7 +1318,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The Bynars, who live in symbiotic pairs linked to a central computer, speak in rapid binary bursts; their behavior drives the plot of '11001001.'"
   },
   {
     "id": "TNG-089",
@@ -1246,7 +1334,8 @@
       "C": "2400",
       "D": "2385"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "'All Good Things...' flashes forward roughly 25 years from 2370 to about 2395, showing an elderly Picard suffering from Irumodic Syndrome."
   },
   {
     "id": "TNG-090",
@@ -1259,7 +1348,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "'Shaka, when the walls fell' is the Tamarian image-metaphor for failure, contrasted with 'Sokath, his eyes uncovered' for understanding."
   },
   {
     "id": "TNG-091",
@@ -1274,7 +1364,8 @@
       "C": "Negative emotions transmitted via the emotion chip",
       "D": "A neural interface implant"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "In 'Descent,' Lore feeds Data negative emotions through the emotion chip (which Lore had intercepted), corrupting his judgment to join the rogue Borg."
   },
   {
     "id": "TNG-092",
@@ -1287,7 +1378,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "After a warp-core breach, the Enterprise-D's saucer section crash-lands on Veridian III in Star Trek: Generations (1994)."
   },
   {
     "id": "TNG-093",
@@ -1302,7 +1394,8 @@
       "C": "Riker",
       "D": "Worf"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Picard appears in the DS9 pilot 'Emissary' to hand command of the station to Sisko, a meeting laden with Sisko's resentment over the Battle of Wolf 359."
   },
   {
     "id": "TNG-094",
@@ -1315,7 +1408,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Mogh died in the 2346 Romulan massacre at Khitomer; the discommendation of his house drives the plot of 'Sins of the Father' and 'Redemption.'"
   },
   {
     "id": "TNG-095",
@@ -1330,7 +1424,8 @@
       "C": "Proconsul",
       "D": "Chancellor"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The Praetor leads the Romulan Star Empire and presides over the Senate; the title is referenced throughout TNG and dramatized in Star Trek: Nemesis."
   },
   {
     "id": "TNG-096",
@@ -1343,7 +1438,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "As recounted in 'Samaritan Snare' and dramatized in 'Tapestry,' Cadet Picard was stabbed through the heart by a Nausicaan in a bar fight on Starbase Earhart, necessitating a bioartificial replacement."
   },
   {
     "id": "TNG-097",
@@ -1358,7 +1454,8 @@
       "C": "Beta Riker",
       "D": "Will Riker"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Second Chances,' a transporter accident on Nervala IV eight years earlier created Thomas Riker, an exact duplicate of Will who lived stranded on the planet."
   },
   {
     "id": "TNG-098",
@@ -1371,7 +1468,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The 2346 Khitomer massacre was a Romulan surprise attack on the Klingon colony, killing some 4,000 including Worf's parents Mogh and Kaasin."
   },
   {
     "id": "TNG-099",
@@ -1386,7 +1484,8 @@
       "C": "Clearing debris from the ship's path at warp",
       "D": "Weapons targeting"
     },
-    "correct": "C"
+    "correct": "C",
+    "explanation": "The navigational deflector projects a forward field to sweep micrometeoroids and interstellar debris from the ship's path at high warp; the TNG Technical Manual details its role."
   },
   {
     "id": "TNG-100",

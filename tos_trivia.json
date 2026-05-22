@@ -1,0 +1,1656 @@
+[
+  {
+    "id": "TOS-001",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is the captain of the USS Enterprise NCC-1701 during the five-year mission?",
+    "answers": {
+      "A": "Christopher Pike",
+      "B": "James T. Kirk",
+      "C": "Robert April",
+      "D": "Willard Decker"
+    },
+    "correct": "B",
+    "explanation": "James T. Kirk commands the Enterprise throughout the original series' five-year mission (2265-2270), taking over from Christopher Pike."
+  },
+  {
+    "id": "TOS-002",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Mr. Spock is half human and half Vulcan.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Spock's father Sarek is Vulcan and his mother Amanda Grayson is human, as established in the episode 'Journey to Babel.'"
+  },
+  {
+    "id": "TOS-003",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the registry number of Captain Kirk's USS Enterprise?",
+    "answers": {
+      "A": "NCC-1864",
+      "B": "NX-01",
+      "C": "NCC-1701",
+      "D": "NCC-1701-A"
+    },
+    "correct": "C",
+    "explanation": "The original Enterprise carries registry NCC-1701. The NCC-1701-A is the refit Enterprise commissioned at the end of 'Star Trek IV: The Voyage Home.'"
+  },
+  {
+    "id": "TOS-004",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Dr. Leonard McCoy is nicknamed 'Bones.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Kirk affectionately calls Chief Medical Officer Leonard H. McCoy 'Bones' throughout the series, a nickname derived from the old term 'sawbones' for a doctor."
+  },
+  {
+    "id": "TOS-005",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of the Enterprise's chief engineer?",
+    "answers": {
+      "A": "Hikaru Sulu",
+      "B": "Pavel Chekov",
+      "C": "Montgomery Scott",
+      "D": "Kevin Riley"
+    },
+    "correct": "C",
+    "explanation": "Lt. Commander Montgomery 'Scotty' Scott is the Scottish chief engineer of the Enterprise, played by James Doohan."
+  },
+  {
+    "id": "TOS-006",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Vulcans greet others with the phrase 'Live long and prosper.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Vulcan salute is accompanied by 'Live long and prosper,' first used by Spock in the episode 'Amok Time' (1967)."
+  },
+  {
+    "id": "TOS-007",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is the Enterprise's communications officer?",
+    "answers": {
+      "A": "Janice Rand",
+      "B": "Christine Chapel",
+      "C": "Nyota Uhura",
+      "D": "Marla McGivers"
+    },
+    "correct": "C",
+    "explanation": "Lt. Uhura serves as communications officer, played by Nichelle Nichols. Her first name 'Nyota' was made canon in the 2009 film."
+  },
+  {
+    "id": "TOS-008",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The USS Enterprise is a Constitution-class starship.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The original Enterprise NCC-1701 is a Constitution-class heavy cruiser, the same class as the USS Constellation, Defiant, Exeter, and Intrepid."
+  },
+  {
+    "id": "TOS-009",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is the helmsman of the Enterprise?",
+    "answers": {
+      "A": "Pavel Chekov",
+      "B": "Hikaru Sulu",
+      "C": "Kevin Riley",
+      "D": "DePaul"
+    },
+    "correct": "B",
+    "explanation": "Lt. Hikaru Sulu serves as the Enterprise's helmsman, played by George Takei. His first name 'Hikaru' was first given in the novel 'The Entropy Effect' and canonized in 'Star Trek VI.'"
+  },
+  {
+    "id": "TOS-010",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Quotes & Catchphrases",
+    "question": "Dr. McCoy frequently says, 'I'm a doctor, not a...'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "McCoy delivers many variations of 'I'm a doctor, not a (bricklayer/escalator/mechanic/etc.)' throughout the series, becoming one of his signature catchphrases."
+  },
+  {
+    "id": "TOS-011",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the name of Spock's species?",
+    "answers": {
+      "A": "Romulan",
+      "B": "Vulcan",
+      "C": "Andorian",
+      "D": "Tellarite"
+    },
+    "correct": "B",
+    "explanation": "Spock is Vulcan on his father's side. Vulcans suppress emotion in favor of pure logic, a discipline founded by the philosopher Surak."
+  },
+  {
+    "id": "TOS-012",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Klingons are enemies of the Federation during the original series era.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Klingon Empire is a major adversary of the Federation throughout TOS, with peace only achieved after the events of 'Star Trek VI: The Undiscovered Country.'"
+  },
+  {
+    "id": "TOS-013",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Captain Kirk's middle name?",
+    "answers": {
+      "A": "Thomas",
+      "B": "Tiberius",
+      "C": "Theodore",
+      "D": "Tobias"
+    },
+    "correct": "B",
+    "explanation": "James Tiberius Kirk's middle name was first revealed in the animated episode 'Bem' and confirmed in 'Star Trek VI: The Undiscovered Country.'"
+  },
+  {
+    "id": "TOS-014",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The Enterprise's primary weapons are phasers and photon torpedoes.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Throughout TOS, the Enterprise uses phasers as her energy weapons and photon torpedoes as her ordnance, a configuration that becomes the Starfleet standard."
+  },
+  {
+    "id": "TOS-015",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What small, furry creatures multiply rapidly in 'The Trouble with Tribbles'?",
+    "answers": {
+      "A": "Sehlats",
+      "B": "Targs",
+      "C": "Tribbles",
+      "D": "Le-matyas"
+    },
+    "correct": "C",
+    "explanation": "Tribbles are small fluffy creatures that reproduce at an alarming rate when fed, overrunning Space Station K-7 in the classic episode 'The Trouble with Tribbles.'"
+  },
+  {
+    "id": "TOS-016",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Pavel Chekov is the Enterprise's navigator and is from Russia.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Ensign Pavel Andreievich Chekov, played by Walter Koenig, is a proudly Russian navigator who joined the series in season 2."
+  },
+  {
+    "id": "TOS-017",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "What is the name of the genetically engineered superhuman in 'Space Seed'?",
+    "answers": {
+      "A": "Khan Noonien Singh",
+      "B": "Garth of Izar",
+      "C": "Harry Mudd",
+      "D": "Anton Karidian"
+    },
+    "correct": "A",
+    "explanation": "Khan Noonien Singh, a product of late-20th-century genetic engineering, is found in suspended animation aboard the SS Botany Bay and later returns in 'Star Trek II: The Wrath of Khan.'"
+  },
+  {
+    "id": "TOS-018",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Quotes & Catchphrases",
+    "question": "Spock's traditional Vulcan farewell includes the hand gesture known as the Vulcan salute.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The split-fingered Vulcan salute was created by Leonard Nimoy, who based it on a Jewish priestly blessing he saw as a child. It accompanies 'Live long and prosper.'"
+  },
+  {
+    "id": "TOS-019",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "What rank does James T. Kirk hold during the five-year mission?",
+    "answers": {
+      "A": "Commander",
+      "B": "Captain",
+      "C": "Commodore",
+      "D": "Admiral"
+    },
+    "correct": "B",
+    "explanation": "Kirk holds the rank of Captain throughout the five-year mission. He is later promoted to Rear Admiral between the events of TOS and 'Star Trek: The Motion Picture.'"
+  },
+  {
+    "id": "TOS-020",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The transporter is used to beam crew members between the ship and planet surfaces.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The transporter dematerializes a subject into an energy pattern and rematerializes them at the destination, and is the Enterprise's primary means of short-range crew transfer."
+  },
+  {
+    "id": "TOS-021",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "What is Spock's home planet?",
+    "answers": {
+      "A": "Andoria",
+      "B": "Vulcan",
+      "C": "Tellar Prime",
+      "D": "Rigel V"
+    },
+    "correct": "B",
+    "explanation": "Spock was born on Vulcan, a hot desert world orbiting the star 40 Eridani A. His birthplace is depicted in episodes like 'Amok Time' and 'Journey to Babel.'"
+  },
+  {
+    "id": "TOS-022",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Lt. Uhura speaks Swahili and her name comes from a Swahili word meaning 'freedom.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "'Uhuru' is Swahili for 'freedom'; the name was suggested to Gene Roddenberry by Nichelle Nichols. Uhura speaks Swahili in 'The Man Trap.'"
+  },
+  {
+    "id": "TOS-023",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "Which phrase is most associated with Mr. Spock?",
+    "answers": {
+      "A": "Make it so.",
+      "B": "Engage.",
+      "C": "Fascinating.",
+      "D": "Set phasers to stun."
+    },
+    "correct": "C",
+    "explanation": "Spock's understated 'Fascinating' is his go-to response to unusual phenomena throughout the series, reflecting his Vulcan intellectual curiosity."
+  },
+  {
+    "id": "TOS-024",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Vulcans have green blood because their blood is copper-based rather than iron-based.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Vulcan blood uses copper-based hemocyanin instead of iron-based hemoglobin, giving it a green color. This was first established in TOS and referenced in many episodes."
+  },
+  {
+    "id": "TOS-025",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who plays Captain James T. Kirk?",
+    "answers": {
+      "A": "Leonard Nimoy",
+      "B": "DeForest Kelley",
+      "C": "William Shatner",
+      "D": "James Doohan"
+    },
+    "correct": "C",
+    "explanation": "Canadian actor William Shatner portrayed Captain James T. Kirk across the original series, the animated series, and the first seven feature films."
+  },
+  {
+    "id": "TOS-026",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "Warp drive allows starships to travel faster than the speed of light.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Warp drive creates a subspace field that distorts space-time, allowing the Enterprise to exceed light speed. Maximum safe cruising speed in TOS is around warp 6 to warp 8."
+  },
+  {
+    "id": "TOS-027",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "Which episode introduces Khan Noonien Singh?",
+    "answers": {
+      "A": "The Doomsday Machine",
+      "B": "Space Seed",
+      "C": "Mirror, Mirror",
+      "D": "The Enterprise Incident"
+    },
+    "correct": "B",
+    "explanation": "Khan and his followers are discovered in cryogenic sleep aboard the SS Botany Bay in the season 1 episode 'Space Seed,' setting up the events of 'Star Trek II.'"
+  },
+  {
+    "id": "TOS-028",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Scotty often refers to the Enterprise as a 'she.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Following Starfleet and naval tradition, Scotty consistently refers to the Enterprise with feminine pronouns and treats her with deep personal affection."
+  },
+  {
+    "id": "TOS-029",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "What organization does the Enterprise serve?",
+    "answers": {
+      "A": "United Earth Space Probe Agency",
+      "B": "Starfleet",
+      "C": "The Klingon Defense Force",
+      "D": "The Maquis"
+    },
+    "correct": "B",
+    "explanation": "The Enterprise is a Starfleet vessel operating under the United Federation of Planets. Starfleet is the Federation's combined exploration, scientific, and defense service."
+  },
+  {
+    "id": "TOS-030",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Quotes & Catchphrases",
+    "question": "The original series opening narration includes the phrase 'to boldly go where no man has gone before.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Kirk's iconic opening monologue ends with 'to boldly go where no man has gone before.' TNG later updated this to 'no one has gone before.'"
+  },
+  {
+    "id": "TOS-031",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who plays Mr. Spock in the original series?",
+    "answers": {
+      "A": "Mark Lenard",
+      "B": "Leonard Nimoy",
+      "C": "Walter Koenig",
+      "D": "George Takei"
+    },
+    "correct": "B",
+    "explanation": "Leonard Nimoy created the iconic role of Spock, playing him across TOS, TAS, the original cast films, and reprising the role in the 2009 reboot and 'Star Trek Into Darkness.'"
+  },
+  {
+    "id": "TOS-032",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "Romulans are biologically related to Vulcans.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Balance of Terror,' the Romulans are revealed to share common ancestry with Vulcans, having branched off thousands of years earlier and rejected Surak's teachings of logic."
+  },
+  {
+    "id": "TOS-033",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "What is the capital planet of the United Federation of Planets?",
+    "answers": {
+      "A": "Vulcan",
+      "B": "Earth",
+      "C": "Andoria",
+      "D": "Tellar Prime"
+    },
+    "correct": "B",
+    "explanation": "Earth, and specifically San Francisco, serves as the headquarters of Starfleet Command and the seat of the Federation Council."
+  },
+  {
+    "id": "TOS-034",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The City on the Edge of Forever,' what is the name of the social worker Kirk falls in love with in 1930s Earth?",
+    "answers": {
+      "A": "Edith Keeler",
+      "B": "Areel Shaw",
+      "C": "Carol Marcus",
+      "D": "Janice Lester"
+    },
+    "correct": "A",
+    "explanation": "Edith Keeler, played by Joan Collins, runs a 1930s soup kitchen. Kirk must allow her to die in a traffic accident to preserve the timeline, as her pacifist movement would have delayed U.S. entry into WWII."
+  },
+  {
+    "id": "TOS-035",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Vulcan pon farr, the mating drive, occurs every seven years.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Pon farr afflicts Vulcan males every seven years, as established in 'Amok Time.' Spock must return to Vulcan to mate or die."
+  },
+  {
+    "id": "TOS-036",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Mirror, Mirror,' how can you tell Mirror Spock apart from the prime universe Spock?",
+    "answers": {
+      "A": "A scar across his face",
+      "B": "A goatee/beard",
+      "C": "An eyepatch",
+      "D": "A shaved head"
+    },
+    "correct": "B",
+    "explanation": "Mirror Spock sports a goatee, which became such an iconic visual shorthand that 'evil twin with a goatee' is now a widely recognized trope."
+  },
+  {
+    "id": "TOS-037",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "'The Menagerie' is the only two-part episode in the original series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "'The Menagerie, Parts I and II' is TOS's only two-part episode. It cleverly incorporates footage from the original unaired pilot 'The Cage' featuring Captain Pike."
+  },
+  {
+    "id": "TOS-038",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "In 'The Doomsday Machine,' what is the planet killer made of?",
+    "answers": {
+      "A": "Tritanium",
+      "B": "Pure neutronium",
+      "C": "Duranium",
+      "D": "Latinum"
+    },
+    "correct": "B",
+    "explanation": "Spock's scans determine the doomsday machine's hull is composed of solid neutronium, making it virtually indestructible to the Enterprise's weapons."
+  },
+  {
+    "id": "TOS-039",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Spock's father, Sarek, is the Vulcan ambassador to the Federation.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Sarek, played by Mark Lenard, is a distinguished Vulcan ambassador. He is introduced in 'Journey to Babel' and appears in later TNG episodes as well."
+  },
+  {
+    "id": "TOS-040",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Amok Time,' who is Spock's betrothed?",
+    "answers": {
+      "A": "T'Pol",
+      "B": "T'Pring",
+      "C": "T'Pau",
+      "D": "Saavik"
+    },
+    "correct": "B",
+    "explanation": "T'Pring is the Vulcan female bonded to Spock as a child. She invokes the kal-if-fee challenge, forcing Spock and Kirk to fight."
+  },
+  {
+    "id": "TOS-041",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "Khan's ship from 'Space Seed' is named the SS Botany Bay.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The SS Botany Bay is a DY-100-class sleeper ship that left Earth in 1996 carrying Khan and his fellow Augments fleeing the Eugenics Wars."
+  },
+  {
+    "id": "TOS-042",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What does the Vulcan philosophical principle IDIC stand for?",
+    "answers": {
+      "A": "Infinite Duty in Constant Crisis",
+      "B": "Infinite Diversity in Infinite Combinations",
+      "C": "Individual Devotion to Inner Calm",
+      "D": "Intuition, Discipline, Intellect, Compassion"
+    },
+    "correct": "B",
+    "explanation": "IDIC, 'Infinite Diversity in Infinite Combinations,' is a core Vulcan philosophical principle, first referenced on screen in 'Is There in Truth No Beauty?'"
+  },
+  {
+    "id": "TOS-043",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Who Mourns for Adonais?,' the Enterprise encounters the Greek god Apollo.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The crew encounters Apollo on the planet Pollux IV, the last surviving member of a powerful alien race that ancient Greeks worshipped as gods."
+  },
+  {
+    "id": "TOS-044",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "What name was given to the planet killer's commanding officer who rammed his shuttlecraft into it?",
+    "answers": {
+      "A": "Commodore Matt Decker",
+      "B": "Commodore Stocker",
+      "C": "Captain Tracey",
+      "D": "Commodore Wesley"
+    },
+    "correct": "A",
+    "explanation": "Commodore Matt Decker, commander of the USS Constellation, sacrifices himself by piloting a shuttle into the planet killer's maw in 'The Doomsday Machine.'"
+  },
+  {
+    "id": "TOS-045",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Organians forced peace between the Federation and the Klingon Empire.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Errand of Mercy,' the seemingly primitive Organians reveal themselves as energy beings of immense power and impose the Organian Peace Treaty between the two powers."
+  },
+  {
+    "id": "TOS-046",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "Where are Khan and his followers exiled at the end of 'Space Seed'?",
+    "answers": {
+      "A": "Rura Penthe",
+      "B": "Ceti Alpha V",
+      "C": "Tantalus V",
+      "D": "Elba II"
+    },
+    "correct": "B",
+    "explanation": "Kirk maroons Khan on Ceti Alpha V at the conclusion of 'Space Seed.' Years later in 'Wrath of Khan,' Khan recounts how the neighboring planet Ceti Alpha VI exploded, devastating the world."
+  },
+  {
+    "id": "TOS-047",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "Captain Christopher Pike was severely injured by delta ray exposure during a training accident.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'The Menagerie,' it is established that Pike was exposed to delta radiation while rescuing cadets from a baffle plate rupture aboard an old J-class training vessel, leaving him paralyzed and disfigured."
+  },
+  {
+    "id": "TOS-048",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who plays Nurse Christine Chapel?",
+    "answers": {
+      "A": "Grace Lee Whitney",
+      "B": "Majel Barrett",
+      "C": "Bibi Besch",
+      "D": "Kim Cattrall"
+    },
+    "correct": "B",
+    "explanation": "Majel Barrett played Nurse Chapel as well as Number One in 'The Cage' and later voiced the Enterprise computer. She was married to Gene Roddenberry."
+  },
+  {
+    "id": "TOS-049",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The Klingon D7-class battle cruiser is the primary Klingon warship encountered in TOS.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The D7 battle cruiser, designed by Matt Jefferies, is the iconic Klingon warship of the TOS era, appearing in episodes like 'Elaan of Troyius' and 'Day of the Dove.'"
+  },
+  {
+    "id": "TOS-050",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Arena,' what reptilian species' captain does Kirk fight in single combat?",
+    "answers": {
+      "A": "Cardassian",
+      "B": "Gorn",
+      "C": "Tholian",
+      "D": "Saurian"
+    },
+    "correct": "B",
+    "explanation": "Kirk battles the Gorn captain on a barren planet, with both crews observing. The Metrons, the powerful race that arranged the duel, set up the contest after the Gorn destroyed a Federation outpost on Cestus III."
+  },
+  {
+    "id": "TOS-051",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Kirk has a brother named George Samuel Kirk who appears in the series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Kirk's brother Sam appears (deceased) in 'Operation: Annihilate!' He died from neural parasites on Deneva, leaving behind a widow and son. William Shatner played Sam in flashback/dead form."
+  },
+  {
+    "id": "TOS-052",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "Which famous TOS line is most closely associated with Scotty?",
+    "answers": {
+      "A": "She cannae take much more, Captain!",
+      "B": "Make it so!",
+      "C": "I'll be in my ready room.",
+      "D": "Set course for the neutral zone."
+    },
+    "correct": "A",
+    "explanation": "Scotty's exasperated engineering warnings about the ship's structural limits became one of his signature catchphrases throughout TOS and the films."
+  },
+  {
+    "id": "TOS-053",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "Captain Pike was the original captain of the Enterprise before Kirk.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Captain Christopher Pike commanded the Enterprise for over a decade before turning her over to Kirk. His era is depicted in 'The Cage,' 'The Menagerie,' and later in 'Strange New Worlds.'"
+  },
+  {
+    "id": "TOS-054",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "In 'The Devil in the Dark,' what is the Horta made of?",
+    "answers": {
+      "A": "Carbon",
+      "B": "Silicon",
+      "C": "Liquid metal",
+      "D": "Pure energy"
+    },
+    "correct": "B",
+    "explanation": "The Horta is a silicon-based life form on Janus VI. Initially attacking miners who were unknowingly destroying her eggs, she communicates with Spock via a mind meld, etching 'NO KILL I' in stone."
+  },
+  {
+    "id": "TOS-055",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "Sarek, Spock's father, also appears in 'Star Trek: The Next Generation.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Mark Lenard reprised his role as Sarek in the TNG episodes 'Sarek' and 'Unification, Part I,' bridging the two series."
+  },
+  {
+    "id": "TOS-056",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Balance of Terror,' what is significant about the Romulan encounter?",
+    "answers": {
+      "A": "It is the first peace treaty between the Federation and Romulans",
+      "B": "It is the first time the Federation sees a Romulan face-to-face",
+      "C": "It marks the Romulans joining the Federation",
+      "D": "It introduces Romulan ale"
+    },
+    "correct": "B",
+    "explanation": "Although the Earth-Romulan War occurred a century earlier, 'Balance of Terror' depicts the first visual contact with Romulans, revealing their physical resemblance to Vulcans."
+  },
+  {
+    "id": "TOS-057",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Quotes & Catchphrases",
+    "question": "The exact line 'Beam me up, Scotty' is never actually spoken in any episode of the original series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Despite its fame, the precise phrase 'Beam me up, Scotty' was never uttered in TOS. Variations like 'Scotty, beam us up' and 'Beam us up, Mr. Scott' do appear."
+  },
+  {
+    "id": "TOS-058",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is the recurring rogue/conman who appears in 'Mudd's Women' and 'I, Mudd'?",
+    "answers": {
+      "A": "Cyrano Jones",
+      "B": "Harcourt Fenton Mudd",
+      "C": "Garth of Izar",
+      "D": "Kor"
+    },
+    "correct": "B",
+    "explanation": "Harcourt Fenton 'Harry' Mudd, played by Roger C. Carmel, is a lovable rogue who appears in 'Mudd's Women,' 'I, Mudd,' and the animated 'Mudd's Passion.'"
+  },
+  {
+    "id": "TOS-059",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Tholians construct a geometric energy web around the Enterprise in 'The Tholian Web.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Two Tholian ships weave a glowing energy web around the Enterprise after Kirk vanishes into an interphase zone, a slow-motion siege that gives the episode its name."
+  },
+  {
+    "id": "TOS-060",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Trouble with Tribbles,' what grain were the tribbles eating?",
+    "answers": {
+      "A": "Plomeek",
+      "B": "Quadrotriticale",
+      "C": "Saurian wheat",
+      "D": "Klingon barley"
+    },
+    "correct": "B",
+    "explanation": "The tribbles feasted on quadrotriticale, a four-lobed hybrid wheat-rye grain meant for Sherman's Planet. Klingons had poisoned the supply, which the tribbles helped expose by dying upon contact."
+  },
+  {
+    "id": "TOS-061",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "'Star Trek: Deep Space Nine' revisited 'The Trouble with Tribbles' in the episode 'Trials and Tribble-ations.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The DS9 30th-anniversary episode 'Trials and Tribble-ations' digitally inserted DS9 cast members into footage from the original 'Trouble with Tribbles' episode."
+  },
+  {
+    "id": "TOS-062",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What test does every Starfleet command cadet famously fail except Kirk?",
+    "answers": {
+      "A": "The Kessik Maneuver",
+      "B": "The Kobayashi Maru",
+      "C": "The Picard Maneuver",
+      "D": "The Sulu Solution"
+    },
+    "correct": "B",
+    "explanation": "The Kobayashi Maru is a no-win simulation. Kirk reprogrammed it to allow victory, earning a commendation for original thinking, as revealed in 'Star Trek II: The Wrath of Khan.'"
+  },
+  {
+    "id": "TOS-063",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "The Prime Directive forbids Starfleet personnel from interfering with the natural development of pre-warp civilizations.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Starfleet's General Order 1, the Prime Directive, is invoked many times in TOS, notably in episodes like 'A Private Little War' and 'The Apple.'"
+  },
+  {
+    "id": "TOS-064",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Sulu's hobby that he shows off in 'The Naked Time'?",
+    "answers": {
+      "A": "Painting",
+      "B": "Fencing",
+      "C": "Botany",
+      "D": "Piano"
+    },
+    "correct": "B",
+    "explanation": "Under the influence of the polywater virus in 'The Naked Time,' Sulu strips to the waist and chases crewmates around the ship with a fencing foil, imagining himself as a swashbuckler."
+  },
+  {
+    "id": "TOS-065",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "The Klingons appearing in the original series have smooth foreheads rather than the ridged appearance seen in later series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "TOS-era Klingons had smooth foreheads due to budget limitations. The discrepancy was later canonically explained as the result of a 22nd-century Augment virus in Enterprise episodes 'Affliction' and 'Divergence.'"
+  },
+  {
+    "id": "TOS-066",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "What is the name of the space station where 'The Trouble with Tribbles' takes place?",
+    "answers": {
+      "A": "Deep Space 9",
+      "B": "Space Station K-7",
+      "C": "Regula I",
+      "D": "Starbase 11"
+    },
+    "correct": "B",
+    "explanation": "Space Station K-7, near Sherman's Planet and the Klingon border, hosts the diplomatic incident, the brawl, and the tribble infestation in the classic episode."
+  },
+  {
+    "id": "TOS-067",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of Spock's mother?",
+    "answers": {
+      "A": "T'Pau",
+      "B": "Amanda Grayson",
+      "C": "Perrin",
+      "D": "T'Lar"
+    },
+    "correct": "B",
+    "explanation": "Amanda Grayson, played by Jane Wyatt in TOS and the films, is Spock's human mother. She first appears in 'Journey to Babel.'"
+  },
+  {
+    "id": "TOS-068",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Enterprise Incident,' Spock pretends to defect to the Romulans to steal their cloaking device.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Kirk and Spock execute a covert Federation operation to steal a Romulan cloaking device. Spock romances the Romulan commander as part of the ruse."
+  },
+  {
+    "id": "TOS-069",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Menagerie,' to what planet does Spock illegally transport the disabled Captain Pike?",
+    "answers": {
+      "A": "Rigel VII",
+      "B": "Talos IV",
+      "C": "Vulcan",
+      "D": "Janus VI"
+    },
+    "correct": "B",
+    "explanation": "Spock hijacks the Enterprise to bring Pike to Talos IV, the one planet under General Order 7 with a death penalty. The illusion-casting Talosians give Pike a happy mental life with Vina."
+  },
+  {
+    "id": "TOS-070",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Klingon word 'qapla'' translates as 'success.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "'qapla'' is the Klingon word for 'success,' used as a farewell or congratulation. It is distinct from 'quv' (honor) and 'batlh' (honor, with implications of dignity)."
+  },
+  {
+    "id": "TOS-071",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who served as the Enterprise's first officer during 'The Cage' (the original pilot)?",
+    "answers": {
+      "A": "Mr. Spock",
+      "B": "Number One",
+      "C": "Jose Tyler",
+      "D": "Philip Boyce"
+    },
+    "correct": "B",
+    "explanation": "'Number One,' played by Majel Barrett, served as Pike's first officer in 'The Cage.' Footage of her appears in 'The Menagerie,' and she was later named Una Chin-Riley in 'Strange New Worlds.'"
+  },
+  {
+    "id": "TOS-072",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Galileo Seven,' Spock commands a shuttle crew stranded on a planet, his first command experience.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Spock leads the shuttle crew on Taurus II against hostile giant ape-like aliens. The episode is a defining moment showing Spock learning that logical command must sometimes incorporate intuition."
+  },
+  {
+    "id": "TOS-073",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "In 'Star Trek II: The Wrath of Khan,' what device does Khan steal and try to use as a weapon?",
+    "answers": {
+      "A": "The Doomsday Machine",
+      "B": "The Genesis Device",
+      "C": "The Omega Particle",
+      "D": "The Guardian of Forever"
+    },
+    "correct": "B",
+    "explanation": "The Genesis Device, developed by Dr. Carol Marcus and her son David, is designed to instantly terraform dead worlds. Khan seizes it from Regula I station to use against Kirk."
+  },
+  {
+    "id": "TOS-074",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Kirk's son David Marcus is killed by Klingons in 'Star Trek III: The Search for Spock.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "David is murdered on the Genesis planet by one of Commander Kruge's Klingons, while protecting Saavik and the regenerated young Spock."
+  },
+  {
+    "id": "TOS-075",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "In 'Star Trek IV: The Voyage Home,' what species must the crew bring forward in time to save Earth?",
+    "answers": {
+      "A": "Bottlenose dolphins",
+      "B": "Humpback whales",
+      "C": "Blue whales",
+      "D": "Bald eagles"
+    },
+    "correct": "B",
+    "explanation": "The crew time-travels to 1986 San Francisco to retrieve two humpback whales (George and Gracine), the only species that can answer the destructive probe threatening Earth."
+  },
+  {
+    "id": "TOS-076",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Spock's Brain,' Spock's brain is literally removed and used to operate a planet's life-support systems.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The infamous season 3 opener has Kara surgically remove Spock's brain to serve as the controller of an underground complex on Sigma Draconis VI. McCoy operates a remote-control device to walk Spock's body."
+  },
+  {
+    "id": "TOS-077",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "What Klingon captain appears in 'Errand of Mercy,' 'Day of the Dove' (as a different officer), and is famously played by John Colicos?",
+    "answers": {
+      "A": "Kang",
+      "B": "Kor",
+      "C": "Koloth",
+      "D": "Kruge"
+    },
+    "correct": "B",
+    "explanation": "Kor, played by John Colicos, debuts as the Klingon governor in 'Errand of Mercy.' Colicos reprised the role decades later in 'Star Trek: Deep Space Nine.'"
+  },
+  {
+    "id": "TOS-078",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "In 'Star Trek VI: The Undiscovered Country,' the Klingon moon Praxis explodes, triggering a crisis that leads to a peace treaty.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The explosion of Praxis, the Klingons' primary energy production facility, cripples the Empire and leads to the Khitomer Accords, which the conspirators try to derail by assassinating Chancellor Gorkon."
+  },
+  {
+    "id": "TOS-079",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "Which TOS race is biologically incapable of lying and known for being argumentative?",
+    "answers": {
+      "A": "Andorians",
+      "B": "Tellarites",
+      "C": "Bolians",
+      "D": "Vulcans"
+    },
+    "correct": "B",
+    "explanation": "Tellarites, one of the four founding species of the Federation alongside Humans, Vulcans, and Andorians, are characterized as gruff and argumentative. They appear notably in 'Journey to Babel.'"
+  },
+  {
+    "id": "TOS-080",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "The pacifist Halkans, who refuse to share dilithium with the Federation, appear in 'Mirror, Mirror.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Both the prime and Mirror Universe storylines of 'Mirror, Mirror' revolve around negotiating with the Halkans for dilithium mining rights, which they refuse on ethical grounds."
+  },
+  {
+    "id": "TOS-081",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Which yeoman, played by Grace Lee Whitney, appeared in early season 1 episodes and later in 'Star Trek IV' and 'Star Trek VI'?",
+    "answers": {
+      "A": "Tonia Barrows",
+      "B": "Janice Rand",
+      "C": "Mira Romaine",
+      "D": "Martha Landon"
+    },
+    "correct": "B",
+    "explanation": "Yeoman Janice Rand appeared in season 1 of TOS and returned in 'The Motion Picture,' 'The Voyage Home,' 'The Undiscovered Country,' and on 'Voyager' as Commander Rand."
+  },
+  {
+    "id": "TOS-082",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "The Guardian of Forever is a time portal introduced in 'The City on the Edge of Forever.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Guardian of Forever is a sentient, ring-shaped portal capable of showing and accessing any moment in history. McCoy accidentally goes through and alters the timeline before Kirk and Spock follow him."
+  },
+  {
+    "id": "TOS-083",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "On what planet does Khan's expedition find itself stranded between 'Space Seed' and 'Wrath of Khan,' after a catastrophic event?",
+    "answers": {
+      "A": "Ceti Alpha V, after Ceti Alpha VI explodes",
+      "B": "Tarsus IV, after a famine",
+      "C": "Nimbus III, after civil war",
+      "D": "Rura Penthe, after a prison break"
+    },
+    "correct": "A",
+    "explanation": "Six months after the Botany Bay survivors settled on Ceti Alpha V, the sixth planet exploded, shifting Ceti Alpha V's orbit and turning it into a hellish wasteland, as Khan describes to Chekov in 'Wrath of Khan.'"
+  },
+  {
+    "id": "TOS-084",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "Starfleet's General Order 7, in effect during TOS, forbids contact with Talos IV under penalty of death.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "General Order 7 makes Talos IV the only world to which travel is punishable by death, a fact central to the trial in 'The Menagerie.'"
+  },
+  {
+    "id": "TOS-085",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'A Piece of the Action,' the Iotians model their society on what 20th-century Earth book left by a previous starship?",
+    "answers": {
+      "A": "A book on Nazi Germany",
+      "B": "A book on Chicago Mobs of the Twenties",
+      "C": "A book on the Roman Empire",
+      "D": "A book on the American Revolution"
+    },
+    "correct": "B",
+    "explanation": "The Iotians, a culturally imitative people, modeled their entire civilization on a book about 1920s Chicago gangsters accidentally left behind by the USS Horizon a century earlier."
+  },
+  {
+    "id": "TOS-086",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The USS Defiant, lost in 'The Tholian Web,' is the same ship that later appears on 'Star Trek: Enterprise' in the Mirror Universe two-parter 'In a Mirror, Darkly.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Constitution-class USS Defiant slipped through an interphase rift in 'The Tholian Web' and traveled back in time to the Mirror Universe, where it was captured by Mirror humans in 'In a Mirror, Darkly.'"
+  },
+  {
+    "id": "TOS-087",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Carol Marcus, Kirk's former lover and David's mother, is a leading scientist on what project?",
+    "answers": {
+      "A": "Project Pathfinder",
+      "B": "The Genesis Project",
+      "C": "Project Daedalus",
+      "D": "Project Khitomer"
+    },
+    "correct": "B",
+    "explanation": "Dr. Carol Marcus heads the Genesis Project, developing a terraforming device on Regula I that becomes central to 'Star Trek II: The Wrath of Khan.'"
+  },
+  {
+    "id": "TOS-088",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Quotes & Catchphrases",
+    "question": "Spock's final words to Kirk in 'The Wrath of Khan' are 'I have been, and always shall be, your friend. Live long and prosper.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "After sacrificing himself to repair the warp drive in the irradiated engine room, Spock delivers this famous farewell to Kirk through the glass partition in one of Trek's most iconic scenes."
+  },
+  {
+    "id": "TOS-089",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Corbomite Maneuver,' what alien commander first appears as a fearsome ogre but is revealed to be a small child-like being?",
+    "answers": {
+      "A": "Trelane",
+      "B": "Balok",
+      "C": "Charlie X",
+      "D": "Gary Mitchell"
+    },
+    "correct": "B",
+    "explanation": "Balok, commander of the First Federation flagship Fesarius, projects a terrifying image but is actually a small humanoid played by Clint Howard. The episode introduces Kirk's 'corbomite' bluff tactic."
+  },
+  {
+    "id": "TOS-090",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Kolinahr is the Vulcan discipline by which one purges all remaining emotions to achieve pure logic.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Kolinahr is first depicted in 'Star Trek: The Motion Picture,' where Spock undergoes the ritual on Vulcan but fails to complete it after sensing V'Ger's consciousness."
+  },
+  {
+    "id": "TOS-091",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "In 'Whom Gods Destroy,' what former Starfleet captain, now in an asylum on Elba II, has gained the power to change his appearance?",
+    "answers": {
+      "A": "Ron Tracey",
+      "B": "Garth of Izar",
+      "C": "Matt Decker",
+      "D": "John Christopher"
+    },
+    "correct": "B",
+    "explanation": "Garth of Izar, a once-legendary Starfleet captain studied at the Academy, is committed to the Elba II asylum after acquiring cellular shape-shifting abilities and going insane."
+  },
+  {
+    "id": "TOS-092",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "In 'Star Trek III: The Search for Spock,' the USS Enterprise is destroyed by Kirk's self-destruct command.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Kirk activates the auto-destruct to take out boarding Klingons. The Enterprise NCC-1701 burns up in the Genesis planet's atmosphere, a moment Kirk describes as 'the most painful sight of my life.'"
+  },
+  {
+    "id": "TOS-093",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "By what year (Earth calendar) is the United Federation of Planets officially founded in established canon?",
+    "answers": {
+      "A": "2063",
+      "B": "2151",
+      "C": "2161",
+      "D": "2245"
+    },
+    "correct": "C",
+    "explanation": "The Federation is founded in 2161, following the events of 'Star Trek: Enterprise.' The five-year mission of Kirk's Enterprise runs from 2265 to 2270."
+  },
+  {
+    "id": "TOS-094",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Saavik, who appears in 'The Wrath of Khan,' 'The Search for Spock,' and 'The Voyage Home,' is described as being part Romulan in some sources.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Although the films present her as Vulcan, scripts and novels established Saavik as half-Romulan. The reference was cut from the final theatrical versions but persists in supplemental materials."
+  },
+  {
+    "id": "TOS-095",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Journey to Babel,' what is the diplomatic conference about?",
+    "answers": {
+      "A": "The Khitomer Accords",
+      "B": "Whether to admit Coridan into the Federation",
+      "C": "Dilithium mining on Halka",
+      "D": "The Romulan Neutral Zone"
+    },
+    "correct": "B",
+    "explanation": "The Enterprise transports ambassadors, including Sarek, to a Federation council session on the admission of Coridan, a dilithium-rich world whose membership is opposed by several parties."
+  },
+  {
+    "id": "TOS-096",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Conscience of the King,' Kirk investigates a Shakespearean actor he suspects is the genocidal Kodos the Executioner.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Anton Karidian, leader of a traveling Shakespearean company, is suspected of being Kodos, who ordered the massacre of 4,000 colonists on Tarsus IV when Kirk was a teenager and a witness."
+  },
+  {
+    "id": "TOS-097",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the name of the doomed sister ship discovered derelict in 'The Doomsday Machine'?",
+    "answers": {
+      "A": "USS Defiant",
+      "B": "USS Constellation",
+      "C": "USS Exeter",
+      "D": "USS Intrepid"
+    },
+    "correct": "B",
+    "explanation": "The Constitution-class USS Constellation, commanded by Commodore Matt Decker, is found gutted after an encounter with the planet killer. Decker uses her to ram and disable the machine."
+  },
+  {
+    "id": "TOS-098",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Quotes & Catchphrases",
+    "question": "Kirk's eulogy for Spock in 'The Wrath of Khan' includes the line, 'Of all the souls I have encountered in my travels, his was the most... human.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Kirk delivers this eulogy during Spock's funeral aboard the Enterprise before his torpedo casket is launched toward the newly formed Genesis planet."
+  },
+  {
+    "id": "TOS-099",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "Which TOS-era Klingon captain reappears decades later on 'Deep Space Nine' alongside Kor and Kang in the episode 'Blood Oath'?",
+    "answers": {
+      "A": "Kruge",
+      "B": "Koloth",
+      "C": "Chang",
+      "D": "Gowron"
+    },
+    "correct": "B",
+    "explanation": "Koloth, originally seen in 'The Trouble with Tribbles,' reunites with Kor and Kang on DS9 in 'Blood Oath' to fulfill an oath of vengeance against the Albino."
+  },
+  {
+    "id": "TOS-100",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "In 'Star Trek II: The Wrath of Khan,' Spock transfers his katra (living spirit) into Dr. McCoy before sacrificing himself.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Just before entering the radiation-flooded engine room, Spock performs a mind meld on McCoy and says 'Remember,' depositing his katra into Bones. This sets up the plot of 'Star Trek III: The Search for Spock.'"
+  },
+  {
+    "id": "TOS-101",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Which actor originated the role of Captain James T. Kirk in The Original Series?",
+    "answers": {
+      "A": "Leonard Nimoy",
+      "B": "DeForest Kelley",
+      "C": "William Shatner",
+      "D": "James Doohan"
+    },
+    "correct": "C",
+    "explanation": "William Shatner played Kirk across all three TOS seasons (1966-1969) and reprised the role in seven feature films, ending with Star Trek: Generations (1994)."
+  },
+  {
+    "id": "TOS-102",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Klingons in The Original Series have smooth foreheads, without the cranial ridges featured in later series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Original budget constraints produced ridgeless Klingons; the franchise later canonized this in Enterprise's 'Affliction'/'Divergence' (2005) via an Augment virus that affected one generation of Klingons."
+  },
+  {
+    "id": "TOS-103",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "Besides phasers, what is the Enterprise's primary directed-energy/explosive weapon?",
+    "answers": {
+      "A": "Disruptor cannons",
+      "B": "Photon torpedoes",
+      "C": "Tricobalt devices",
+      "D": "Plasma mortars"
+    },
+    "correct": "B",
+    "explanation": "Photon torpedoes are the Enterprise's standard heavy munition throughout TOS. Disruptors are Klingon/Romulan weapons; tricobalt devices appear much later in Voyager-era stories."
+  },
+  {
+    "id": "TOS-104",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Naked Time,' a contagion strips away inhibitions. What memorable behavior does Sulu exhibit?",
+    "answers": {
+      "A": "Sings opera in Engineering",
+      "B": "Confesses his love for Uhura",
+      "C": "Strips to the waist and roams the corridors with a fencing foil",
+      "D": "Cries uncontrollably on the bridge"
+    },
+    "correct": "C",
+    "explanation": "Sulu's shirtless fencing scene became one of TOS's most iconic comedic moments; George Takei was an avid fencer in real life and reportedly relished the chance to perform it."
+  },
+  {
+    "id": "TOS-105",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Quotes & Catchphrases",
+    "question": "Dr. McCoy's recurring exasperated catchphrase begins 'I'm a doctor, not a...'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "McCoy uses this construction across many episodes, completing it with 'bricklayer,' 'engineer,' 'mechanic,' 'escalator,' and more. The format has been parodied across the entire franchise."
+  },
+  {
+    "id": "TOS-106",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "In 'Mirror, Mirror,' how do Kirk and the landing party first visually distinguish the mirror-universe Spock from their own?",
+    "answers": {
+      "A": "He wears Vulcan ceremonial robes",
+      "B": "He has a goatee/beard",
+      "C": "His ears are noticeably pointier",
+      "D": "He has a scar across his face"
+    },
+    "correct": "B",
+    "explanation": "Mirror-Spock's neatly trimmed goatee became the most enduring visual shorthand for an evil counterpart in pop culture, originating the 'evil goatee' trope."
+  },
+  {
+    "id": "TOS-107",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "In 'The Doomsday Machine,' what is the ultimate fate of the USS Constellation?",
+    "answers": {
+      "A": "It is captured by Klingons",
+      "B": "It escapes to deep space at maximum warp",
+      "C": "It is salvaged and refit by the Enterprise",
+      "D": "Kirk overloads its impulse engines and rams it down the planet-killer's maw, destroying the weapon"
+    },
+    "correct": "D",
+    "explanation": "After Commodore Decker's earlier suicide run only stunned the machine, Kirk used the gutted Constellation as a much larger antimatter bomb, finally destroying the planet-killer."
+  },
+  {
+    "id": "TOS-108",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "The TOS episode 'Plato's Stepchildren' featured one of the first scripted interracial kisses on American network television.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The 1968 episode shows Kirk and Uhura forced to kiss by telekinetic aliens. NBC affiliates were anxious about Southern markets, but the scene aired nationally without significant boycott."
+  },
+  {
+    "id": "TOS-109",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "Which figure from Earth mythology, revealed to be a powerful alien, demands worship from the Enterprise crew on Pollux IV?",
+    "answers": {
+      "A": "Zeus",
+      "B": "Apollo",
+      "C": "Hermes",
+      "D": "Ares"
+    },
+    "correct": "B",
+    "explanation": "In 'Who Mourns for Adonais?' Apollo claims to be the last of the ancient 'gods' (advanced aliens who visited Earth in antiquity) and demands the crew's devotion before they finally outwit him."
+  },
+  {
+    "id": "TOS-110",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Timeline & History",
+    "question": "TOS originally places the Eugenics Wars and Khan Noonien Singh's tyrannical rule of Earth in the 1990s.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Space Seed,' Khan is described as having ruled more than a quarter of Earth from 1992 to 1996. Later productions retconned these wars as covert, but the explicit dating is preserved in dialogue and in Wrath of Khan."
+  }
+]
