@@ -1498,6 +1498,159 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "A Cytherian probe boosts Lt. Reginald Barclay's intellect to the point where he interfaces directly with the Enterprise computer, allowing the ship to reach the galactic center."
+  },
+  {
+    "id": "TNG-101",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Which actor plays Captain Jean-Luc Picard in TNG?",
+    "answers": {
+      "A": "Brent Spiner",
+      "B": "Patrick Stewart",
+      "C": "Jonathan Frakes",
+      "D": "Michael Dorn"
+    },
+    "correct": "B",
+    "explanation": "Patrick Stewart played Picard across all 7 TNG seasons (1987-1994), four feature films, and the Paramount+ series Star Trek: Picard (2020-2023)."
+  },
+  {
+    "id": "TNG-102",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The Enterprise-D is a Galaxy-class ship designed to carry families and civilians, not just Starfleet personnel.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Galaxy-class starships were designed for long-duration deep-space exploration with families aboard, including children's schools, civilian residential quarters, and amenities like Ten Forward."
+  },
+  {
+    "id": "TNG-103",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What is the title of TNG's two-part pilot episode?",
+    "answers": {
+      "A": "Where No One Has Gone Before",
+      "B": "The Naked Now",
+      "C": "Encounter at Farpoint",
+      "D": "All Good Things..."
+    },
+    "correct": "C",
+    "explanation": "'Encounter at Farpoint' (1987) introduces Picard's crew, the Enterprise-D, and the omnipotent Q, who puts humanity on trial — a story line bookended by the finale 'All Good Things...' seven seasons later."
+  },
+  {
+    "id": "TNG-104",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Dr. Crusher's first name?",
+    "answers": {
+      "A": "Deanna",
+      "B": "Beverly",
+      "C": "Christine",
+      "D": "Katherine"
+    },
+    "correct": "B",
+    "explanation": "Beverly Howard Crusher serves as the Enterprise-D's Chief Medical Officer for most of the series and is the mother of Wesley Crusher."
+  },
+  {
+    "id": "TNG-105",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "Q first appears in TNG's pilot episode 'Encounter at Farpoint' and is the same character that returns throughout the series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Q (played by John de Lancie) debuts in 'Encounter at Farpoint' putting humanity on trial; he returns in episodes like 'Q Who,' 'Tapestry,' and the finale 'All Good Things...' as well as in Voyager and Picard."
+  },
+  {
+    "id": "TNG-106",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "The Klingon greeting 'nuqneH' literally translates to which phrase?",
+    "answers": {
+      "A": "Live well",
+      "B": "What do you want?",
+      "C": "Greetings, friend",
+      "D": "Honor be with you"
+    },
+    "correct": "B",
+    "explanation": "Klingon culture has no equivalent of casual pleasantries; 'nuqneH' (literally 'what do you want?') is the standard greeting, reflecting their direct martial culture."
+  },
+  {
+    "id": "TNG-107",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Sins of the Father,' what does Worf accept in order to protect the Klingon Empire from civil war?",
+    "answers": {
+      "A": "Exile from the Empire",
+      "B": "Death in ritual combat",
+      "C": "Discommendation — formal disgrace and severance from the House of Mogh",
+      "D": "Election as new Chancellor"
+    },
+    "correct": "C",
+    "explanation": "Worf accepts discommendation to conceal the true traitor — Ja'rod of the House of Duras — preserving political stability. The disgrace is later lifted in 'Redemption.'"
+  },
+  {
+    "id": "TNG-108",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "A Galaxy-class starship like the Enterprise-D has 42 decks.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Per the Star Trek: The Next Generation Technical Manual and on-screen references, Galaxy-class starships have 42 decks across the saucer and stardrive sections."
+  },
+  {
+    "id": "TNG-109",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "In which feature film does Picard finally confront the Borg Queen?",
+    "answers": {
+      "A": "Star Trek: Generations",
+      "B": "Star Trek: First Contact",
+      "C": "Star Trek: Insurrection",
+      "D": "Star Trek: Nemesis"
+    },
+    "correct": "B",
+    "explanation": "Star Trek: First Contact (1996) introduces the Borg Queen (Alice Krige), whom Picard ultimately defeats while protecting Zefram Cochrane's first warp flight in 2063."
+  },
+  {
+    "id": "TNG-110",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Timeline & History",
+    "question": "Star Trek: First Contact depicts the historical first meeting between humans and Vulcans on April 5, 2063.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Vulcans detect Zefram Cochrane's warp flight from the Phoenix and land in Bozeman, Montana — establishing the canonical First Contact date that Picard references throughout TNG."
   }
 ]

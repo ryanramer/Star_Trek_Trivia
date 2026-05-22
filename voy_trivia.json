@@ -1348,7 +1348,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Learning Curve' (Season 1), the bio-neural gel packs are infected by a bacterium from Neelix's cheese; the Doctor treats them with medical heat to kill the infection, a vulnerability the show repeatedly highlights."
   },
   {
     "id": "VOY-091",
@@ -1363,7 +1364,8 @@
       "C": "Ktarian Guard Neelan",
       "D": "Lieutenant Ktarian"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Greskrendtregk is the Ktarian husband of Ensign Samantha Wildman and father of Naomi; he remained in the Alpha Quadrant when Voyager was stranded and is referenced in 'Elogium' and 'Mortal Coil.'"
   },
   {
     "id": "VOY-092",
@@ -1376,7 +1378,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Relativity' (Season 5), Seven of Nine is recruited by Captain Braxton of the 29th-century Federation timeship USS Relativity to prevent the destruction of Voyager via a temporal weapon."
   },
   {
     "id": "VOY-093",
@@ -1391,7 +1394,8 @@
       "C": "He performed unauthorized surgery on a crew member",
       "D": "He deleted another EMH's program"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Latent Image' (Season 5), the Doctor uncovers a triage decision in which he was forced to choose between two equally injured patients - his close friendship with one drove the choice, and the resulting guilt fractured his program until Janeway intervened."
   },
   {
     "id": "VOY-094",
@@ -1404,7 +1408,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "The Borg's territory is organized into numbered Unimatrices (e.g., Unimatrix 01, where the Borg Queen resides as referenced in 'Dark Frontier' and 'Unimatrix Zero'), not just informally 'Borg space.'"
   },
   {
     "id": "VOY-095",
@@ -1419,7 +1424,8 @@
       "C": "350",
       "D": "257"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Per the Star Trek: Voyager Technical Manual and dialogue throughout the series, the standard Intrepid-class crew complement is 141, though Voyager's actual numbers fluctuate as crew is lost and added during the Delta Quadrant journey."
   },
   {
     "id": "VOY-096",
@@ -1432,7 +1438,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "In 'Equinox, Part II,' Captain Ransom has a change of heart and tries to evacuate his crew while opening communication with the nucleogenic lifeforms; he goes down with the Equinox during their final attack."
   },
   {
     "id": "VOY-097",
@@ -1447,7 +1454,8 @@
       "C": "Starfleet property",
       "D": "A protected artistic work, though his personhood status is left unresolved"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "In 'Author, Author' (Season 7), the arbitrator rules that the Doctor qualifies as an artist with rights over his work 'Photons Be Free,' but explicitly declines to rule on the broader question of holographic personhood."
   },
   {
     "id": "VOY-098",
@@ -1460,7 +1468,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "B'Elanna struggles with her Klingon identity throughout the series, in episodes such as 'Faces' (where she is literally split into Klingon and human halves), 'Day of Honor,' 'Barge of the Dead,' and 'Lineage.'"
   },
   {
     "id": "VOY-099",
@@ -1475,7 +1484,8 @@
       "C": "Lwaxana Troi",
       "D": "Counselor Troi"
     },
-    "correct": "D"
+    "correct": "D",
+    "explanation": "In 'Life Line' (Season 6), Counselor Deanna Troi (Marina Sirtis) joins Barclay on Jupiter Station to help the Doctor cope emotionally while treating his dying creator, Dr. Lewis Zimmerman."
   },
   {
     "id": "VOY-100",
@@ -1488,6 +1498,159 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Voyager rarely encounters cloaked ships in the Delta Quadrant (the Borg, Kazon, Hirogen, etc. do not use cloaking); the tachyon-beam anti-cloak modification was a recurring TNG trope, not a documented Voyager modification."
+  },
+  {
+    "id": "VOY-101",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Which actress plays Captain Kathryn Janeway in Voyager?",
+    "answers": {
+      "A": "Jeri Ryan",
+      "B": "Kate Mulgrew",
+      "C": "Roxann Dawson",
+      "D": "Genevieve Bujold"
+    },
+    "correct": "B",
+    "explanation": "Kate Mulgrew plays Janeway across all 7 seasons (1995-2001). Genevieve Bujold was originally cast but departed after the first day of filming."
+  },
+  {
+    "id": "VOY-102",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Tom Paris's father is Admiral Owen Paris, a senior Starfleet officer.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Admiral Owen Paris (later involved with Project Pathfinder) is a strict, traditional officer; much of Tom Paris's rebellious arc is framed against his father's expectations."
+  },
+  {
+    "id": "VOY-103",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Captain Janeway's first name?",
+    "answers": {
+      "A": "Kate",
+      "B": "Erin",
+      "C": "Kathryn",
+      "D": "Annika"
+    },
+    "correct": "C",
+    "explanation": "Captain Kathryn Janeway commands Voyager throughout the series. Kate is the actress's real name (Kate Mulgrew); Erin is Seven of Nine's mother; Annika is Seven's birth name."
+  },
+  {
+    "id": "VOY-104",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "In which season does Seven of Nine join Voyager's crew?",
+    "answers": {
+      "A": "Season 2",
+      "B": "Season 3",
+      "C": "Season 4",
+      "D": "Season 5"
+    },
+    "correct": "C",
+    "explanation": "Seven of Nine (Jeri Ryan) joins the cast in the Season 4 opener 'Scorpion, Part II,' after Voyager's temporary alliance with the Borg leaves her severed from the Collective."
+  },
+  {
+    "id": "VOY-105",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Virtuoso,' the Doctor becomes a famous opera celebrity to an alien race that had never encountered music before.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Qomar regard the Doctor's singing as the most sophisticated mathematical art they have ever heard; he nearly resigns from Voyager to pursue an opera career before they tire of him."
+  },
+  {
+    "id": "VOY-106",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Scorpion,' Voyager forms an unprecedented temporary alliance with which adversary to survive a greater threat?",
+    "answers": {
+      "A": "The Hirogen",
+      "B": "The Kazon",
+      "C": "The Borg",
+      "D": "The Vidiians"
+    },
+    "correct": "C",
+    "explanation": "Janeway trades anti-Species-8472 nanoprobe technology to the Borg for safe passage through their space — a controversial deal that also delivers Seven of Nine to the crew."
+  },
+  {
+    "id": "VOY-107",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Tuvix,' Tuvok and Neelix are accidentally merged into a single being. What causes the merge?",
+    "answers": {
+      "A": "A subspace anomaly during transport",
+      "B": "Sabotage by Seska",
+      "C": "A symbiogenetic Delta Quadrant orchid in the transporter buffer",
+      "D": "A Borg-modified transporter pattern"
+    },
+    "correct": "C",
+    "explanation": "A native plant with symbiogenetic properties merges with Tuvok and Neelix in the transporter beam, producing Tuvix. Janeway later forcibly separates him in a famously controversial ethical decision."
+  },
+  {
+    "id": "VOY-108",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Drone,' Seven of Nine's Borg nanoprobes merge with the Doctor's mobile emitter to create an advanced 29th-century Borg drone named One.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "A transporter accident in 'Drone' (Season 5) fuses Seven's nanoprobes with the 29th-century mobile emitter, producing 'One' — a far more advanced drone than anything the contemporary Collective fields. He sacrifices himself to avoid being assimilated."
+  },
+  {
+    "id": "VOY-109",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "The Krenim of 'Year of Hell' specialize in what kind of weapons technology?",
+    "answers": {
+      "A": "Genetic toxins",
+      "B": "Temporal (chroniton-based) weapons that erase enemies from history",
+      "C": "Subspace warheads",
+      "D": "Tachyon disruptors"
+    },
+    "correct": "B",
+    "explanation": "Annorax's temporal weapon ship fires chroniton incursions that retroactively delete civilizations from history — including, repeatedly, Voyager itself."
+  },
+  {
+    "id": "VOY-110",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Endgame,' a future Admiral Janeway travels back in time to help her past self bring Voyager home decades earlier than the original timeline.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Admiral Janeway, who arrived home after 23 more years of attrition and lost crew, breaks the Temporal Prime Directive to help Voyager return via a Borg transwarp hub — a paradox that overwrites the original future."
   }
 ]

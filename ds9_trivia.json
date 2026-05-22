@@ -1438,7 +1438,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "The pilot 'Emissary' opens with Sisko aboard the USS Saratoga at the Battle of Wolf 359, where his wife Jennifer dies and Locutus of Borg (Picard) destroys the ship—events directly connecting to TNG's 'The Best of Both Worlds.'"
   },
   {
     "id": "DS9-097",
@@ -1453,7 +1454,8 @@
       "C": "Tora Naprem",
       "D": "Meru Dukat"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "Tora Ziyal, daughter of Dukat and his Bajoran consort Tora Naprem, is introduced in 'Indiscretion' (Season 4) and is later killed by Damar in 'Sacrifice of Angels.'"
   },
   {
     "id": "DS9-098",
@@ -1466,7 +1468,8 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "Throughout DS9, the Breen are always depicted in their enigmatic helmeted refrigeration suits; their true appearance and physiology are never revealed onscreen, a deliberate worldbuilding choice."
   },
   {
     "id": "DS9-099",
@@ -1481,7 +1484,8 @@
       "C": "It's Only a Paper Moon",
       "D": "Inter Arma Enim Silent Leges"
     },
-    "correct": "B"
+    "correct": "B",
+    "explanation": "'The Siege of AR-558' (Season 7) depicts the brutal ground defense of a Dominion communications relay, drawing heavily on World War II combat film conventions to show the human cost of the Dominion War."
   },
   {
     "id": "DS9-100",
@@ -1494,6 +1498,159 @@
       "A": "True",
       "B": "False"
     },
-    "correct": "A"
+    "correct": "A",
+    "explanation": "After the Breen energy-dampening weapon devastated the Federation fleet at the Second Battle of Chin'toka, the Klingons developed and shared a countermeasure that allowed Allied ships to resist the weapon, as seen in 'When It Rains...'"
+  },
+  {
+    "id": "DS9-101",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Which actor plays Commander/Captain Benjamin Sisko in DS9?",
+    "answers": {
+      "A": "Avery Brooks",
+      "B": "Colm Meaney",
+      "C": "Alexander Siddig",
+      "D": "Michael Dorn"
+    },
+    "correct": "A",
+    "explanation": "Avery Brooks plays Sisko across all 7 seasons (1993-1999) — the first Black lead in a Star Trek series."
+  },
+  {
+    "id": "DS9-102",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Bajorans traditionally wear their religious earring on the right ear.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Bajoran d'ja pagh is worn on the right ear so a Vedek can deliver a blessing by gripping the wearer's earlobe — seen frequently with Kira and the station's clergy."
+  },
+  {
+    "id": "DS9-103",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of the holographic Rat Pack-era lounge singer who befriends the DS9 crew in later seasons?",
+    "answers": {
+      "A": "Vic Fontaine",
+      "B": "Dixon Hill",
+      "C": "Felix Knightly",
+      "D": "Frankie Lewis"
+    },
+    "correct": "A",
+    "explanation": "Vic Fontaine (James Darren), a holographic 1962 Las Vegas crooner, first appears in 'His Way' (Season 6) and becomes a recurring fixture who helps Odo woo Kira and supports the crew emotionally."
+  },
+  {
+    "id": "DS9-104",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Garak's given first name, revealed gradually over the series?",
+    "answers": {
+      "A": "Tekeny",
+      "B": "Skrain",
+      "C": "Elim",
+      "D": "Corat"
+    },
+    "correct": "C",
+    "explanation": "Elim Garak's full name surfaces in 'The Wire' and 'In Purgatory's Shadow,' tied to his backstory as an exiled Obsidian Order operative and Enabran Tain's protégé."
+  },
+  {
+    "id": "DS9-105",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "The Klingon Empire briefly breaks its alliance with the Federation during DS9 and invades Cardassia.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'The Way of the Warrior' (Season 4) — manipulated by a hidden Changeling impersonating General Martok — Chancellor Gowron withdraws from the Khitomer Accords and attacks Cardassia. The alliance is restored in 'By Inferno's Light.'"
+  },
+  {
+    "id": "DS9-106",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "How are new Vorta produced?",
+    "answers": {
+      "A": "Sexually, like most humanoids",
+      "B": "By cloning — when one dies, a new clone with inherited memories activates",
+      "C": "Via symbiotic implantation, like Trill",
+      "D": "Born to Founder mothers"
+    },
+    "correct": "B",
+    "explanation": "The Vorta are engineered clones. Weyoun 4, 5, 6, 7, and 8 all appear in DS9, each inheriting the previous clone's memories upon activation."
+  },
+  {
+    "id": "DS9-107",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In the acclaimed episode 'Duet,' the Cardassian Marritza is initially believed to be which infamous war criminal of the Bajoran Occupation?",
+    "answers": {
+      "A": "Gul Madred",
+      "B": "Gul Darhe'el, the 'Butcher of Gallitep'",
+      "C": "Gul Dukat",
+      "D": "Legate Damar"
+    },
+    "correct": "B",
+    "explanation": "Marritza, a file clerk wracked by guilt over witnessing the Gallitep massacre, deliberately impersonates the dead commandant Darhe'el so he can be publicly tried — a confession of collective Cardassian guilt."
+  },
+  {
+    "id": "DS9-108",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "Sisko's wife Jennifer died in the Battle of Wolf 359, during which Picard had been assimilated as Locutus of Borg.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Jennifer Sisko died aboard the USS Saratoga at Wolf 359, the Borg massacre led by Locutus — fueling Sisko's lingering resentment toward Picard, dramatized in their tense first meeting in the pilot 'Emissary.'"
+  },
+  {
+    "id": "DS9-109",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is the silent Lurian bar patron at Quark's, constantly referenced as a chatterbox but never heard speaking on screen?",
+    "answers": {
+      "A": "Brunt",
+      "B": "Morn",
+      "C": "Broik",
+      "D": "Leck"
+    },
+    "correct": "B",
+    "explanation": "Morn appears in nearly every episode and is repeatedly described as a non-stop talker off-screen — but never speaks on camera, a running joke whose name is an anagram of Cheers' Norm."
+  },
+  {
+    "id": "DS9-110",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In the final season, Kira Nerys helps train Damar's Cardassian resistance against the Dominion.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Kira and Garak join Damar's resistance in the final arc — Bajorans teaching Cardassians how to fight an occupation, mirroring Kira's earlier life as a Bajoran resistance fighter against the Cardassians."
   }
 ]
