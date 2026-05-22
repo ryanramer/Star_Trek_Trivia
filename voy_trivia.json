@@ -1,0 +1,1404 @@
+[
+  {
+    "id": "VOY-001",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is the captain of the USS Voyager?",
+    "answers": {
+      "A": "Janeway",
+      "B": "Chakotay",
+      "C": "Paris",
+      "D": "Tuvok"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-002",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Planets & Locations",
+    "question": "Voyager is stranded in the Delta Quadrant at the start of the series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-003",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What class of starship is the USS Voyager?",
+    "answers": {
+      "A": "Intrepid-class",
+      "B": "Galaxy-class",
+      "C": "Nova-class",
+      "D": "Sovereign-class"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-004",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Seven of Nine is a former Borg drone.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-005",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of Voyager's holographic doctor?",
+    "answers": {
+      "A": "Dr. Zimmerman",
+      "B": "Dr. Crusher",
+      "C": "Dr. Bashir",
+      "D": "The Doctor"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "VOY-006",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Kazon are a Delta Quadrant species that frequently antagonize Voyager in the early seasons.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-007",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Chakotay's role on Voyager?",
+    "answers": {
+      "A": "Helmsman",
+      "B": "Chief Engineer",
+      "C": "Security Chief",
+      "D": "First Officer"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "VOY-008",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Tom Paris serves as Voyager's primary helmsman.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-009",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "Approximately how far is Voyager from home at the start of the series?",
+    "answers": {
+      "A": "100,000 light years",
+      "B": "70,000 light years",
+      "C": "25,000 light years",
+      "D": "50,000 light years"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-010",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "B'Elanna Torres is the Chief Engineer of Voyager and is half-Klingon.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-011",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What species is Tuvok?",
+    "answers": {
+      "A": "Vulcan",
+      "B": "Betazoid",
+      "C": "Romulan",
+      "D": "Bajoran"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-012",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Neelix is an alien cook and morale officer aboard Voyager.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-013",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What unique propulsion technology does Voyager use that standard ships lack?",
+    "answers": {
+      "A": "Bioneural circuitry and bio-neural gel packs",
+      "B": "Bio-neural gel packs",
+      "C": "Ablative hull armor",
+      "D": "Quantum slipstream drive"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-014",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "Species 8472 is considered one of the most dangerous threats Voyager faces.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-015",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Seven of Nine's human birth name?",
+    "answers": {
+      "A": "Clara Hansen",
+      "B": "Sophie Hansen",
+      "C": "Annika Hansen",
+      "D": "Erin Hansen"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-016",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "Voyager is stranded in the Delta Quadrant by an entity called the Caretaker.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-017",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What species is Neelix?",
+    "answers": {
+      "A": "Hirogen",
+      "B": "Talaxian",
+      "C": "Ocampan",
+      "D": "Kazon"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-018",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Kes is an Ocampan whose species only lives about 9 years.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-019",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the registry number of the USS Voyager?",
+    "answers": {
+      "A": "NCC-71701",
+      "B": "NCC-1701-D",
+      "C": "NCC-74205",
+      "D": "NCC-74656"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "VOY-020",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "Janeway merges her Starfleet crew with a Maquis crew at the start of the series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-021",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is Voyager's Operations Officer and Ensign throughout most of the series?",
+    "answers": {
+      "A": "Tom Paris",
+      "B": "Harry Kim",
+      "C": "Tuvok",
+      "D": "Chakotay"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-022",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Hirogen are a hunter species who prize trophies from their prey.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-023",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "What is Captain Janeway's most recognized coffee order?",
+    "answers": {
+      "A": "Coffee, black",
+      "B": "Raktajino, extra strong",
+      "C": "Vulcan spice tea",
+      "D": "Earl Grey tea, hot"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-024",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "The Doctor's holographic matrix was created by Dr. Lewis Zimmerman.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-025",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "How does Voyager finally return to the Alpha Quadrant?",
+    "answers": {
+      "A": "The Caretaker's array",
+      "B": "A slipstream drive",
+      "C": "A Borg transwarp hub",
+      "D": "Transwarp conduit"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-026",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Borg are encountered by Voyager in the Delta Quadrant.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-027",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is Tom Paris's love interest and eventual wife on Voyager?",
+    "answers": {
+      "A": "Kes",
+      "B": "B'Elanna Torres",
+      "C": "Seven of Nine",
+      "D": "Samantha Wildman"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-028",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Chakotay was formerly a Maquis leader before joining Voyager.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-029",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the Borg Queen's role in the Collective?",
+    "answers": {
+      "A": "She controls only tactical decisions",
+      "B": "She is the central processor of the Collective",
+      "C": "She is a symbolic figurehead only",
+      "D": "She manages diplomatic relations"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-030",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "Voyager is equipped with a holographic doctor as its primary medical officer.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-031",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of the Maquis leader who becomes Voyager's first officer?",
+    "answers": {
+      "A": "Torres",
+      "B": "Tuvok",
+      "C": "Seska",
+      "D": "Chakotay"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "VOY-032",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "Seska was a Cardassian spy disguised as a Bajoran who infiltrated the Maquis.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-033",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What is the name of VOY's pilot episode?",
+    "answers": {
+      "A": "Threshold",
+      "B": "Parallax",
+      "C": "Caretaker",
+      "D": "Deadlock"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-034",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What famous opera singer's holographic program does the Doctor become fond of?",
+    "answers": {
+      "A": "Beverly Crusher's program",
+      "B": "The Doctor creates his own opera persona",
+      "C": "Luciano Pavarotti",
+      "D": "Enrico Caruso"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-035",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Seven of Nine was assimilated by the Borg as a young child.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-036",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Blink of an Eye,' Voyager becomes trapped in the orbit of a planet where time moves how much faster?",
+    "answers": {
+      "A": "Much faster \u2014 an entire civilization rises and falls",
+      "B": "100 times faster",
+      "C": "10 times faster",
+      "D": "1,000 times faster"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-037",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "Voyager's warp core uses a matter-antimatter reaction like other Federation ships.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-038",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "Species 8472 originates from which realm?",
+    "answers": {
+      "A": "A subspace pocket",
+      "B": "A transwarp conduit",
+      "C": "The Delta Quadrant nebula",
+      "D": "Fluidic space"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "VOY-039",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Harry Kim is never promoted above Ensign during the entire run of Voyager.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-040",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Year of Hell,' what weapon does Annorax use to erase civilizations from history?",
+    "answers": {
+      "A": "A chronoton torpedo barrage",
+      "B": "A temporal displacement cannon",
+      "C": "A temporal weapon ship",
+      "D": "A time loop device"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-041",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Tuvok is Janeway's oldest and most trusted friend, having served with her before Voyager.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-042",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What Delta Quadrant species employs the 'Think Tank' of problem solvers?",
+    "answers": {
+      "A": "The Malon",
+      "B": "The Think Tank are independent of any species",
+      "C": "The Hazari",
+      "D": "The Devore"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-043",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "Voyager uses a quantum slipstream drive successfully in the episode 'Hope and Fear.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-044",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of the Borg children who are discovered and join Voyager's crew?",
+    "answers": {
+      "A": "Naomi and Icheb only",
+      "B": "Icheb, Lora, and Tal",
+      "C": "Icheb, Mezoti, Rebi, and Azan",
+      "D": "Icheb, Seven, and Three of Five"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-045",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "The Malon are a species responsible for dumping antimatter waste in space.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-046",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Deadlock,' what unusual scenario splits Voyager into two co-existing versions?",
+    "answers": {
+      "A": "A transporter accident",
+      "B": "Time travel",
+      "C": "A mirror universe incursion",
+      "D": "A spatial anomaly causes a duplicate Voyager in a parallel dimension"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "VOY-047",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Naomi Wildman is the first child born on Voyager during the journey home.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-048",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "What is the Doctor's default name before he gives himself one?",
+    "answers": {
+      "A": "The Doctor (no other name)",
+      "B": "Emergency Medical Holographic Program",
+      "C": "EMH Mark I",
+      "D": "Holodoc"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-049",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Devore are a xenophobic species that hunt telepaths.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-050",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What series finale episode title ends Voyager's journey home?",
+    "answers": {
+      "A": "Journey's End",
+      "B": "Homecoming",
+      "C": "All Good Things",
+      "D": "Endgame"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "VOY-051",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Tom Paris was in a penal colony before joining Voyager.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-052",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "Who is the primary Kazon leader who repeatedly antagonizes Voyager in Seasons 1 and 2?",
+    "answers": {
+      "A": "Maje Cullah",
+      "B": "Maje Nistrim",
+      "C": "Maje Jabin",
+      "D": "Maje Razik"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-053",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The Doctor can be transmitted to other ships and locations via mobile emitter.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-054",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "The mobile emitter the Doctor uses is from which time period?",
+    "answers": {
+      "A": "The 31st century",
+      "B": "The 26th century",
+      "C": "The 29th century",
+      "D": "The 22nd century"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-055",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Seven of Nine's Borg designation was Seven of Nine, Tertiary Adjunct of Unimatrix Zero-One.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-056",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "The Voth are a proud Delta Quadrant species who believe they originated where?",
+    "answers": {
+      "A": "In the Delta Quadrant originally",
+      "B": "In the Gamma Quadrant",
+      "C": "On Earth, descended from dinosaurs",
+      "D": "From a generation ship"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-057",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Threshold,' Tom Paris mutates into a salamander-like creature after reaching Warp 10.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-058",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Chakotay's spiritual background?",
+    "answers": {
+      "A": "Maquis military philosophy",
+      "B": "Native American spiritual traditions",
+      "C": "Atheism and logic",
+      "D": "He follows Bajoran religious customs"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-059",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "Q appears in Voyager and brings his son to Janeway to be raised by the crew.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-060",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the name of the ancient Starfleet communication relay network Voyager taps into?",
+    "answers": {
+      "A": "The Pathfinder Network",
+      "B": "The Federation Beacon System",
+      "C": "Starfleet Deep Space Relay Network",
+      "D": "The Midas Array via MIDAS and Project Pathfinder"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "VOY-061",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Lt. Barclay plays a key role on Earth in maintaining contact with Voyager.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-062",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Living Witness,' a backup copy of the Doctor is found on an alien world how many years in the future?",
+    "answers": {
+      "A": "100 years",
+      "B": "700 years",
+      "C": "400 years",
+      "D": "200 years"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-063",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "Janeway grants Maquis crew members provisional Starfleet ranks.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-064",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What hobby does the Doctor passionately pursue beyond medicine?",
+    "answers": {
+      "A": "Painting",
+      "B": "Opera singing",
+      "C": "Competitive chess",
+      "D": "Writing holographic novels"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-065",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Talaxians are a warm and sociable species, fitting Neelix's gregarious personality.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-066",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "What antagonist is responsible for the deaths of Neelix's entire people, the Talaxians of Rinax?",
+    "answers": {
+      "A": "The Haakonian Order",
+      "B": "The Kazon",
+      "C": "The Vidiians",
+      "D": "The Hirogen"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-067",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the name of the Borg transwarp hub that Janeway's future self destroys in 'Endgame'?",
+    "answers": {
+      "A": "Transwarp Nexus 9",
+      "B": "Unimatrix Zero",
+      "C": "The hub has no specific name",
+      "D": "Conduit Omega"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-068",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Seven of Nine's parents were Borg researchers who voluntarily approached the Collective.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-069",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Timeless,' a future Harry Kim sends a message back in time to prevent what disaster?",
+    "answers": {
+      "A": "A Hirogen attack",
+      "B": "Voyager's destruction in a slipstream accident",
+      "C": "The Borg assimilation of Voyager",
+      "D": "Janeway's death"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-070",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Unimatrix Zero is a virtual realm where Borg drones retain their individuality while regenerating.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-071",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of the future Admiral Janeway's ship in 'Endgame'?",
+    "answers": {
+      "A": "USS Challenger",
+      "B": "USS Admiral",
+      "C": "USS Relativity",
+      "D": "USS Rhode Island"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "VOY-072",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "Voyager briefly uses Borg-derived ablative armor and transphasic torpedoes in 'Endgame.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-073",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the Vaadwaur most infamous for historically?",
+    "answers": {
+      "A": "Draining stars for fuel",
+      "B": "Pirating Borg technology",
+      "C": "Using an ancient subspace highway for rapid travel and conquest",
+      "D": "Enslaving the Talaxians"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-074",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Icheb voluntarily had his Borg components removed so Voyager could use them to restore Seven of Nine.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-075",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Course: Oblivion,' what is the disturbing revelation about the Voyager crew in that episode?",
+    "answers": {
+      "A": "They are all holograms",
+      "B": "They are biomimetic duplicates created from Silver Blood",
+      "C": "They are Hirogen replicas",
+      "D": "They are future versions of the crew"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-076",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The Intrepid-class can achieve a maximum warp of 9.975.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-077",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of the future Admiral Janeway's purpose in traveling back to Voyager's time?",
+    "answers": {
+      "A": "To retrieve Seven of Nine for Starfleet",
+      "B": "To bring Voyager home sooner and prevent crew deaths",
+      "C": "To stop a temporal paradox",
+      "D": "To prevent the Borg from winning a war"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-078",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Krenim are a temporal weapons-using species encountered in the 'Year of Hell' arc.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-079",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "In 'Future's End,' Voyager travels back to which decade on Earth?",
+    "answers": {
+      "A": "The 1980s",
+      "B": "The 1990s",
+      "C": "The 2000s",
+      "D": "The 1970s"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-080",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "The Maquis crew members of Voyager were all initially distrustful of Janeway's authority.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-081",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Muse,' the Doctor's holographic novel leads to a crisis when what happens?",
+    "answers": {
+      "A": "An alien race tries to steal his program",
+      "B": "A playwright uses B'Elanna and Voyager's logs as the basis for epic drama",
+      "C": "Voyager sues the Doctor for breach of privacy",
+      "D": "The Doctor's novel gets published and a holographic character in it becomes real"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-082",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Vidiians steal organs from other species to combat a fatal disease called the Phage.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-083",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of the holographic character the Doctor names himself after in one episode?",
+    "answers": {
+      "A": "Schweitzer",
+      "B": "Mozart",
+      "C": "Joe",
+      "D": "Kenneth"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-084",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "In 'Equinox,' the USS Equinox used nucleogenic lifeforms as a fuel source to speed their journey home.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-085",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "Which TNG character helps establish the Pathfinder project that contacts Voyager?",
+    "answers": {
+      "A": "Data",
+      "B": "Geordi La Forge",
+      "C": "Reg Barclay",
+      "D": "Troi"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-086",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Hirogen use holo-technology to recreate historical hunts after obtaining it from Voyager.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-087",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Bride of Chaotica!,' the crew must interact with what type of holodeck characters to defeat alien photonic beings?",
+    "answers": {
+      "A": "Ancient Romans",
+      "B": "Medieval knights",
+      "C": "1950s science fiction serial characters",
+      "D": " 20th-century noir detectives"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-088",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Tuvok mind-melds with a serial killer to understand his violent urges, suffering long-term damage.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-089",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "What is the name of the Ocampa homeworld that the Caretaker was protecting?",
+    "answers": {
+      "A": "Kes'ala",
+      "B": "Ocampa Prime",
+      "C": "It is unnamed and simply called the Ocampa homeworld",
+      "D": "Ocampan IV"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "VOY-090",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The bio-neural gel packs on Voyager can become infected and require medical treatment.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-091",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What was the name of Naomi Wildman's Ktarian father who she never met?",
+    "answers": {
+      "A": "Greskrendtregk",
+      "B": "Ensign Wildman",
+      "C": "Ktarian Guard Neelan",
+      "D": "Lieutenant Ktarian"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-092",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Timeline & History",
+    "question": "In 'Relativity,' Voyager encounters a 29th-century timeship called the USS Relativity.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-093",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Latent Image,' the Doctor discovers a suppressed memory of a moral dilemma. What was it?",
+    "answers": {
+      "A": "He chose to save Seven over Ensign Kim when only one could be saved",
+      "B": "He covered up an accidental death",
+      "C": "He performed unauthorized surgery on a crew member",
+      "D": "He deleted another EMH's program"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-094",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Borg designation for their collective space is 'Borg space' with no other formal name.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "VOY-095",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the maximum crew complement of an Intrepid-class starship?",
+    "answers": {
+      "A": "141",
+      "B": "172",
+      "C": "350",
+      "D": "257"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-096",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "Captain Ransom of the USS Equinox is ultimately killed by the nucleogenic beings he wronged.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-097",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Author, Author,' the Doctor's holographic novel is ruled to be a work of which status?",
+    "answers": {
+      "A": "A legally protected autobiography",
+      "B": "A banned document",
+      "C": "Starfleet property",
+      "D": "A protected artistic work, though his personhood status is left unresolved"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "VOY-098",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "B'Elanna Torres's Klingon heritage caused her significant personal conflict throughout the series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "VOY-099",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "Which DS9 character appears in Voyager's 'Life Line' episode?",
+    "answers": {
+      "A": "Miles O'Brien",
+      "B": "Quark",
+      "C": "Lwaxana Troi",
+      "D": "Counselor Troi"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "VOY-100",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "Voyager's deflector dish was modified to emit a sustained tachyon beam to detect cloaked ships.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B"
+  }
+]

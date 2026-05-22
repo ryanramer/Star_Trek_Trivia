@@ -1,0 +1,441 @@
+/* ============================================================
+   Star Trek Trivia — LCARS-inspired stylesheet
+   ============================================================ */
+
+:root {
+    --bg: #000;
+    --panel: #181818;
+    --panel-light: #2a2a2a;
+    --accent: #ff9900;          /* LCARS orange */
+    --accent-light: #ffcc99;    /* LCARS peach */
+    --accent-blue: #99ccff;     /* LCARS blue */
+    --accent-purple: #cc99cc;
+    --accent-red: #cc6666;
+    --accent-yellow: #ffcc66;
+    --text: #f0f0f0;
+    --text-dim: #999;
+    --correct: #66cc66;
+    --wrong: #cc6666;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Arial Narrow', 'Helvetica Neue Condensed', 'Liberation Sans Narrow', Arial, sans-serif;
+    min-height: 100vh;
+    line-height: 1.4;
+}
+
+/* ===== HEADER ===== */
+header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: var(--bg);
+    padding: 12px 24px;
+    border-bottom: 4px solid var(--accent);
+}
+
+.lcars-bar {
+    background: var(--accent);
+    width: 80px;
+    height: 32px;
+    border-radius: 16px 0 0 16px;
+}
+
+header h1 {
+    flex: 1;
+    margin: 0;
+    color: var(--accent);
+    font-size: 1.8rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+#status-bar {
+    color: var(--accent-blue);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+/* ===== MAIN LAYOUT ===== */
+main {
+    max-width: 900px;
+    margin: 24px auto;
+    padding: 0 16px;
+}
+
+.screen { display: block; }
+.hidden { display: none !important; }
+
+h2 {
+    color: var(--accent);
+    border-left: 12px solid var(--accent);
+    padding-left: 16px;
+    margin: 24px 0 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 1.5rem;
+}
+
+h3 {
+    color: var(--accent-light);
+    border-left: 8px solid var(--accent-light);
+    padding-left: 12px;
+    margin: 28px 0 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 1.1rem;
+}
+
+/* ===== FORM GROUPS ===== */
+.form-group {
+    background: var(--panel);
+    padding: 16px;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    border-left: 8px solid var(--accent-blue);
+}
+
+.form-group label {
+    display: block;
+    color: var(--accent-light);
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 8px;
+    font-size: 0.85rem;
+}
+
+.button-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.opt-btn {
+    background: var(--panel-light);
+    color: var(--text);
+    border: 2px solid transparent;
+    padding: 8px 16px;
+    font-size: 0.95rem;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: background 0.15s, color 0.15s, transform 0.1s;
+    text-transform: uppercase;
+    font-family: inherit;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+
+.opt-btn:hover {
+    background: var(--accent-light);
+    color: var(--bg);
+}
+
+.opt-btn.active {
+    background: var(--accent);
+    color: var(--bg);
+    border-color: var(--accent-light);
+}
+
+#category-select {
+    background: var(--panel-light);
+    color: var(--text);
+    padding: 8px;
+    border: 2px solid var(--accent-blue);
+    border-radius: 8px;
+    width: 100%;
+    font-size: 1rem;
+    font-family: inherit;
+}
+
+.info-row {
+    color: var(--accent-light);
+    text-align: center;
+    margin: 12px 0;
+    font-size: 0.95rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+/* ===== PRIMARY/SECONDARY BUTTONS ===== */
+.primary-btn {
+    background: var(--accent);
+    color: var(--bg);
+    border: none;
+    padding: 14px 32px;
+    font-size: 1.3rem;
+    font-weight: 900;
+    cursor: pointer;
+    border-radius: 24px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    margin-top: 16px;
+    font-family: inherit;
+    transition: background 0.15s, transform 0.1s;
+}
+
+.primary-btn:hover {
+    background: var(--accent-light);
+    transform: translateY(-2px);
+}
+
+.primary-btn:active {
+    transform: translateY(0);
+}
+
+.secondary-btn {
+    background: var(--panel-light);
+    color: var(--accent-light);
+    border: 2px solid var(--accent-light);
+    padding: 10px 24px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 16px;
+    font-family: inherit;
+    transition: all 0.15s;
+}
+
+.secondary-btn:hover {
+    background: var(--accent-light);
+    color: var(--bg);
+}
+
+.button-bar {
+    display: flex;
+    gap: 12px;
+    justify-content: flex-end;
+    margin-top: 16px;
+}
+
+/* ===== QUIZ SCREEN ===== */
+.quiz-header {
+    display: flex;
+    justify-content: space-between;
+    color: var(--accent-light);
+    margin-bottom: 12px;
+    padding: 10px 20px;
+    background: var(--panel);
+    border-radius: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+.badges {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+}
+
+.badge {
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: var(--panel-light);
+    color: var(--text);
+    letter-spacing: 0.05em;
+}
+
+.badge.series-TNG { background: var(--accent-blue); color: #000; }
+.badge.series-DS9 { background: var(--accent-purple); color: #000; }
+.badge.series-VOY { background: var(--accent-yellow); color: #000; }
+.badge.difficulty-easy { background: var(--correct); color: #000; }
+.badge.difficulty-medium { background: var(--accent); color: #000; }
+.badge.difficulty-hard { background: var(--wrong); color: #fff; }
+.id-badge { background: #444; color: var(--text-dim); font-family: monospace; }
+
+#question-text {
+    background: var(--panel);
+    padding: 24px;
+    border-radius: 12px;
+    border-left: 12px solid var(--accent);
+    color: var(--text);
+    font-size: 1.25rem;
+    line-height: 1.5;
+    margin-bottom: 16px;
+}
+
+#answers {
+    display: grid;
+    gap: 10px;
+}
+
+.answer-btn {
+    background: var(--panel);
+    color: var(--text);
+    border: 2px solid var(--accent-blue);
+    padding: 14px 16px;
+    font-size: 1.05rem;
+    cursor: pointer;
+    border-radius: 12px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    font-family: inherit;
+    transition: background 0.15s, border-color 0.15s, transform 0.1s;
+}
+
+.answer-btn:hover:not(:disabled) {
+    background: var(--panel-light);
+    border-color: var(--accent);
+    transform: translateX(4px);
+}
+
+.answer-letter {
+    background: var(--accent);
+    color: var(--bg);
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+    flex-shrink: 0;
+}
+
+.answer-btn.correct {
+    background: var(--correct);
+    color: #000;
+    border-color: var(--correct);
+}
+.answer-btn.correct .answer-letter { background: #000; color: var(--correct); }
+
+.answer-btn.wrong {
+    background: var(--wrong);
+    color: #fff;
+    border-color: var(--wrong);
+}
+.answer-btn.wrong .answer-letter { background: #000; color: var(--wrong); }
+
+.answer-btn:disabled { cursor: default; }
+
+#feedback {
+    margin: 16px 0;
+    padding: 16px;
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-align: center;
+    letter-spacing: 0.05em;
+}
+#feedback.correct { background: var(--correct); color: #000; }
+#feedback.wrong { background: var(--wrong); color: #fff; }
+
+/* ===== RESULTS SCREEN ===== */
+#final-score-container {
+    text-align: center;
+    background: var(--panel);
+    padding: 32px;
+    border-radius: 12px;
+    margin: 16px 0;
+    border-left: 12px solid var(--accent);
+}
+
+.big-score {
+    font-size: 3.5rem;
+    color: var(--accent);
+    font-weight: 900;
+    letter-spacing: 0.05em;
+}
+
+#percentage {
+    font-size: 2.2rem;
+    color: var(--accent-light);
+    margin: 8px 0;
+    font-weight: bold;
+}
+
+#rank-title {
+    font-size: 1.1rem;
+    color: var(--accent-blue);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 16px;
+}
+
+.cat-row {
+    display: flex;
+    justify-content: space-between;
+    background: var(--panel);
+    padding: 10px 16px;
+    margin-bottom: 4px;
+    border-radius: 8px;
+    border-left: 4px solid var(--accent-blue);
+}
+
+.cat-name { color: var(--text); }
+.cat-score { color: var(--accent-light); font-weight: bold; }
+
+.missed-q {
+    background: var(--panel);
+    border-left: 6px solid var(--wrong);
+    padding: 12px 16px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+}
+
+.missed-header { color: var(--text); font-weight: bold; margin-bottom: 8px; }
+.missed-yours { color: var(--wrong); font-size: 0.95rem; margin-bottom: 4px; }
+.missed-correct { color: var(--correct); font-size: 0.95rem; }
+
+.no-missed {
+    color: var(--correct);
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 24px;
+    background: var(--panel);
+    border-radius: 8px;
+    border-left: 6px solid var(--correct);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: bold;
+}
+
+/* ===== FOOTER ===== */
+footer {
+    text-align: center;
+    color: var(--text-dim);
+    padding: 24px;
+    margin-top: 24px;
+    border-top: 2px solid var(--panel);
+}
+
+/* ===== ERROR ===== */
+.error {
+    background: var(--wrong);
+    color: #fff;
+    padding: 24px;
+    border-radius: 12px;
+    margin: 24px;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 600px) {
+    header h1 { font-size: 1.2rem; letter-spacing: 0.08em; }
+    .lcars-bar { width: 40px; height: 24px; }
+    #status-bar { font-size: 0.75rem; }
+    #question-text { font-size: 1.05rem; padding: 16px; }
+    .big-score { font-size: 2.5rem; }
+    #percentage { font-size: 1.6rem; }
+    .opt-btn { font-size: 0.85rem; padding: 6px 12px; }
+    .primary-btn { font-size: 1.1rem; padding: 12px 24px; }
+}

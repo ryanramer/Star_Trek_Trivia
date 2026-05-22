@@ -1,0 +1,19 @@
+# Build artifacts / logs
+*.log
+
+# Claude Code session state
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (in case anyone ever adds tooling)
+node_modules/

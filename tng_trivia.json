@@ -1,0 +1,1404 @@
+[
+  {
+    "id": "TNG-001",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is the captain of the USS Enterprise-D?",
+    "answers": {
+      "A": "Data",
+      "B": "Jean-Luc Picard",
+      "C": "Geordi La Forge",
+      "D": "William Riker"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-002",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Counselor Troi is half Betazoid.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-003",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the registry number of the USS Enterprise-D?",
+    "answers": {
+      "A": "NCC-74656",
+      "B": "NCC-1701-D",
+      "C": "NCC-1701-C",
+      "D": "NCC-1701-E"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-004",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Data is an android created by Dr. Noonian Soong.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-005",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What species is Worf?",
+    "answers": {
+      "A": "Cardassian",
+      "B": "Klingon",
+      "C": "Vulcan",
+      "D": "Romulan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-006",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "The Borg's famous phrase is 'Resistance is futile.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-007",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of the android crew member aboard the Enterprise-D?",
+    "answers": {
+      "A": "Data",
+      "B": "B-4",
+      "C": "Lore",
+      "D": "Julian"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-008",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Dr. Beverly Crusher is the Chief Medical Officer aboard the Enterprise-D.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-009",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "What is Picard's most famous command phrase when ordering the ship to go to warp?",
+    "answers": {
+      "A": "Full speed ahead",
+      "B": "Engage",
+      "C": "Make it so",
+      "D": "Go to warp"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-010",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The holodeck is a recreational and training facility that creates realistic simulations.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-011",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Geordi La Forge's role on the Enterprise-D?",
+    "answers": {
+      "A": "Helm Officer",
+      "B": "Security Chief",
+      "C": "Chief Engineer",
+      "D": "Chief Medical Officer"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-012",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Wesley Crusher is the son of Dr. Beverly Crusher.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-013",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "What omnipotent being frequently torments the crew of the Enterprise-D?",
+    "answers": {
+      "A": "Armus",
+      "B": "Q",
+      "C": "The Traveler",
+      "D": "Nagilum"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-014",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "The Prime Directive prohibits Starfleet from interfering with the development of pre-warp civilizations.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-015",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What species is Counselor Deanna Troi's mother, Lwaxana?",
+    "answers": {
+      "A": "Vulcan",
+      "B": "Trill",
+      "C": "Betazoid",
+      "D": "Bolian"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-016",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The Enterprise-D is a Galaxy-class starship.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-017",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "What phrase does Picard use when giving a firm order or decision?",
+    "answers": {
+      "A": "So noted",
+      "B": "Confirmed",
+      "C": "Make it so",
+      "D": "Proceed"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-018",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Worf serves as Security Chief on the Enterprise-D.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-019",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the home planet of the Vulcans?",
+    "answers": {
+      "A": "Vulcan",
+      "B": "Betazed",
+      "C": "Romulus",
+      "D": "Qo'noS"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-020",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Commander William Riker is Picard's first officer.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-021",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In which two-part episode is Picard assimilated by the Borg?",
+    "answers": {
+      "A": "Yesterday's Enterprise",
+      "B": "The Best of Both Worlds",
+      "C": "Chain of Command",
+      "D": "The Defector"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-022",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Ferengi society is strongly driven by the pursuit of profit.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-023",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What device allows crew members to be instantly transported from one location to another?",
+    "answers": {
+      "A": "Warp drive",
+      "B": "Transporter",
+      "C": "Holodeck",
+      "D": "Replicator"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-024",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Data has an evil twin brother named Lore.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-025",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "What is Picard's rank at the start of TNG?",
+    "answers": {
+      "A": "Commander",
+      "B": "Commodore",
+      "C": "Admiral",
+      "D": "Captain"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "TNG-026",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "A replicator can produce food and other objects from energy.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-027",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What unique visual aid does Geordi La Forge use due to his blindness?",
+    "answers": {
+      "A": "Neural scanner",
+      "B": "Tricorder attachment",
+      "C": "VISOR",
+      "D": "Cybernetic eye implant"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-028",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Planets & Locations",
+    "question": "Ten Forward is the name of the lounge aboard the Enterprise-D.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-029",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is the bartender of Ten Forward on the Enterprise-D?",
+    "answers": {
+      "A": "Troi",
+      "B": "Whoopi Goldberg's character Guinan",
+      "C": "O'Brien",
+      "D": "Nurse Ogawa"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-030",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Picard's favorite hot drink is Earl Grey tea.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-031",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What Klingon word means honor or glory?",
+    "answers": {
+      "A": "Sto-Vo-Kor",
+      "B": "bat'leth",
+      "C": "mek'leth",
+      "D": "qapla'"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "TNG-032",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Data is incapable of experiencing human emotions without his emotion chip.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-033",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In the TNG pilot episode, which entity puts humanity on trial?",
+    "answers": {
+      "A": "The Traveler",
+      "B": "The Prophets",
+      "C": "Q",
+      "D": "The Borg"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-034",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of Data's cat?",
+    "answers": {
+      "A": "Whiskers",
+      "B": "Mittens",
+      "C": "Spot",
+      "D": "Patches"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-035",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Riker was offered command of his own starship multiple times but turned it down.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-036",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Inner Light,' Picard lives an entire lifetime as which character?",
+    "answers": {
+      "A": "Meribor",
+      "B": "Eline",
+      "C": "Batai",
+      "D": "Katan"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "TNG-037",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Romulans and Vulcans share a common ancestry.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-038",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the maximum standard warp speed of a Galaxy-class starship?",
+    "answers": {
+      "A": "Warp 8",
+      "B": "Warp 9.6",
+      "C": "Warp 9.2",
+      "D": "Warp 10"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-039",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "Picard's Borg designation was Locutus of Borg.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-040",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who replaced Dr. Crusher in Season 2 of TNG?",
+    "answers": {
+      "A": "Dr. Selar",
+      "B": "Nurse Ogawa",
+      "C": "Dr. Crusher returned early",
+      "D": "Dr. Pulaski"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "TNG-041",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Yesterday's Enterprise,' the Enterprise-C travels forward through a temporal rift.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-042",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "What is the name of the Klingon home world?",
+    "answers": {
+      "A": "Romulus",
+      "B": "Betazed",
+      "C": "Qo'noS",
+      "D": "Cardassia Prime"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-043",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Guinan's species, the El-Aurians, are known as a 'race of listeners.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-044",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "What is the Starfleet rank insignia color for command division officers in TNG?",
+    "answers": {
+      "A": "Red",
+      "B": "Teal",
+      "C": "Gold",
+      "D": "Blue"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-045",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Ferengi Rules of Acquisition number 284 in total.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-046",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What holodeck character does Data frequently play detective as?",
+    "answers": {
+      "A": "Dixon Hill",
+      "B": "Sherlock Holmes",
+      "C": "Hercule Poirot",
+      "D": "Sam Spade"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-047",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Worf's foster parents are human, named Sergey and Helena Rozhenko.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-048",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In which episode does Picard play a Dixon Hill holodeck program?",
+    "answers": {
+      "A": "Elementary, Dear Data",
+      "B": "Manhunt",
+      "C": "The Big Goodbye",
+      "D": "Ship in a Bottle"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-049",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The Enterprise-D has a saucer separation capability.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-050",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the Klingon ceremonial blade known as?",
+    "answers": {
+      "A": "mek'leth",
+      "B": "targ",
+      "C": "d'k tahg",
+      "D": "bat'leth"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "TNG-051",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Timeline & History",
+    "question": "TNG is set approximately 100 years after the events of the original Star Trek series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-052",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "Who was the Cardassian torturer in 'Chain of Command Part II'?",
+    "answers": {
+      "A": "Damar",
+      "B": "Dukat",
+      "C": "Gul Madred",
+      "D": "Gul Macet"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-053",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Chain of Command,' Picard famously declares 'There are four lights!'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-054",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What does Troi's species make her capable of?",
+    "answers": {
+      "A": "Mind control",
+      "B": "Precognition",
+      "C": "Telepathy only",
+      "D": "Empathic sensing of emotions"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "TNG-055",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "Miles O'Brien appears in TNG before joining the main cast of DS9.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-056",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "What is the name of the planet where Data was created?",
+    "answers": {
+      "A": "Velara III",
+      "B": "Exo III",
+      "C": "Omicron Theta",
+      "D": "Minos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-057",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Alexander Rozhenko is the son of Worf.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-058",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the name of the tactical station operator whose frequent line is 'Aye, sir'?",
+    "answers": {
+      "A": "Ensign Ro",
+      "B": "Lt. Worf",
+      "C": "Ensign Crusher",
+      "D": "Lt. Yar"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-059",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Tasha Yar is killed in the episode 'Skin of Evil.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-060",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What is the name of the TNG series finale?",
+    "answers": {
+      "A": "Descent",
+      "B": "The Emissary",
+      "C": "Preemptive Strike",
+      "D": "All Good Things..."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "TNG-061",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "The Borg Queen first appears in the TNG television series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-062",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the Borg's collective term for their group consciousness?",
+    "answers": {
+      "A": "The Hive",
+      "B": "The Amalgam",
+      "C": "The Unity",
+      "D": "The Collective"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "TNG-063",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Timeline & History",
+    "question": "First contact between humans and Vulcans occurred on April 5, 2063.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-064",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of Picard's nephew who dies in a tragic accident seen in 'Family'?",
+    "answers": {
+      "A": "Thomas",
+      "B": "Louis",
+      "C": "Robert",
+      "D": "Rene"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "TNG-065",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Cardassians are known for their brutal occupations of other worlds.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-066",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Tapestry,' Q allows Picard to relive his past to prevent which incident?",
+    "answers": {
+      "A": "A barroom fight where he was stabbed through the heart",
+      "B": "The destruction of the Enterprise-D",
+      "C": "His assimilation by the Borg",
+      "D": "His capture by Cardassians"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-067",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Data's positronic net processing speed in calculations per second?",
+    "answers": {
+      "A": "60 billion",
+      "B": "6 trillion",
+      "C": "60 trillion",
+      "D": "600 billion"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-068",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The Galaxy-class starship has a crew complement of approximately 1,012 personnel.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-069",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Measure of a Man,' who serves as prosecutor in Data's sentience hearing?",
+    "answers": {
+      "A": "Commander Riker",
+      "B": "Captain Louvois",
+      "C": "Counselor Troi",
+      "D": "Admiral Nakamura"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-070",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Tamarians communicate exclusively through metaphor and allegory from their own history.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-071",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "The Tamarian captain strands himself and Picard on which planet to force communication?",
+    "answers": {
+      "A": "El-Adrel IV",
+      "B": "Melona IV",
+      "C": "Veridian III",
+      "D": "Solari IV"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-072",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Dr. Soong's wife, Juliana, was secretly an android copy.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-073",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "TNG is set in which century?",
+    "answers": {
+      "A": "22nd century",
+      "B": "24th century",
+      "C": "23rd century",
+      "D": "25th century"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-074",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Cause and Effect,' the Enterprise-D is destroyed and the crew relives the same day multiple times.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-075",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of the Romulan commander who works secretly with Picard in 'The Defector'?",
+    "answers": {
+      "A": "Jarok",
+      "B": "Tomalak",
+      "C": "Sela",
+      "D": "Tebok"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-076",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Sela is the half-Romulan daughter of Tasha Yar from an alternate timeline.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-077",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What material is the primary hull of the Enterprise-D composed of?",
+    "answers": {
+      "A": "Ablative armor plating",
+      "B": "Tritanium alloy",
+      "C": "Duranium and tritanium composite",
+      "D": "Neutronium"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-078",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Frame of Mind,' Riker questions whether his entire life on the Enterprise is a delusion.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-079",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the name of the Klingon afterlife for honorable warriors?",
+    "answers": {
+      "A": "Barge of the Dead",
+      "B": "Sto-Vo-Kor",
+      "C": "Gre'thor",
+      "D": "Fek'lhr"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-080",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Ensign Ro Laren is Bajoran.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-081",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Offspring,' Data creates an android child. What does he name her?",
+    "answers": {
+      "A": "Petal",
+      "B": "Rhea",
+      "C": "Lal",
+      "D": "Nova"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-082",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "The Judge Advocate General (JAG) office adjudicates legal matters within Starfleet.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-083",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "What is the name of the entity that killed Tasha Yar?",
+    "answers": {
+      "A": "Lore",
+      "B": "Armus",
+      "C": "The Crystalline Entity",
+      "D": "Nagilum"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-084",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "The Traveler is from Tau Alpha C.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-085",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What type of particles does the Enterprise use to navigate through a Borg cube's defenses in 'Best of Both Worlds'?",
+    "answers": {
+      "A": "Tachyon particles",
+      "B": "Graviton particles",
+      "C": "Dekyon particles",
+      "D": "Nadion particles"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-086",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Time's Arrow,' the crew discovers Data's severed head in a cave on Earth dating to the 19th century.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-087",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "On which planet is the Crystalline Entity first encountered?",
+    "answers": {
+      "A": "Melona IV",
+      "B": "Omicron Theta",
+      "C": "Gravesworld",
+      "D": "Exo III"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-088",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Bynars from the episode '11001001' communicate in binary code.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-089",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What year does the TNG series finale 'All Good Things...' flash-forward to?",
+    "answers": {
+      "A": "2404",
+      "B": "2395",
+      "C": "2400",
+      "D": "2385"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "TNG-090",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Darmok,' the phrase 'Shaka, when the walls fell' means failure.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-091",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "What is the name of Lore's Borg-led faction?",
+    "answers": {
+      "A": "The Dissenters",
+      "B": "The Renegade Collective",
+      "C": "The Liberators",
+      "D": "The Uprising"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-092",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The Enterprise-D was destroyed on Veridian III in the film Star Trek: Generations.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-093",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "Which TNG character appeared in the DS9 pilot episode?",
+    "answers": {
+      "A": "Picard",
+      "B": "Data",
+      "C": "Riker",
+      "D": "Worf"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-094",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Worf's biological father is Mogh, who was killed at Khitomer.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-095",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the Romulan Senate's governing body called?",
+    "answers": {
+      "A": "The Praetorium",
+      "B": "The High Council",
+      "C": "The Tal Shiar",
+      "D": "The Continuing Committee"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "TNG-096",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "Picard's artificial heart was implanted after he was stabbed by a Nausicaan.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-097",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of Riker's duplicate created by a transporter accident?",
+    "answers": {
+      "A": "Thomas Riker",
+      "B": "Clone Riker",
+      "C": "Beta Riker",
+      "D": "Will Riker"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-098",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Planets & Locations",
+    "question": "The Battle of Khitomer was a Romulan attack on a Klingon outpost.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "TNG-099",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the name of the main navigational deflector dish's primary purpose?",
+    "answers": {
+      "A": "Propulsion boost",
+      "B": "Sensor enhancement",
+      "C": "Clearing debris from the ship's path at warp",
+      "D": "Weapons targeting"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "TNG-100",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "In 'The Nth Degree,' Barclay is temporarily enhanced by an alien probe to superhuman intelligence.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  }
+]

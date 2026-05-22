@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Trek Trivia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="lcars-bar"></div>
+        <h1>STAR&nbsp;TREK&nbsp;TRIVIA</h1>
+        <div id="status-bar">LCARS&nbsp;v1.0</div>
+    </header>
+
+    <main id="main">
+
+        <!-- ================= SETUP SCREEN ================= -->
+        <section id="setup-screen" class="screen">
+            <h2>Mission Parameters</h2>
+
+            <div class="form-group">
+                <label>Series</label>
+                <div class="button-row" id="series-buttons">
+                    <button class="opt-btn active" data-series="ALL">All Series</button>
+                    <button class="opt-btn" data-series="TNG">TNG</button>
+                    <button class="opt-btn" data-series="DS9">DS9</button>
+                    <button class="opt-btn" data-series="VOY">VOY</button>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>Difficulty</label>
+                <div class="button-row" id="difficulty-buttons">
+                    <button class="opt-btn active" data-difficulty="ALL">Mixed</button>
+                    <button class="opt-btn" data-difficulty="easy">Easy</button>
+                    <button class="opt-btn" data-difficulty="medium">Medium</button>
+                    <button class="opt-btn" data-difficulty="hard">Hard</button>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>Number of Questions</label>
+                <div class="button-row" id="count-buttons">
+                    <button class="opt-btn" data-count="10">10</button>
+                    <button class="opt-btn active" data-count="25">25</button>
+                    <button class="opt-btn" data-count="50">50</button>
+                    <button class="opt-btn" data-count="ALL">All Available</button>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>Category Filter</label>
+                <select id="category-select">
+                    <option value="ALL">All Categories</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Question Type</label>
+                <div class="button-row" id="type-buttons">
+                    <button class="opt-btn active" data-type="ALL">Both</button>
+                    <button class="opt-btn" data-type="multiple_choice">Multiple Choice</button>
+                    <button class="opt-btn" data-type="true_false">True/False</button>
+                </div>
+            </div>
+
+            <div id="pool-info" class="info-row"></div>
+
+            <button id="start-btn" class="primary-btn">ENGAGE</button>
+        </section>
+
+        <!-- ================= QUIZ SCREEN ================= -->
+        <section id="quiz-screen" class="screen hidden">
+            <div class="quiz-header">
+                <div id="progress">Question 1 of 25</div>
+                <div id="score">Score: 0</div>
+            </div>
+
+            <div class="badges">
+                <span id="series-badge" class="badge"></span>
+                <span id="difficulty-badge" class="badge"></span>
+                <span id="category-badge" class="badge"></span>
+                <span id="id-badge" class="badge id-badge"></span>
+            </div>
+
+            <div id="question-text"></div>
+            <div id="answers"></div>
+            <div id="feedback" class="hidden"></div>
+
+            <div class="button-bar">
+                <button id="quit-btn" class="secondary-btn">QUIT</button>
+                <button id="next-btn" class="primary-btn hidden">NEXT</button>
+            </div>
+        </section>
+
+        <!-- ================= RESULTS SCREEN ================= -->
+        <section id="results-screen" class="screen hidden">
+            <h2>Mission Complete</h2>
+
+            <div id="final-score-container">
+                <div class="big-score" id="final-score">0 / 0</div>
+                <div id="percentage"></div>
+                <div id="rank-title"></div>
+            </div>
+
+            <h3>Category Breakdown</h3>
+            <div id="category-breakdown"></div>
+
+            <h3>Missed Questions</h3>
+            <div id="missed-list"></div>
+
+            <div class="button-bar">
+                <button id="play-again-btn" class="primary-btn">PLAY AGAIN</button>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <small>Live long and prosper &mdash; powered by 300 trivia questions across TNG, DS9, and VOY</small>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

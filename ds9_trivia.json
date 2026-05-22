@@ -1,0 +1,1404 @@
+[
+  {
+    "id": "DS9-001",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is the commanding officer of Deep Space 9 at the start of the series?",
+    "answers": {
+      "A": "Odo",
+      "B": "Jadzia Dax",
+      "C": "Benjamin Sisko",
+      "D": "Kira Nerys"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-002",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Planets & Locations",
+    "question": "Deep Space 9 is located near the entrance to a stable wormhole.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-003",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What species is Odo?",
+    "answers": {
+      "A": "Bajoran",
+      "B": "Cardassian",
+      "C": "Ferengi",
+      "D": "Changeling/Founder"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-004",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Kira Nerys is a Bajoran who serves as Sisko's first officer.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-005",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What species are the Founders, the rulers of the Dominion?",
+    "answers": {
+      "A": "Cardassians",
+      "B": "Jem'Hadar",
+      "C": "Changelings",
+      "D": "Vorta"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-006",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Quark is a Ferengi bar owner on Deep Space 9.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-007",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "The wormhole near Deep Space 9 leads to which quadrant?",
+    "answers": {
+      "A": "Beta Quadrant",
+      "B": "Delta Quadrant",
+      "C": "Gamma Quadrant",
+      "D": "Alpha Quadrant"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-008",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Jadzia Dax is a Trill who carries a symbiont.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-009",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Sisko's son's name?",
+    "answers": {
+      "A": "Michael",
+      "B": "Aaron",
+      "C": "Jake",
+      "D": "Noah"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-010",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Jem'Hadar are genetically engineered soldiers of the Dominion addicted to a drug called Ketracel-white.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-011",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of the Cardassian tailor and spy on DS9?",
+    "answers": {
+      "A": "Dukat",
+      "B": "Damar",
+      "C": "Garak",
+      "D": "Weyoun"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-012",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "Sisko is promoted from Commander to Captain during the DS9 series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-013",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What religion is central to Bajoran culture?",
+    "answers": {
+      "A": "The Pah-wraith Cult",
+      "B": "The Way of the Prophets",
+      "C": "The Order of the Blessed Exchequer",
+      "D": "The Way of the Warrior"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-014",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Dr. Julian Bashir is the chief medical officer of Deep Space 9.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-015",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the name of Sisko's Starfleet runabout and later warship?",
+    "answers": {
+      "A": "USS Voyager",
+      "B": "USS Orinoco",
+      "C": "USS Defiant",
+      "D": "USS Rio Grande"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-016",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "Gul Dukat was the Cardassian prefect of Bajor during the Occupation.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-017",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "Deep Space 9 was originally built by which power?",
+    "answers": {
+      "A": "The Dominion",
+      "B": "The Federation",
+      "C": "The Cardassians",
+      "D": "The Bajoran Resistance"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-018",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Miles O'Brien serves as Chief of Operations on Deep Space 9.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-019",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What do Bajorans wear on their ears as a sign of their faith?",
+    "answers": {
+      "A": "A simple gold ring",
+      "B": "A comm badge shaped like a sun",
+      "C": "A silver chain",
+      "D": "Earrings called d'ja pagh"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-020",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Sisko is known to the Bajorans as the Emissary of the Prophets.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-021",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What major interstellar conflict dominates the later seasons of DS9?",
+    "answers": {
+      "A": "The Borg Invasion",
+      "B": "The Cardassian Uprising",
+      "C": "The Klingon Civil War",
+      "D": "The Dominion War"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-022",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Worf joins the crew of Deep Space 9 in Season 4.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-023",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the Ferengi holy text that governs all commerce?",
+    "answers": {
+      "A": "The Sacred Marketplace",
+      "B": "The Grand Nagus Scrolls",
+      "C": "The Book of Ferengi",
+      "D": "The Rules of Acquisition"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-024",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Quark's brother is Rom, and Rom's son is Nog.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-025",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who is the Grand Nagus of the Ferengi Alliance at the start of DS9?",
+    "answers": {
+      "A": "Zek",
+      "B": "Brunt",
+      "C": "Ishka",
+      "D": "Rom"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-026",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "The Vorta act as administrators and diplomats for the Dominion.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-027",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "What is the name of the planet Bajor's neighboring Cardassian-held system?",
+    "answers": {
+      "A": "The Badlands",
+      "B": "Terok Nor",
+      "C": "Klingon Outpost",
+      "D": "Cardassia Prime"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-028",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The USS Defiant is equipped with a cloaking device borrowed from the Romulans.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-029",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Odo's primary role on Deep Space 9?",
+    "answers": {
+      "A": "Chief Engineer",
+      "B": "Security Chief",
+      "C": "Chief Medical Officer",
+      "D": "Science Officer"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-030",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Sisko has a passion for cooking and operates a restaurant later in the series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-031",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What ancient Bajoran orb artifacts are said to be gifts from the Prophets?",
+    "answers": {
+      "A": "The Orbs of the Prophets",
+      "B": "The Sacred Relics",
+      "C": "The Tears of the Prophets",
+      "D": "The Prophet Stones"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-032",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "DS9 was the first Star Trek series to feature a continuing serialized storyline.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-033",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who replaces Jadzia Dax as the Dax symbiont host?",
+    "answers": {
+      "A": "Joran",
+      "B": "Ezri",
+      "C": "Tobin",
+      "D": "Curzon"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-034",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "How many previous hosts did the Dax symbiont have before Jadzia?",
+    "answers": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-035",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "Weyoun is a Vorta who serves as an ambassador and administrator for the Dominion.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-036",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In which episode do Sisko and the crew discover the truth about Section 31?",
+    "answers": {
+      "A": "Inter Arma Enim Silent Leges",
+      "B": "Inquisition",
+      "C": "Extreme Measures",
+      "D": "Homefront"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-037",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Changelings revert to a gelatinous state when they regenerate.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-038",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "What is the name of the Changeling homeworld?",
+    "answers": {
+      "A": "Omarion Nebula",
+      "B": "The Great Link",
+      "C": "The Link",
+      "D": "The Founders' World"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-039",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Bashir was genetically enhanced as a child without Starfleet's knowledge.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-040",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "What secret Cardassian intelligence organization does Garak work for?",
+    "answers": {
+      "A": "The Tal Shiar",
+      "B": "Section 31",
+      "C": "The Obsidian Order",
+      "D": "The Cardassian Guard"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-041",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Trials and Tribble-ations,' the DS9 crew travels back in time to the original Star Trek episode 'The Trouble with Tribbles.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-042",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What class of starship is the USS Defiant?",
+    "answers": {
+      "A": "Intrepid-class",
+      "B": "Excelsior-class",
+      "C": "Galaxy-class",
+      "D": "Defiant-class"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-043",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Jadzia Dax and Worf get married during the DS9 series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-044",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the communal merging of Changelings called?",
+    "answers": {
+      "A": "The Merging",
+      "B": "The Collective",
+      "C": "The Confluence",
+      "D": "The Great Link"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-045",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "Dukat eventually becomes possessed by a Pah-wraith.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-046",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What is the name of the mirror universe recurring storyline in DS9?",
+    "answers": {
+      "A": "Through the Looking Glass",
+      "B": "The Looking Glass War",
+      "C": "Mirror Universe",
+      "D": "Crossover"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-047",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Sisko's mother was revealed to be a Prophet who inhabited a human body.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-048",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "Section 31 is described as which type of Starfleet organization?",
+    "answers": {
+      "A": "A rogue intelligence organization operating outside Federation law",
+      "B": "A diplomatic corps",
+      "C": "An elite special forces unit",
+      "D": "A judicial oversight body"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-049",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "Nog becomes the first Ferengi to join Starfleet.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-050",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who kills Jadzia Dax?",
+    "answers": {
+      "A": "Weyoun",
+      "B": "Garak",
+      "C": "Dukat (possessed by a Pah-wraith)",
+      "D": "A Jem'Hadar soldier"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-051",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Cardassians have a deeply authoritarian government with strong military control.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-052",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "What is the original Cardassian name for Deep Space 9?",
+    "answers": {
+      "A": "Korma Station",
+      "B": "Terok Nor",
+      "C": "Cardassia Outpost Alpha",
+      "D": "Empok Nor"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-053",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Damar starts as a loyal Cardassian officer but eventually leads a resistance against the Dominion.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-054",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What unique weapon system does the Defiant use that most Federation ships lack?",
+    "answers": {
+      "A": "Transphasic torpedoes",
+      "B": "Quantum resonance charges",
+      "C": "Pulse phaser cannons",
+      "D": "Tricobalt devices"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-055",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "Worf's wedding to Jadzia took place on the holosuite program of a Klingon warrior's feast.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-056",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Visitor,' an adult Jake sacrifices his life for which purpose?",
+    "answers": {
+      "A": "To save the wormhole",
+      "B": "To defeat the Dominion",
+      "C": "To prevent a Borg invasion",
+      "D": "To restore Sisko from temporal displacement"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-057",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Pah-wraiths are the Bajoran equivalent of evil spirits or fallen Prophets.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-058",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the first name of the Ferengi Grand Nagus who mentors Quark?",
+    "answers": {
+      "A": "Krax",
+      "B": "Brunt",
+      "C": "Neebs",
+      "D": "Zek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-059",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "The DS9 series finale is titled 'What You Leave Behind.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-060",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "What does Weyoun's species (Vorta) have a particular sensitivity to?",
+    "answers": {
+      "A": "Telepathy",
+      "B": "Light",
+      "C": "Taste and flavor (they find most food bland)",
+      "D": "Sound frequencies"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-061",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Odo's mentor figure and father figure on DS9 is Kira Nerys.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-062",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What Klingon ritual does Worf perform when a fellow warrior dies to scare away evil?",
+    "answers": {
+      "A": "Mauk-to'Vor",
+      "B": "Hegh'bat",
+      "C": "Ak'voh",
+      "D": "Death Howl"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-063",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Timeline & History",
+    "question": "The Cardassian Occupation of Bajor lasted approximately 50 years.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-064",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What is the name of the holosuite program Bashir and O'Brien frequently play together?",
+    "answers": {
+      "A": "The Battle of Britain",
+      "B": "A spy thriller featuring Bond-like secret agents",
+      "C": "Dixon Hill",
+      "D": "James Bond"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-065",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Garak claims to be 'just a simple tailor' but is actually a former spy.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-066",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "What Bajoran religious title is the head of the Bajoran faith given?",
+    "answers": {
+      "A": "Ranjen",
+      "B": "Vedek",
+      "C": "Grand Kai",
+      "D": "Kai"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-067",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'In the Pale Moonlight,' Sisko justifies what morally questionable act?",
+    "answers": {
+      "A": "Fabricating evidence to bring the Romulans into the Dominion War",
+      "B": "Destroying a Dominion supply depot in neutral space",
+      "C": "Torturing a Cardassian prisoner",
+      "D": "Assassinating Dukat"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-068",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Curzon Dax was a mentor to Benjamin Sisko.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-069",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What substance do the Jem'Hadar require to survive that the Founders use to control them?",
+    "answers": {
+      "A": "Dominion nectar",
+      "B": "Ketracel-white",
+      "C": "Isogenic enzyme",
+      "D": "Morphogenic enzyme"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-070",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The USS Defiant was originally designed to fight the Borg.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-071",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of Odo's female Changeling adversary who is a Founder?",
+    "answers": {
+      "A": "The Female Shapeshifter",
+      "B": "She has no name; known only as 'the Female Changeling'",
+      "C": "Laas",
+      "D": "The Founder"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-072",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Timeline & History",
+    "question": "The Dominion War results in the near-genocide of the Cardassian population.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-073",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Far Beyond the Stars,' Sisko envisions himself as which character?",
+    "answers": {
+      "A": "A slave on a colony world",
+      "B": "A prophet in ancient Bajor",
+      "C": "A Starfleet admiral in 1950s New York",
+      "D": "Benny Russell, a 1950s science fiction writer"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-074",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "The Dax symbiont was once hosted by a murderer named Joran.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-075",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the Bajoran prophecy about the Emissary called?",
+    "answers": {
+      "A": "The Emissary Scroll",
+      "B": "The First Prophecy",
+      "C": "The Ohalu Prophecy",
+      "D": "The Reckoning"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-076",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "Section 31 engineered a disease to infect the Founders through Odo.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-077",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What was the name of the first runabout lost in the DS9 series?",
+    "answers": {
+      "A": "USS Mekong",
+      "B": "USS Yangtze Kiang",
+      "C": "USS Rio Grande",
+      "D": "USS Orinoco"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-078",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "Lursa and B'Etor, the Duras sisters, appear in DS9.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-079",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the full name of the Cardassian who eventually leads the resistance against the Dominion?",
+    "answers": {
+      "A": "Cartan Damar",
+      "B": "Mekor Damar",
+      "C": "Skrain Dukat",
+      "D": "Corat Damar"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-080",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Sacrifice of Angels,' the wormhole aliens/Prophets destroy a Dominion fleet to save DS9.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-081",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "How many Weyoun clones appear across the DS9 series (including those killed)?",
+    "answers": {
+      "A": "4",
+      "B": "5",
+      "C": "3",
+      "D": "6"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-082",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Garak's mentor and father figure in the Obsidian Order was Enabran Tain.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-083",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "How long did the Dominion War last?",
+    "answers": {
+      "A": "1 year",
+      "B": "3 years",
+      "C": "5 years",
+      "D": "2 years"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-084",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Planets & Locations",
+    "question": "Empok Nor is an abandoned Cardassian station identical in design to Deep Space 9.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-085",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Statistical Probabilities,' Bashir works with a group of genetically enhanced individuals who predict which outcome?",
+    "answers": {
+      "A": "A Federation victory in the Dominion War",
+      "B": "The Prophets sealing the wormhole",
+      "C": "Federation defeat and billions of deaths unless they surrender",
+      "D": "The destruction of Deep Space 9"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-086",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Odo ultimately returns to the Great Link at the end of the series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-087",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the Bajoran word for the wormhole aliens they worship as gods?",
+    "answers": {
+      "A": "The Prophets",
+      "B": "The Celestials",
+      "C": "The Seers",
+      "D": "The Beings"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-088",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The Dominion used Ketracel-white distribution ships as strategic targets.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-089",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is Garak's mother's name, revealed in the DS9 novel expanded universe but hinted on screen?",
+    "answers": {
+      "A": "Tora",
+      "B": "Ziyal",
+      "C": "Palandine",
+      "D": "Mila"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-090",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In the DS9 finale, Sisko defeats Dukat in the Fire Caves and then ascends to be with the Prophets.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-091",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "Who is the head of the Obsidian Order before its destruction?",
+    "answers": {
+      "A": "Toran",
+      "B": "Legate Ghemor",
+      "C": "Enabran Tain",
+      "D": "Gul Dukat"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "DS9-092",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Vorta were originally peaceful forest dwellers who were uplifted by the Founders.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-093",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What season of DS9 introduces the Dominion as the primary antagonist?",
+    "answers": {
+      "A": "Season 4",
+      "B": "Season 2",
+      "C": "Season 1",
+      "D": "Season 3"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "DS9-094",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Rom becomes Grand Nagus of the Ferengi Alliance at the end of the series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-095",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "The Defiant is destroyed in which story arc and later replaced?",
+    "answers": {
+      "A": "The second Battle of Chin'toka",
+      "B": "The battle for the Chin'toka system",
+      "C": "The final assault on Cardassia",
+      "D": "The siege of AR-558"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-096",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "The DS9 episode 'Emissary' begins during the Battle of Wolf 359, which was first depicted in TNG.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-097",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of Dukat's half-Bajoran daughter?",
+    "answers": {
+      "A": "Nerys Dukat",
+      "B": "Tora Ziyal",
+      "C": "Tora Naprem",
+      "D": "Meru Dukat"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-098",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Breen are a species that has never been seen without their refrigeration suits.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "DS9-099",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What DS9 episode is widely considered the darkest, featuring the crew trapped at AR-558 in brutal ground combat?",
+    "answers": {
+      "A": "Rocks and Shoals",
+      "B": "The Siege of AR-558",
+      "C": "It's Only a Paper Moon",
+      "D": "Inter Arma Enim Silent Leges"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "DS9-100",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The Breen weapon that disabled Federation ships' power systems was eventually countered by a Klingon workaround.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  }
+]
