@@ -2,11 +2,15 @@
 
 A self-contained, LCARS-styled Star Trek trivia game that runs locally in any modern browser — no installer, no server, no `npm install`. Just double-click `index.html`.
 
+**🖖 Live demo: https://ryanramer.github.io/Star_Trek_Trivia/**
+
 **600 canon-verified questions** spanning four series: TOS, TNG, DS9, and VOY. Every question includes a brief explanation citing the relevant episode or film.
 
 ---
 
 ## How to play
+
+Play online at **https://ryanramer.github.io/Star_Trek_Trivia/**, or run it locally:
 
 1. Clone or download the repo.
 2. Double-click `index.html`.
@@ -145,3 +149,12 @@ block is a harmless no-op in the browser.
 Every answer was reviewed by independent canon-verification passes against Memory Alpha conventions. The expansion to 600 questions added a fresh per-series adversarial fact-check that caught and fixed issues such as a malformed Voyager question, a misnamed actress (Diana Muldaur), the USS Rio Grande registry (NCC-72452), the number of Weyoun clones, and several stray episode/citation errors. Known issues found in earlier drafts (e.g., `qapla'` mistranslation, the Doctor's "Latent Image" dilemma, Lursa & B'Etor's DS9 appearance) remain corrected. If you spot a remaining canon error, open an issue or edit the JSON and re-run the build script.
 
 Live long and prosper.
+
+---
+
+## Disclaimer
+
+This is an unofficial, non-commercial fan project. *Star Trek* and all related marks,
+characters, and names are trademarks of Paramount / CBS Studios Inc. This game is not
+affiliated with, endorsed by, or sponsored by the rights holders. All trivia content is
+provided for educational and entertainment purposes.
