@@ -2266,5 +2266,81 @@
     },
     "correct": "C",
     "explanation": "After their Omarion Nebula world was destroyed in 'The Die is Cast,' the Founders established a new, secret homeworld deep within Dominion territory in the Gamma Quadrant, where Odo is judged in 'Broken Link.'"
+  },
+  {
+    "id": "DS9-151",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What career does Jake Sisko pursue instead of joining Starfleet?",
+    "answers": {
+      "A": "Starship engineer",
+      "B": "Writer and journalist",
+      "C": "Bajoran vedek",
+      "D": "Dabo dealer at Quark's"
+    },
+    "correct": "B",
+    "explanation": "Unlike most Starfleet children, Jake chooses a career as a writer and journalist; he declines the Pennington School scholarship in 'Shadows and Symbols' and writes throughout the series, notably under Onaya's influence in 'The Muse.'"
+  },
+  {
+    "id": "DS9-152",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The USS Defiant first appears in the third-season premiere 'The Search, Part I.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Sisko brings the prototype warship Defiant (NX-74205) to DS9 in 'The Search, Part I,' the Season 3 premiere, to make first contact with the Dominion in the Gamma Quadrant."
+  },
+  {
+    "id": "DS9-153",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "Which actress portrayed the ambitious Bajoran religious leader Vedek (later Kai) Winn Adami?",
+    "answers": {
+      "A": "Nana Visitor",
+      "B": "Louise Fletcher",
+      "C": "Marina Sirtis",
+      "D": "Salome Jens"
+    },
+    "correct": "B",
+    "explanation": "Louise Fletcher, the Oscar-winning Nurse Ratched of 'One Flew Over the Cuckoo's Nest,' played the scheming Winn Adami across the series, beginning with 'In the Hands of the Prophets.'"
+  },
+  {
+    "id": "DS9-154",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "In the Jem'Hadar military hierarchy, the leader of a unit holds the rank of 'First.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Jem'Hadar use a simple ranking system in which the unit leader is the 'First,' his second-in-command the 'Second,' and so on, as seen with Omet'iklan and Toman'torax in 'To the Death.'"
+  },
+  {
+    "id": "DS9-155",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "In 'To the Death,' which Jem'Hadar First executes his Second, Toman'torax, for striking Worf?",
+    "answers": {
+      "A": "Ikat'ika",
+      "B": "Omet'iklan",
+      "C": "Goran'Agar",
+      "D": "Remata'Klan"
+    },
+    "correct": "B",
+    "explanation": "Omet'iklan, the disciplined First leading the joint mission against renegade Jem'Hadar in 'To the Death,' kills his Second Toman'torax after the latter attacks Lieutenant Commander Worf."
   }
 ]

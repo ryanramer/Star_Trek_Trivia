@@ -2264,5 +2264,83 @@
     },
     "correct": "A",
     "explanation": "Star Trek: The Next Generation aired seven seasons from 1987 to 1994, ending with the two-hour finale 'All Good Things...'"
+  },
+  {
+    "id": "TNG-151",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The USS Enterprise-E (NCC-1701-E), Picard's ship after the Enterprise-D, is a Sovereign-class starship.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Sovereign-class Enterprise-E was launched in 2372 and served as the crew's ship in Star Trek: First Contact, Insurrection, and Nemesis."
+  },
+  {
+    "id": "TNG-152",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "In which feature film did the USS Enterprise-E make its first appearance?",
+    "answers": {
+      "A": "Star Trek: Generations",
+      "B": "Star Trek: First Contact",
+      "C": "Star Trek: Insurrection",
+      "D": "Star Trek: Nemesis"
+    },
+    "correct": "B",
+    "explanation": "The Sovereign-class Enterprise-E debuted in Star Trek: First Contact (1996), replacing the Enterprise-D lost in Star Trek: Generations."
+  },
+  {
+    "id": "TNG-153",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "In Star Trek: Generations, the villain Dr. Tolian Soran is a member of which species?",
+    "answers": {
+      "A": "Klingon",
+      "B": "Romulan",
+      "C": "El-Aurian",
+      "D": "Cardassian"
+    },
+    "correct": "C",
+    "explanation": "In Star Trek: Generations, Soran (played by Malcolm McDowell) is an El-Aurian, like Guinan, obsessed with returning to the Nexus after losing his family to the Borg."
+  },
+  {
+    "id": "TNG-154",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In the episode 'Sarek,' the ailing Vulcan ambassador performs a mind meld with which Enterprise crew member to maintain his composure during a critical conference?",
+    "answers": {
+      "A": "Captain Picard",
+      "B": "Commander Data",
+      "C": "Counselor Troi",
+      "D": "Doctor Crusher"
+    },
+    "correct": "A",
+    "explanation": "In 'Sarek' (Season 3), Sarek's Bendii Syndrome causes emotional outbursts, so he mind melds with Picard, who endures Sarek's pent-up emotions during the Legaran conference."
+  },
+  {
+    "id": "TNG-155",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the registry number of the USS Stargazer, the Constellation-class ship Picard commanded before the Enterprise-D?",
+    "answers": {
+      "A": "NCC-2893",
+      "B": "NCC-1701",
+      "C": "NCC-7100",
+      "D": "NCC-1864"
+    },
+    "correct": "A",
+    "explanation": "The USS Stargazer was a Constellation-class starship with registry NCC-2893; Picard commanded her for 22 years until the Battle of Maxia in 2355."
   }
 ]

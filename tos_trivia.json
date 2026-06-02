@@ -2268,5 +2268,81 @@
     },
     "correct": "A",
     "explanation": "Lieutenant Ilia, a bald Deltan navigator and former love interest of Commander Decker, is absorbed by V'Ger and returned as a robotic probe duplicate, central to the film's resolution."
+  },
+  {
+    "id": "TOS-151",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Let That Be Your Last Battlefield,' the two warring aliens Bele and Lokai both come from what planet?",
+    "answers": {
+      "A": "Cheron",
+      "B": "Ariannus",
+      "C": "Eminiar VII",
+      "D": "Organia"
+    },
+    "correct": "A",
+    "explanation": "Bele and Lokai are the last survivors of Cheron, whose people were divided over which side of their bodies was black or white, a parable on racism in 'Let That Be Your Last Battlefield.'"
+  },
+  {
+    "id": "TOS-152",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Lieutenant Sulu serves as the primary helmsman of the USS Enterprise during the five-year mission.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Though shown in the science division in the second pilot 'Where No Man Has Gone Before,' Sulu serves throughout the series as the Enterprise's senior helmsman, holding the rank of lieutenant."
+  },
+  {
+    "id": "TOS-153",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the registry designation of the shuttlecraft Galileo featured in 'The Galileo Seven'?",
+    "answers": {
+      "A": "NCC-1701/7",
+      "B": "NCC-1031",
+      "C": "NCC-1701/2",
+      "D": "NCC-1864"
+    },
+    "correct": "A",
+    "explanation": "The Class F shuttlecraft Galileo, assigned to the USS Enterprise, carries the registry NCC-1701/7, as seen in 'The Galileo Seven.'"
+  },
+  {
+    "id": "TOS-154",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "In 'I, Mudd,' Kirk and his crew defeat the androids controlling them by overwhelming the android mind with illogical and contradictory behavior.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'I, Mudd,' the crew, with Harry Mudd's help, stage absurd, illogical performances that overload the android leader Norman and the android collective, freeing themselves."
+  },
+  {
+    "id": "TOS-155",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the standard crew complement of the USS Enterprise during the five-year mission, as established in production materials and dialogue?",
+    "answers": {
+      "A": "430",
+      "B": "203",
+      "C": "1,012",
+      "D": "150"
+    },
+    "correct": "A",
+    "explanation": "The Enterprise's crew complement is established as 430 (43 officers and 387 enlisted); the lower figure of 203 dates to the earlier pilot 'The Cage' under Captain Pike."
   }
 ]

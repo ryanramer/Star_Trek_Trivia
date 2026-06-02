@@ -4,7 +4,7 @@ A self-contained, LCARS-styled Star Trek trivia game that runs locally in any mo
 
 **🖖 Live demo: https://ryanramer.github.io/Star_Trek_Trivia/**
 
-**600 canon-verified questions** spanning four series: TOS, TNG, DS9, and VOY. Every question includes a brief explanation citing the relevant episode or film.
+**620 canon-verified questions** spanning four series: TOS, TNG, DS9, and VOY. Every question includes a brief explanation citing the relevant episode or film.
 
 ---
 
@@ -24,11 +24,11 @@ Tested in Edge, Chrome, and Firefox on Windows 11. Should work in any modern bro
 
 | Series | Easy | Medium | Hard | Total |
 |---|---:|---:|---:|---:|
-| TOS — The Original Series | 50 | 50 | 50 | 150 |
-| TNG — The Next Generation | 50 | 50 | 50 | 150 |
-| DS9 — Deep Space Nine | 50 | 50 | 50 | 150 |
-| VOY — Voyager | 50 | 50 | 50 | 150 |
-| **Total** | **200** | **200** | **200** | **600** |
+| TOS — The Original Series | 52 | 52 | 51 | 155 |
+| TNG — The Next Generation | 52 | 52 | 51 | 155 |
+| DS9 — Deep Space Nine | 52 | 52 | 51 | 155 |
+| VOY — Voyager | 52 | 52 | 51 | 155 |
+| **Total** | **208** | **208** | **204** | **620** |
 
 Each series mixes multiple-choice and true/false questions across 10 categories: Characters & Crew, Ships & Technology, Alien Species & Cultures, Villains & Antagonists, Episodes & Story Arcs, Quotes & Catchphrases, Starfleet Ranks & Protocol, Planets & Locations, Timeline & History, and Crossovers & Connections.
 
@@ -81,8 +81,8 @@ Conflicts come from three sources:
    questions' revealing text (the question, its explanation, and its correct answer;
    wrong distractors are ignored). Any other question whose revealing text contains
    that term is marked as conflicting. Ubiquitous terms like "Vulcan" or "Kirk" exceed
-   the frequency cap and are correctly ignored. (~99 conflict pairs across the current
-   600 questions.)
+   the frequency cap and are correctly ignored. (~108 conflict pairs across the current
+   620 questions.)
 2. **`conflictsWith`** — an optional array on any question to force-exclude specific
    ids, e.g. `"conflictsWith": ["DS9-100"]`.
 3. **`topic`** — an optional cluster tag, e.g. `"topic": "dominion-war"`. All questions
@@ -108,8 +108,8 @@ npm test
 
 The suite (`tests/`) covers:
 
-- **Data integrity** (`data-integrity.test.js`) — each series has exactly 150 questions
-  with a 50/50/50 difficulty split; IDs are sequential and unique; no duplicate question
+- **Data integrity** (`data-integrity.test.js`) — each series has exactly 155 questions
+  with a 52/52/51 difficulty split; IDs are sequential and unique; no duplicate question
   text; every question has a valid schema (categories, answer keys, `correct` present,
   correct option count per type); and `data.js` is in sync with the source JSON files
   (fails if you edited a `*_trivia.json` without re-running `build_data.ps1`).
@@ -131,7 +131,7 @@ block is a harmless no-op in the browser.
 ├── index.html          # Main app — open this to play
 ├── styles.css          # LCARS-inspired theme
 ├── app.js              # Game logic + verbose console logging
-├── data.js             # Generated bundle of all 600 questions
+├── data.js             # Generated bundle of all 620 questions
 ├── build_data.ps1      # Regenerates data.js from the *_trivia.json files
 ├── tos_trivia.json     # Source: TOS questions
 ├── tng_trivia.json     # Source: TNG questions

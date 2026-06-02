@@ -14,12 +14,12 @@ const {
     loadBundledData
 } = require('./helpers');
 
-const EXPECTED_PER_SERIES = 150;
-const EXPECTED_PER_DIFFICULTY = 50;
+const EXPECTED_PER_SERIES = 155;
+const EXPECTED_DIFFICULTY_COUNTS = { easy: 52, medium: 52, hard: 51 };
 const DIFFICULTIES = ['easy', 'medium', 'hard'];
 
 for (const { series, file } of SERIES_FILES) {
-    test(`${series}: exactly ${EXPECTED_PER_SERIES} questions with a 50/50/50 difficulty split`, () => {
+    test(`${series}: exactly ${EXPECTED_PER_SERIES} questions with a 52/52/51 difficulty split`, () => {
         const qs = loadSeries(file);
         assert.equal(qs.length, EXPECTED_PER_SERIES, `${file} should have ${EXPECTED_PER_SERIES} questions`);
 
@@ -29,7 +29,7 @@ for (const { series, file } of SERIES_FILES) {
             counts[q.difficulty]++;
         }
         for (const d of DIFFICULTIES) {
-            assert.equal(counts[d], EXPECTED_PER_DIFFICULTY, `${series} ${d} count`);
+            assert.equal(counts[d], EXPECTED_DIFFICULTY_COUNTS[d], `${series} ${d} count`);
         }
     });
 
@@ -80,9 +80,9 @@ for (const { series, file } of SERIES_FILES) {
     });
 }
 
-test('corpus: 600 questions total with globally unique IDs', () => {
+test('corpus: 620 questions total with globally unique IDs', () => {
     const all = loadAllQuestions();
-    assert.equal(all.length, 600, 'expected 600 questions across all four series');
+    assert.equal(all.length, 620, 'expected 620 questions across all four series');
     const ids = all.map(q => q.id);
     assert.equal(new Set(ids).size, ids.length, 'duplicate IDs across series');
 });

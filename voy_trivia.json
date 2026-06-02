@@ -2260,5 +2260,81 @@
     },
     "correct": "A",
     "explanation": "In 'Blink of an Eye' (Season 6), the planet's civilization advances to spaceflight and sends astronauts to the ship that has loomed in their sky for generations, with one even living aboard Voyager for a time."
+  },
+  {
+    "id": "VOY-151",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Which actress plays Seven of Nine on Star Trek: Voyager?",
+    "answers": {
+      "A": "Jeri Ryan",
+      "B": "Roxann Dawson",
+      "C": "Jennifer Lien",
+      "D": "Kate Mulgrew"
+    },
+    "correct": "A",
+    "explanation": "Jeri Ryan portrays Seven of Nine, joining the cast in the Season 4 premiere 'Scorpion, Part II' and remaining through the end of the series."
+  },
+  {
+    "id": "VOY-152",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "In 'Caretaker,' the Caretaker entity communicates with Voyager's crew by appearing as an elderly human man playing a banjo.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In the pilot 'Caretaker,' the Nacene entity (nicknamed the 'Banjo Man') presents itself to the crew as a grizzled old human strumming a banjo on a recreated farm."
+  },
+  {
+    "id": "VOY-153",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What was the name of the Maquis raider, commanded by Chakotay, that was pulled into the Delta Quadrant alongside Voyager?",
+    "answers": {
+      "A": "Val Jean",
+      "B": "Liberty",
+      "C": "Geronimo",
+      "D": "Crazy Horse"
+    },
+    "correct": "A",
+    "explanation": "In 'Caretaker,' Chakotay's Maquis ship was the Val Jean; he later rammed it into a Kazon vessel, after which his crew joined Voyager."
+  },
+  {
+    "id": "VOY-154",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Why does the Emergency Medical Hologram become Voyager's permanent chief medical officer?",
+    "answers": {
+      "A": "The ship's doctor and medical staff are killed in the pilot",
+      "B": "Janeway prefers a holographic physician",
+      "C": "The Doctor volunteers to replace a retiring CMO",
+      "D": "The original doctor defects to the Maquis"
+    },
+    "correct": "A",
+    "explanation": "In 'Caretaker,' Voyager's flesh-and-blood medical staff are killed when the ship is hurled to the Delta Quadrant, forcing the EMH (the Doctor) to serve as the permanent CMO."
+  },
+  {
+    "id": "VOY-155",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "In addition to being chief of security and tactical officer, Tuvok also serves as Voyager's second officer.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Tuvok holds the posts of chief of security and chief tactical officer while also serving as Voyager's second officer, behind Captain Janeway and first officer Chakotay."
   }
 ]
