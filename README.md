@@ -91,6 +91,35 @@ The thresholds live in `app.js` as `SPOILER_MIN_LEN` and `SPOILER_FREQ_MAX`.
 
 ---
 
+## Tests
+
+The game runs without any tooling, but a test suite guards the two things most likely
+to regress: the question data and the anti-spoiler logic. Running the tests requires
+[Node.js](https://nodejs.org) (the tests use Node's built-in runner — **no `npm install`,
+no dependencies**). With Node on your PATH:
+
+```bash
+npm test
+```
+
+The suite (`tests/`) covers:
+
+- **Data integrity** (`data-integrity.test.js`) — each series has exactly 150 questions
+  with a 50/50/50 difficulty split; IDs are sequential and unique; no duplicate question
+  text; every question has a valid schema (categories, answer keys, `correct` present,
+  correct option count per type); and `data.js` is in sync with the source JSON files
+  (fails if you edited a `*_trivia.json` without re-running `build_data.ps1`).
+- **Anti-spoiler logic** (`anti-spoiler.test.js`) — exercises the *real* functions
+  exported from `app.js` (no re-implemented copy): the conflict graph is symmetric,
+  known leak pairs are caught, ubiquitous terms don't over-link, the `conflictsWith`/
+  `topic` overrides work, a generated session never contains a conflicting pair (200
+  randomized runs), and backfill still delivers the requested count on a too-narrow pool.
+
+`app.js` exports those functions only under CommonJS (`module.exports`), so the export
+block is a harmless no-op in the browser.
+
+---
+
 ## Project structure
 
 ```
@@ -104,6 +133,8 @@ The thresholds live in `app.js` as `SPOILER_MIN_LEN` and `SPOILER_FREQ_MAX`.
 ├── tng_trivia.json     # Source: TNG questions
 ├── ds9_trivia.json     # Source: DS9 questions
 ├── voy_trivia.json     # Source: VOY questions
+├── package.json        # npm test script (Node built-in test runner)
+├── tests/              # Data-integrity and anti-spoiler tests
 └── .gitignore
 ```
 

@@ -546,4 +546,24 @@ function showResults() {
 }
 
 // ---------- BOOT ----------
-document.addEventListener('DOMContentLoaded', init);
+// Guard for non-browser contexts (e.g. the Node test runner requires this file
+// as a module; there is no `document` there).
+if (typeof document !== 'undefined') {
+    document.addEventListener('DOMContentLoaded', init);
+}
+
+// ---------- TEST EXPORTS ----------
+// Expose the pure logic so tests can exercise the SAME code the browser runs,
+// with no risk of a re-implemented copy drifting out of sync. This block is a
+// no-op in the browser (no CommonJS `module`).
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = {
+        state,
+        SPOILER_MIN_LEN,
+        SPOILER_FREQ_MAX,
+        shuffle,
+        normalizeText,
+        buildConflictGraph,
+        selectNonConflicting
+    };
+}

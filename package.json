@@ -1,0 +1,10 @@
+{
+  "name": "star-trek-trivia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-contained LCARS-styled Star Trek trivia game (browser, no server).",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test \"tests/**/*.test.js\""
+  }
+}
