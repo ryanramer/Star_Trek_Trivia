@@ -959,7 +959,7 @@
       "D": "Piano"
     },
     "correct": "B",
-    "explanation": "Under the influence of the polywater virus in 'The Naked Time,' Sulu strips to the waist and chases crewmates around the ship with a fencing foil, imagining himself as a swashbuckler."
+    "explanation": "Under the influence of the inhibition-stripping water-borne contaminant in 'The Naked Time,' Sulu strips to the waist and chases crewmates around the ship with a fencing foil, imagining himself as a swashbuckler."
   },
   {
     "id": "TOS-065",
@@ -1125,7 +1125,7 @@
       "D": "Bald eagles"
     },
     "correct": "B",
-    "explanation": "The crew time-travels to 1986 San Francisco to retrieve two humpback whales (George and Gracine), the only species that can answer the destructive probe threatening Earth."
+    "explanation": "The crew time-travels to 1986 San Francisco to retrieve two humpback whales (George and Gracie), the only species that can answer the destructive probe threatening Earth."
   },
   {
     "id": "TOS-076",
@@ -1147,7 +1147,7 @@
     "difficulty": "hard",
     "type": "multiple_choice",
     "category": "Villains & Antagonists",
-    "question": "What Klingon captain appears in 'Errand of Mercy,' 'Day of the Dove' (as a different officer), and is famously played by John Colicos?",
+    "question": "What Klingon, played by John Colicos, debuts as the Klingon governor in 'Errand of Mercy' and decades later returns on 'Deep Space Nine'?",
     "answers": {
       "A": "Kang",
       "B": "Kor",
@@ -1177,7 +1177,7 @@
     "difficulty": "hard",
     "type": "multiple_choice",
     "category": "Alien Species & Cultures",
-    "question": "Which TOS race is biologically incapable of lying and known for being argumentative?",
+    "question": "Which TOS race, a founding member of the Federation, is known for being gruff and argumentative?",
     "answers": {
       "A": "Andorians",
       "B": "Tellarites",
@@ -1652,5 +1652,621 @@
     },
     "correct": "A",
     "explanation": "In 'Space Seed,' Khan is described as having ruled more than a quarter of Earth from 1992 to 1996. Later productions retconned these wars as covert, but the explicit dating is preserved in dialogue and in Wrath of Khan."
+  },
+  {
+    "id": "TOS-111",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What handheld device does the Enterprise crew use to scan and analyze their surroundings?",
+    "answers": {
+      "A": "Tricorder",
+      "B": "PADD",
+      "C": "Hyperspanner",
+      "D": "Isolinear chip"
+    },
+    "correct": "A",
+    "explanation": "The tricorder is the multipurpose handheld sensor-recorder used throughout TOS for scientific, medical, and engineering scans; McCoy carries a specialized medical version."
+  },
+  {
+    "id": "TOS-112",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What crystalline mineral powers the warp engines of the Enterprise?",
+    "answers": {
+      "A": "Latinum",
+      "B": "Dilithium",
+      "C": "Trilithium",
+      "D": "Topaline"
+    },
+    "correct": "B",
+    "explanation": "Dilithium crystals regulate the matter/antimatter reaction that powers warp drive, making them a critical and much-sought resource throughout TOS, as in 'Mirror, Mirror' and 'Elaan of Troyius.'"
+  },
+  {
+    "id": "TOS-113",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Dr. McCoy is the Enterprise's chief medical officer.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Leonard 'Bones' McCoy serves as the Enterprise's chief medical officer throughout the five-year mission, running sickbay with Nurse Chapel's assistance."
+  },
+  {
+    "id": "TOS-114",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What small flip-open device does the crew use for ship-to-shore voice communication?",
+    "answers": {
+      "A": "Communicator",
+      "B": "Combadge",
+      "C": "Subspace transceiver",
+      "D": "Viewscreen"
+    },
+    "correct": "A",
+    "explanation": "The handheld flip communicator is the standard personal communication device of the TOS era; its flip-open design famously inspired later clamshell mobile phones."
+  },
+  {
+    "id": "TOS-115",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Spock serves as both the Enterprise's first officer and its science officer.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Spock holds the dual role of first officer and chief science officer under Captain Kirk, the second-in-command who also runs the ship's scientific operations."
+  },
+  {
+    "id": "TOS-116",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "Which short order does Kirk most famously give to take the Enterprise to warp?",
+    "answers": {
+      "A": "Engage.",
+      "B": "Punch it.",
+      "C": "Ahead warp factor one.",
+      "D": "Hit it."
+    },
+    "correct": "C",
+    "explanation": "Kirk's typical command to go to warp is a variation of 'Ahead, warp factor one' (or a higher factor). 'Engage' is Captain Picard's signature line in The Next Generation."
+  },
+  {
+    "id": "TOS-117",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the typical color of Vulcan skin tone often associated with their copper-based blood?",
+    "answers": {
+      "A": "Blue",
+      "B": "A greenish or yellowish tint",
+      "C": "Bright red",
+      "D": "Grey"
+    },
+    "correct": "B",
+    "explanation": "Because Vulcan blood is copper-based and green, Vulcans are often depicted with a slightly greenish or yellowish complexion, a detail referenced in TOS makeup and dialogue."
+  },
+  {
+    "id": "TOS-118",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "Andorians are a blue-skinned species with antennae, and they are among the founding members of the Federation.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Andorians, blue-skinned humanoids with cranial antennae, are one of the Federation's founding species and appear in TOS in 'Journey to Babel' as part of the diplomatic delegation."
+  },
+  {
+    "id": "TOS-119",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who plays Dr. Leonard 'Bones' McCoy in The Original Series?",
+    "answers": {
+      "A": "James Doohan",
+      "B": "DeForest Kelley",
+      "C": "Walter Koenig",
+      "D": "Mark Lenard"
+    },
+    "correct": "B",
+    "explanation": "DeForest Kelley portrayed Dr. McCoy across all three TOS seasons and the original-cast films, completing the central Kirk-Spock-McCoy trio."
+  },
+  {
+    "id": "TOS-120",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What setting allows a phaser to incapacitate a target without killing it?",
+    "answers": {
+      "A": "Overload",
+      "B": "Stun",
+      "C": "Disrupt",
+      "D": "Wide beam"
+    },
+    "correct": "B",
+    "explanation": "Phasers can be set to 'stun' to render a target unconscious without lethal harm, a setting Kirk frequently orders to minimize casualties."
+  },
+  {
+    "id": "TOS-121",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Planets & Locations",
+    "question": "Starfleet Command and Starfleet Academy are located in San Francisco on Earth.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Starfleet Command and Starfleet Academy are based in San Francisco, a fact established across TOS and the original-cast films, including 'Star Trek IV: The Voyage Home.'"
+  },
+  {
+    "id": "TOS-122",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Who created Star Trek and is often called 'The Great Bird of the Galaxy'?",
+    "answers": {
+      "A": "Gene L. Coon",
+      "B": "Gene Roddenberry",
+      "C": "Rick Berman",
+      "D": "D.C. Fontana"
+    },
+    "correct": "B",
+    "explanation": "Gene Roddenberry created Star Trek and served as showrunner of TOS; the affectionate nickname 'The Great Bird of the Galaxy' is even referenced in dialogue in the episode 'The Man Trap.'"
+  },
+  {
+    "id": "TOS-123",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Quotes & Catchphrases",
+    "question": "Spock often describes illogical human behavior as 'highly illogical.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "'Highly illogical' is one of Spock's signature observations throughout TOS, reflecting his Vulcan reliance on logic when confronted with emotional human conduct."
+  },
+  {
+    "id": "TOS-124",
+    "series": "TOS",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What is the name of the very first regular TOS episode broadcast on NBC in 1966?",
+    "answers": {
+      "A": "The Cage",
+      "B": "Where No Man Has Gone Before",
+      "C": "The Man Trap",
+      "D": "Charlie X"
+    },
+    "correct": "C",
+    "explanation": "'The Man Trap,' featuring the salt-draining creature, was the first TOS episode aired on September 8, 1966, even though it was not the first produced."
+  },
+  {
+    "id": "TOS-125",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "Approximately which decades does the Enterprise's famous five-year mission span?",
+    "answers": {
+      "A": "2151 to 2156",
+      "B": "2233 to 2238",
+      "C": "2265 to 2270",
+      "D": "2364 to 2369"
+    },
+    "correct": "C",
+    "explanation": "The five-year mission depicted in TOS runs roughly from 2265 to 2270 in established Star Trek chronology, placing the series in the 23rd century."
+  },
+  {
+    "id": "TOS-126",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Where No Man Has Gone Before,' what happens to Kirk's friend Gary Mitchell after the ship crosses the galactic barrier?",
+    "answers": {
+      "A": "He is killed instantly",
+      "B": "He develops godlike psionic powers",
+      "C": "He is transformed into a Vulcan",
+      "D": "He ages rapidly into an old man"
+    },
+    "correct": "B",
+    "explanation": "After the Enterprise crosses the galactic barrier, Lt. Cmdr. Gary Mitchell gains rapidly growing telekinetic and telepathic powers, becoming a god-like threat Kirk must stop."
+  },
+  {
+    "id": "TOS-127",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "In 'The Squire of Gothos,' the mischievous, powerful being Trelane turns out to be what?",
+    "answers": {
+      "A": "An immortal Greek god",
+      "B": "A child of a non-corporeal species",
+      "C": "A Romulan spy in disguise",
+      "D": "A malfunctioning android"
+    },
+    "correct": "B",
+    "explanation": "Trelane, who toys with the crew on the planet Gothos, is revealed at the end to be a child of energy-based parents who scold him and apologize for his behavior."
+  },
+  {
+    "id": "TOS-128",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Doomsday Machine,' the planet killer destroys planets and consumes the debris to fuel itself.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Spock theorizes that the doomsday machine smashes planets into rubble with its antiproton beam and consumes the fragments as fuel, cutting a destructive path toward the Federation's most densely populated region."
+  },
+  {
+    "id": "TOS-129",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "In 'Friday's Child,' on what planet does the McCoy-assisted birth of the heir to a tribal throne take place?",
+    "answers": {
+      "A": "Capella IV",
+      "B": "Neural",
+      "C": "Eminiar VII",
+      "D": "Argelius II"
+    },
+    "correct": "A",
+    "explanation": "On Capella IV, home of the warrior Capellans, McCoy helps deliver the child of the slain leader's widow Eleen; the boy is named Leonard James Akaar in honor of McCoy and Kirk."
+  },
+  {
+    "id": "TOS-130",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'A Taste of Armageddon,' how do the planets Eminiar VII and Vendikar wage their centuries-long war?",
+    "answers": {
+      "A": "With cloaked starships",
+      "B": "By computer simulation, with citizens reporting to disintegration chambers",
+      "C": "Through gladiatorial combat",
+      "D": "Using biological weapons"
+    },
+    "correct": "B",
+    "explanation": "Eminiar VII and Vendikar fight a 'clean' war run entirely by computers; people declared casualties of virtual attacks must voluntarily report to disintegration chambers to keep the war bloodlessly civilized."
+  },
+  {
+    "id": "TOS-131",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the name of the standard small auxiliary craft carried by the Enterprise, famously stranded in one season-one episode?",
+    "answers": {
+      "A": "The Copernicus",
+      "B": "The Galileo",
+      "C": "The Columbus",
+      "D": "The Picasso"
+    },
+    "correct": "B",
+    "explanation": "The shuttlecraft Galileo (NCC-1701/7) is the Enterprise auxiliary vessel marooned on Taurus II in 'The Galileo Seven'; the Columbus is another of the ship's shuttles."
+  },
+  {
+    "id": "TOS-132",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "In Starfleet's chain of command during TOS, a commodore outranks a captain.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Commodore is a flag rank above captain, as shown when Commodore Matt Decker and Commodore Stocker outrank starship captains; it sits between captain and rear admiral."
+  },
+  {
+    "id": "TOS-133",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of Spock's pet sehlat that he had as a child on Vulcan?",
+    "answers": {
+      "A": "I-Chaya",
+      "B": "Porthos",
+      "C": "Spot",
+      "D": "Chu'lak"
+    },
+    "correct": "A",
+    "explanation": "Spock's childhood pet, a bear-like sehlat named I-Chaya, is named in the animated episode 'Yesteryear,' written by D.C. Fontana, which depicts young Spock on Vulcan."
+  },
+  {
+    "id": "TOS-134",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "In 'The Man Trap,' what does the shape-shifting creature on planet M-113 drain from its victims to survive?",
+    "answers": {
+      "A": "Blood",
+      "B": "Salt",
+      "C": "Water",
+      "D": "Memories"
+    },
+    "correct": "B",
+    "explanation": "The M-113 creature, the last of its kind, kills by draining the salt from a victim's body, leaving telltale ring-shaped marks; it can disguise itself by appearing as whoever its prey desires."
+  },
+  {
+    "id": "TOS-135",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "James Doohan, who played Scotty, also provided many guest voices in 'Star Trek: The Animated Series.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In addition to reprising Scotty, James Doohan voiced numerous guest characters and aliens in The Animated Series (1973-1974), alongside Majel Barrett, who voiced several female roles."
+  },
+  {
+    "id": "TOS-136",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Space Seed,' which Enterprise historian falls in love with Khan and initially helps him seize the ship?",
+    "answers": {
+      "A": "Marla McGivers",
+      "B": "Janice Lester",
+      "C": "Areel Shaw",
+      "D": "Helen Noel"
+    },
+    "correct": "A",
+    "explanation": "Lieutenant Marla McGivers, the Enterprise's historian, becomes infatuated with Khan and aids his takeover, but ultimately turns against him and chooses exile with him on Ceti Alpha V."
+  },
+  {
+    "id": "TOS-137",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "In 'Tomorrow Is Yesterday,' the Enterprise is thrown back in time to what era of Earth's history?",
+    "answers": {
+      "A": "Ancient Rome",
+      "B": "1960s United States",
+      "C": "The American Civil War",
+      "D": "Prohibition-era Chicago"
+    },
+    "correct": "B",
+    "explanation": "Flung back to 1960s Earth, the Enterprise is detected by a U.S. Air Force jet; the crew must beam up pilot Captain John Christopher and undo the timeline damage before returning to their own era."
+  },
+  {
+    "id": "TOS-138",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Planets & Locations",
+    "question": "In 'This Side of Paradise,' spores on the planet Omicron Ceti III induce a blissful, contented state in the colonists and crew.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Plant spores on Omicron Ceti III protect inhabitants from deadly Berthold rays while inducing perfect contentment; their influence even lets Spock feel love before Kirk breaks the effect with strong emotion."
+  },
+  {
+    "id": "TOS-139",
+    "series": "TOS",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Which composer wrote the iconic original Star Trek main title theme?",
+    "answers": {
+      "A": "Jerry Goldsmith",
+      "B": "Alexander Courage",
+      "C": "James Horner",
+      "D": "Fred Steiner"
+    },
+    "correct": "B",
+    "explanation": "Alexander Courage composed the famous TOS main title theme. Jerry Goldsmith later wrote the theme for 'Star Trek: The Motion Picture,' which became the TNG theme."
+  },
+  {
+    "id": "TOS-140",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "In 'Space Seed,' which historical period on Earth is identified as the era of the Eugenics Wars that produced Khan?",
+    "answers": {
+      "A": "The 1990s",
+      "B": "The 2050s",
+      "C": "The 1940s",
+      "D": "The 2150s"
+    },
+    "correct": "A",
+    "explanation": "'Space Seed' dialogue places the Eugenics Wars in the 1990s, describing Khan as a genetically engineered tyrant who ruled much of Earth from roughly 1992 to 1996."
+  },
+  {
+    "id": "TOS-141",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "What is Starfleet's General Order 24, which Kirk threatens to invoke in 'A Taste of Armageddon'?",
+    "answers": {
+      "A": "An order to evacuate all Federation citizens",
+      "B": "An order to destroy all life on a planet's surface",
+      "C": "A self-destruct sequence for the ship",
+      "D": "An order to surrender to a superior force"
+    },
+    "correct": "B",
+    "explanation": "Kirk has Scotty prepare General Order 24, the directive to obliterate all life on the surface of Eminiar VII, using the threat as leverage to force the warring planets to negotiate peace."
+  },
+  {
+    "id": "TOS-142",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "In 'A Private Little War,' what is the name of the planet where Kirk arms one faction to counter Klingon interference?",
+    "answers": {
+      "A": "Neural",
+      "B": "Ekos",
+      "C": "Sigma Iotia II",
+      "D": "Beta III"
+    },
+    "correct": "A",
+    "explanation": "On the planet Neural, the Klingons secretly supply flintlock firearms to the villagers, prompting Kirk to arm the hill people equally in a Cold War-style 'balance of power' allegory."
+  },
+  {
+    "id": "TOS-143",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Changeling,' the space probe Nomad mistakes Kirk for its creator, the scientist Jackson Roykirk.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The merged probe Nomad confuses 'Kirk' with its creator Jackson Roykirk; this sterilizing, perfection-seeking machine that wipes out imperfect life is widely seen as a precursor to V'Ger in 'The Motion Picture.'"
+  },
+  {
+    "id": "TOS-144",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "In 'Day of the Dove,' what is the nature of the entity that traps Klingons and humans aboard the Enterprise and provokes them to fight?",
+    "answers": {
+      "A": "A telepathic Romulan agent",
+      "B": "A non-corporeal being that feeds on hostile emotions",
+      "C": "A rogue Federation computer",
+      "D": "A shape-shifting salt creature"
+    },
+    "correct": "B",
+    "explanation": "A glowing alien entity feeds on the hatred and aggression of the trapped crews, healing their wounds to keep the endless brawl going until Kirk and Kang's forces drive it off with shared laughter and goodwill."
+  },
+  {
+    "id": "TOS-145",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "According to 'Balance of Terror,' the Earth-Romulan War was fought with primitive ships and ended with what outcome?",
+    "answers": {
+      "A": "The Romulans joining the Federation",
+      "B": "The establishment of a Neutral Zone enforced by treaty",
+      "C": "The total destruction of the Romulan homeworld",
+      "D": "An alliance against the Klingons"
+    },
+    "correct": "B",
+    "explanation": "'Balance of Terror' establishes that the Earth-Romulan War, fought a century earlier with atomic weapons, ended in a treaty that set up a Neutral Zone; neither side had seen the other until the episode's events."
+  },
+  {
+    "id": "TOS-146",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "In 'The Ultimate Computer,' the M-5 multitronic unit takes control of the Enterprise during war games and begins firing on other Starfleet ships for real.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Dr. Richard Daystrom's M-5 computer, imprinted with his own engrams, treats the war-game exercise as a real threat and destroys part of the attacking fleet before Kirk talks it into shutting down."
+  },
+  {
+    "id": "TOS-147",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "In 'The Deadly Years,' under what regulation is Commodore Stocker able to relieve the rapidly aging Captain Kirk of command?",
+    "answers": {
+      "A": "A hearing on competency to command",
+      "B": "Article 14, Section 31",
+      "C": "The Prime Directive",
+      "D": "Court-martial for cowardice"
+    },
+    "correct": "A",
+    "explanation": "In 'The Deadly Years,' a formal competency hearing finds the prematurely aged Kirk unfit, allowing Commodore Stocker to assume command, a decision that nearly proves disastrous near the Romulan Neutral Zone."
+  },
+  {
+    "id": "TOS-148",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "In 'Star Trek V: The Final Frontier,' who is the renegade Vulcan that hijacks the Enterprise-A in search of God at the galaxy's center?",
+    "answers": {
+      "A": "Sybok",
+      "B": "Sarek",
+      "C": "Surak",
+      "D": "Tuvok"
+    },
+    "correct": "A",
+    "explanation": "Sybok, Spock's emotionally embracing half-brother, commandeers the Enterprise-A to journey through the Great Barrier to the planet Sha Ka Ree in search of the divine."
+  },
+  {
+    "id": "TOS-149",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "In 'Star Trek VI: The Undiscovered Country,' the Klingon General Chang quotes Shakespeare and claims it is best read 'in the original Klingon.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "General Chang, played by Christopher Plummer, peppers his speech with Shakespeare quotations and famously insists Shakespeare must be read 'in the original Klingon' during the Khitomer dinner scene."
+  },
+  {
+    "id": "TOS-150",
+    "series": "TOS",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "In 'Star Trek: The Motion Picture,' who is the Deltan navigator that joins the Enterprise and is later merged with V'Ger?",
+    "answers": {
+      "A": "Ilia",
+      "B": "Janice Rand",
+      "C": "Christine Chapel",
+      "D": "Marta"
+    },
+    "correct": "A",
+    "explanation": "Lieutenant Ilia, a bald Deltan navigator and former love interest of Commander Decker, is absorbed by V'Ger and returned as a robotic probe duplicate, central to the film's resolution."
   }
 ]

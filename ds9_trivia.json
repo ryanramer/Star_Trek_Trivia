@@ -1079,7 +1079,7 @@
       "B": "False"
     },
     "correct": "A",
-    "explanation": "In 'What You Leave Behind,' the Female Changeling orders the extermination of the Cardassian people as retribution for Damar's rebellion; an estimated 800 million Cardassians die before the surrender."
+    "explanation": "In 'What You Leave Behind,' the Female Changeling orders the extermination of the Cardassian people as retribution for the rebellion; the Jem'Hadar slaughter two million Cardassians at Cardassia City in one action and intend to wipe out the population before the Dominion surrenders."
   },
   {
     "id": "DS9-073",
@@ -1150,7 +1150,7 @@
     "question": "What was the name of the first runabout lost in the DS9 series?",
     "answers": {
       "A": "USS Mekong",
-      "B": "USS Yangtze Kiang",
+      "B": "USS Yangtzee Kiang",
       "C": "USS Rio Grande",
       "D": "USS Orinoco"
     },
@@ -1214,8 +1214,8 @@
       "C": "3",
       "D": "6"
     },
-    "correct": "D",
-    "explanation": "Multiple Weyoun clones appear across the series after Weyoun 4's death—including Weyoun 5, 6 (the defector), 7, and 8—as the Founders activate replacement clones to continue his role as Dominion supervisor."
+    "correct": "B",
+    "explanation": "Five distinct Weyoun clones appear in the series: Weyoun 4 (killed in 'To the Death'), Weyoun 5, Weyoun 6 (the defector), Weyoun 7, and Weyoun 8—as the Founders activate replacement clones to continue his role as Dominion supervisor."
   },
   {
     "id": "DS9-082",
@@ -1387,7 +1387,7 @@
     "difficulty": "hard",
     "type": "multiple_choice",
     "category": "Episodes & Story Arcs",
-    "question": "What season of DS9 introduces the Dominion as the primary antagonist?",
+    "question": "In which season premiere does Sisko first take the Defiant into the Gamma Quadrant and meet the Founders, establishing the Dominion as the show's central antagonist?",
     "answers": {
       "A": "Season 4",
       "B": "Season 2",
@@ -1419,8 +1419,8 @@
     "category": "Ships & Technology",
     "question": "The Defiant is destroyed in which story arc and later replaced?",
     "answers": {
-      "A": "The second Battle of Chin'toka",
-      "B": "The battle for the Chin'toka system",
+      "A": "The Second Battle of Chin'toka",
+      "B": "The First Battle of Chin'toka",
       "C": "The final assault on Cardassia",
       "D": "The siege of AR-558"
     },
@@ -1652,5 +1652,619 @@
     },
     "correct": "A",
     "explanation": "Kira and Garak join Damar's resistance in the final arc — Bajorans teaching Cardassians how to fight an occupation, mirroring Kira's earlier life as a Bajoran resistance fighter against the Cardassians."
+  },
+  {
+    "id": "DS9-111",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "Which Rule of Acquisition is the famous Rule #1?",
+    "answers": {
+      "A": "Never spend more for an acquisition than you have to",
+      "B": "A man is only worth the sum of his possessions",
+      "C": "Greed is eternal",
+      "D": "Once you have their money, you never give it back"
+    },
+    "correct": "D",
+    "explanation": "Rule of Acquisition #1, 'Once you have their money, you never give it back,' is quoted by Quark; the Rules are a running source of Ferengi wisdom throughout DS9, including 'The Nagus' and 'Body Parts.'"
+  },
+  {
+    "id": "DS9-112",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "How do the Jem'Hadar typically declare their loyalty before battle, beginning with 'Obedience brings victory...'?",
+    "answers": {
+      "A": "...and victory is life.",
+      "B": "...and life is the Dominion.",
+      "C": "...and the Founders are gods.",
+      "D": "...and death is honor."
+    },
+    "correct": "A",
+    "explanation": "The Jem'Hadar ritual oath 'Obedience brings victory, and victory is life' expresses their conditioned devotion to the Founders, heard in episodes such as 'To the Death.'"
+  },
+  {
+    "id": "DS9-113",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of Miles O'Brien's wife, a botanist who runs the station's school early in the series?",
+    "answers": {
+      "A": "Keiko",
+      "B": "Kasidy",
+      "C": "Leeta",
+      "D": "Molly"
+    },
+    "correct": "A",
+    "explanation": "Keiko O'Brien, a botanist who transferred from the Enterprise-D with Miles, establishes and runs the station's school in DS9's first season before later pursuing fieldwork on Bajor."
+  },
+  {
+    "id": "DS9-114",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Kasidy Yates is a freighter captain who becomes Sisko's romantic partner and eventually his wife.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Kasidy Yates, introduced in 'Family Business' (Season 3), is a civilian freighter captain who becomes Sisko's love interest and marries him in the final season, expecting their child as he joins the Prophets."
+  },
+  {
+    "id": "DS9-115",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What gambling game, run by a dabo girl, is a popular attraction at Quark's bar?",
+    "answers": {
+      "A": "Tongo",
+      "B": "Dabo",
+      "C": "Fizzbin",
+      "D": "Dom-jot"
+    },
+    "correct": "B",
+    "explanation": "Dabo is the spinning wheel-style game of chance run at Quark's by 'dabo girls' such as Leeta and M'Pella; players shout 'Dabo!' on a winning result throughout the series."
+  },
+  {
+    "id": "DS9-116",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Planets & Locations",
+    "question": "The shops, bar, and infirmary on Deep Space 9 are located on a level called the Promenade.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Promenade is the central commercial concourse of DS9, home to Quark's bar, the Bajoran temple, the infirmary, Garak's tailor shop, and the security office, established in 'Emissary.'"
+  },
+  {
+    "id": "DS9-117",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Which DS9 character is the dabo girl who marries Rom?",
+    "answers": {
+      "A": "Ishka",
+      "B": "M'Pella",
+      "C": "Leeta",
+      "D": "Ezri"
+    },
+    "correct": "C",
+    "explanation": "Leeta, a Bajoran dabo girl at Quark's, falls in love with and marries Rom; their courtship and Ferengi-tradition wedding play out across the later seasons."
+  },
+  {
+    "id": "DS9-118",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "What is the name of the genetically engineered soldier caste that serves as the Dominion's army?",
+    "answers": {
+      "A": "The Vorta",
+      "B": "The Cardassian Guard",
+      "C": "The Breen",
+      "D": "The Jem'Hadar"
+    },
+    "correct": "D",
+    "explanation": "The Jem'Hadar are the Dominion's bred-for-war shock troops, fanatically loyal to the Founders and supervised by the Vorta, introduced in the Season 2 finale 'The Jem'Hadar.'"
+  },
+  {
+    "id": "DS9-119",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "Miles O'Brien is a non-commissioned officer, holding the rank of Chief Petty Officer rather than a commissioned officer rank.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "O'Brien is an enlisted non-commissioned officer (Senior Chief Petty Officer), notably one of Star Trek's few prominent non-commissioned characters, a point emphasized in episodes like 'The Assignment' and 'Hippocratic Oath.'"
+  },
+  {
+    "id": "DS9-120",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "The Trill join with a long-lived symbiont. Where in the body does the symbiont reside?",
+    "answers": {
+      "A": "In a pouch in the abdomen",
+      "B": "Within the skull, behind the brain",
+      "C": "In the chest cavity beside the heart",
+      "D": "In the spinal column"
+    },
+    "correct": "A",
+    "explanation": "A Trill symbiont lives in an abdominal pouch of its humanoid host; the joining is essential to the symbiont, which would die within hours if removed without a host, as shown in 'Invasive Procedures.'"
+  },
+  {
+    "id": "DS9-121",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "Chief Miles O'Brien was a regular character on Star Trek: The Next Generation before transferring to Deep Space 9.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Colm Meaney's Miles O'Brien served as transporter chief aboard the Enterprise-D throughout TNG before transferring to DS9 in 'Emissary,' making him a key crossover character between the two series."
+  },
+  {
+    "id": "DS9-122",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "What is the title of the DS9 series premiere?",
+    "answers": {
+      "A": "Encounter at Farpoint",
+      "B": "The Search",
+      "C": "Caretaker",
+      "D": "Emissary"
+    },
+    "correct": "D",
+    "explanation": "'Emissary' is the feature-length DS9 pilot, in which Sisko takes command of the station, discovers the wormhole, and is named the Emissary of the Prophets by the Bajorans."
+  },
+  {
+    "id": "DS9-123",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "Just before the series begins, the Cardassians do what to Bajor and its station?",
+    "answers": {
+      "A": "Sign a permanent peace treaty with Bajor",
+      "B": "Withdraw from Bajor, ending the Occupation",
+      "C": "Join the Federation",
+      "D": "Destroy the station and flee"
+    },
+    "correct": "B",
+    "explanation": "The Cardassian withdrawal from Bajor ends the decades-long Occupation and leaves the abandoned station Terok Nor behind; Bajor's provisional government then invites the Federation to administer it as DS9, the premise of 'Emissary.'"
+  },
+  {
+    "id": "DS9-124",
+    "series": "DS9",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "Deep Space 9's smaller Starfleet support craft, named after rivers, are called runabouts.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "DS9 operates Danube-class runabouts named for Earth rivers, including the Rio Grande, Yangtzee Kiang, Orinoco, and Mekong, used for short-range missions throughout the series."
+  },
+  {
+    "id": "DS9-125",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "What is the title of the Ferengi business game Quark plays, in which players acquire and sell to bankrupt opponents?",
+    "answers": {
+      "A": "Dabo",
+      "B": "Tongo",
+      "C": "Dom-jot",
+      "D": "Kotra"
+    },
+    "correct": "B",
+    "explanation": "Tongo is a card-and-wheel game of Ferengi finance played by Quark, Jadzia, and others; calls like 'Acquire!' and 'Confront!' are part of its play, seen in episodes such as 'Rules of Acquisition.'"
+  },
+  {
+    "id": "DS9-126",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "Which character originated on The Next Generation as a recurring Klingon and later became a regular on Deep Space 9?",
+    "answers": {
+      "A": "Martok",
+      "B": "Worf",
+      "C": "Gowron",
+      "D": "Kurn"
+    },
+    "correct": "B",
+    "explanation": "Worf, played by Michael Dorn, was a TNG main cast member who joined DS9 as a regular in Season 4's 'The Way of the Warrior,' bridging the two series during the Klingon-Federation tensions."
+  },
+  {
+    "id": "DS9-127",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Which Klingon general becomes a close ally of the DS9 crew and is eventually appointed Chancellor of the Klingon Empire?",
+    "answers": {
+      "A": "Gowron",
+      "B": "Kor",
+      "C": "Martok",
+      "D": "Kurn"
+    },
+    "correct": "C",
+    "explanation": "General Martok, played by J.G. Hertzler, fights alongside the DS9 crew during the Dominion War and is named Chancellor by Worf after Worf kills Gowron in 'Tacking Into the Wind.'"
+  },
+  {
+    "id": "DS9-128",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "When the Federation suspects a Changeling has infiltrated Earth, Starfleet briefly places Earth under martial law in the 'Homefront'/'Paradise Lost' two-parter.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Homefront' and 'Paradise Lost,' Admiral Leyton exploits Changeling paranoia to seize power, declaring a state of emergency and deploying troops on Earth in an attempted Starfleet coup that Sisko helps thwart."
+  },
+  {
+    "id": "DS9-129",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In which Season 5 finale does Sisko order the wormhole mined, triggering the start of the Dominion War?",
+    "answers": {
+      "A": "By Inferno's Light",
+      "B": "A Call to Arms",
+      "C": "In Purgatory's Shadow",
+      "D": "A Time to Stand"
+    },
+    "correct": "B",
+    "explanation": "In the Season 5 finale 'Call to Arms,' Sisko mines the wormhole to block Dominion reinforcements; the Dominion and Cardassians respond by attacking, and Starfleet abandons the station, igniting open war."
+  },
+  {
+    "id": "DS9-130",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "Which power does Cardassia secretly join under Dukat in late Season 5, dramatically shifting the balance of power toward war?",
+    "answers": {
+      "A": "The Romulan Star Empire",
+      "B": "The Klingon Empire",
+      "C": "The Dominion",
+      "D": "The Breen Confederacy"
+    },
+    "correct": "C",
+    "explanation": "In 'By Inferno's Light' (Season 5), Dukat reveals Cardassia has secretly joined the Dominion, making himself leader of a Cardassian client state and dramatically shifting the Alpha Quadrant balance of power toward war."
+  },
+  {
+    "id": "DS9-131",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "The Ferengi first appeared in Star Trek: The Next Generation before becoming central to DS9.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Ferengi debuted in TNG's first-season episode 'The Last Outpost' as intended antagonists; DS9 later reinvented and humanized them through Quark, Rom, Nog, and Ferengi culture."
+  },
+  {
+    "id": "DS9-132",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Quark and Rom's mother, who scandalously earns profit and wears clothes against Ferengi custom, is named what?",
+    "answers": {
+      "A": "Leeta",
+      "B": "Pel",
+      "C": "Ishka",
+      "D": "Prinadora"
+    },
+    "correct": "C",
+    "explanation": "Ishka ('Moogie'), introduced in 'Family Business,' defies Ferengi tradition by earning profit and wearing clothing; she later influences Grand Nagus Zek toward reforms granting Ferengi females rights."
+  },
+  {
+    "id": "DS9-133",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "What is the name of the lawless, plasma-storm-filled region near the Cardassian border favored by the Maquis?",
+    "answers": {
+      "A": "The Briar Patch",
+      "B": "The Demilitarized Zone",
+      "C": "The Badlands",
+      "D": "The Neutral Zone"
+    },
+    "correct": "C",
+    "explanation": "The Badlands, a region of violent plasma storms, served as a hideout for the Maquis raiders operating against Cardassia; it features in DS9 episodes such as 'The Maquis' and as the setting that strands Voyager."
+  },
+  {
+    "id": "DS9-134",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "Federation colonists who resisted the Cardassian peace treaty formed a paramilitary group called the Maquis, which DS9 helped introduce to Star Trek.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Maquis were introduced in DS9's two-part 'The Maquis' (Season 2), formed by disgruntled Federation colonists in the Demilitarized Zone, setting up a conflict later carried into Star Trek: Voyager."
+  },
+  {
+    "id": "DS9-135",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "Which Starfleet officer and former Maquis member is revealed to be a traitor working with the Maquis, and is a recurring foil to Sisko early on?",
+    "answers": {
+      "A": "Calvin Hudson",
+      "B": "Michael Eddington",
+      "C": "Cal Hudson",
+      "D": "Thomas Riker"
+    },
+    "correct": "B",
+    "explanation": "Lt. Commander Michael Eddington, DS9's Starfleet security officer, secretly defects to the Maquis in 'For the Cause' (Season 4) and becomes a personal nemesis of Sisko until 'For the Uniform' and 'Blaze of Glory.'"
+  },
+  {
+    "id": "DS9-136",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the registry number of the original USS Defiant?",
+    "answers": {
+      "A": "NCC-1764",
+      "B": "NX-74205",
+      "C": "NCC-74656",
+      "D": "NX-59650"
+    },
+    "correct": "B",
+    "explanation": "The original USS Defiant carries the registry NX-74205, the 'NX' prefix denoting its status as an experimental prototype of the Defiant-class warship."
+  },
+  {
+    "id": "DS9-137",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "Nog is eventually commissioned and promoted to the rank of Lieutenant by the end of the series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "After becoming the first Ferengi at Starfleet Academy, Nog is commissioned an ensign and is promoted to lieutenant (junior grade) for his battlefield service during the Dominion War."
+  },
+  {
+    "id": "DS9-138",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the title of the elected leader of Bajor's civilian government during much of the series?",
+    "answers": {
+      "A": "Kai",
+      "B": "Legate",
+      "C": "First Minister",
+      "D": "Vedek"
+    },
+    "correct": "C",
+    "explanation": "The First Minister leads Bajor's provisional/civilian government; Shakaar Edon, Kira's former resistance cell leader, is elected First Minister, distinct from the religious office of Kai."
+  },
+  {
+    "id": "DS9-139",
+    "series": "DS9",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Timeline & History",
+    "question": "Bajor formally withdraws its application to join the Federation on the advice of Sisko at the start of the Dominion War.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Call to Arms,' Sisko advises Bajor to sign a nonaggression pact with the Dominion and postpone Federation membership to spare the planet from the coming war, sparing Bajor occupation during the conflict."
+  },
+  {
+    "id": "DS9-140",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "In 'In the Pale Moonlight,' Sisko's closing line, repeated as a grim self-justification, is what?",
+    "answers": {
+      "A": "The needs of the many outweigh the needs of the few.",
+      "B": "It is possible to commit no mistakes and still lose.",
+      "C": "I can live with it.",
+      "D": "The line must be drawn here."
+    },
+    "correct": "C",
+    "explanation": "Sisko ends 'In the Pale Moonlight' confessing his role in deception and an assassination that drew the Romulans into the war, concluding that he can live with it before ordering the log erased."
+  },
+  {
+    "id": "DS9-141",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "Which one-time TNG character, a transporter-duplicate of Will Riker, appears in DS9 having joined the Maquis?",
+    "answers": {
+      "A": "Thomas Riker",
+      "B": "Tom Paris",
+      "C": "Ro Laren",
+      "D": "Cal Hudson"
+    },
+    "correct": "A",
+    "explanation": "Thomas Riker, the transporter duplicate created in TNG's 'Second Chances,' resurfaces in DS9's 'Defiant' (Season 3), where he steals the Defiant for the Maquis and is captured by the Cardassians."
+  },
+  {
+    "id": "DS9-142",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "What treaty, signed in the series finale, formally ends the Dominion War?",
+    "answers": {
+      "A": "The Khitomer Accords",
+      "B": "The Treaty of Algeron",
+      "C": "The Treaty of Bajor",
+      "D": "The Federation-Cardassian Treaty"
+    },
+    "correct": "C",
+    "explanation": "The Treaty of Bajor, signed aboard DS9 in 'What You Leave Behind,' marks the Dominion's surrender and the end of the war, with the Female Changeling agreeing to return the Dominion to the Gamma Quadrant."
+  },
+  {
+    "id": "DS9-143",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "In 'Trials and Tribble-ations,' the Department of Temporal Investigations agents who interview Sisko are named Dulmur and Lucsly, anagrams of the surnames of two real-world investigators from a famous TV series.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "DTI agents Dulmur and Lucsly, debuting in 'Trials and Tribble-ations,' are deliberate anagrams of 'Mulder' and 'Scully' from The X-Files, an in-joke about time-travel investigators."
+  },
+  {
+    "id": "DS9-144",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "Which Founder infiltrated the Klingon high command, impersonating General Martok to provoke war between the Klingons and Cardassians?",
+    "answers": {
+      "A": "Laas",
+      "B": "The Female Changeling",
+      "C": "A Changeling impersonating Martok",
+      "D": "Odo's brother"
+    },
+    "correct": "C",
+    "explanation": "A Changeling spy posing as General Martok manipulated Chancellor Gowron into attacking Cardassia in 'The Way of the Warrior' and was finally exposed and killed in 'Apocalypse Rising'; the real Martok had been held captive."
+  },
+  {
+    "id": "DS9-145",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "What role is Sisko given at the start of Season 6, coordinating Allied operations against the Dominion from Starbase 375?",
+    "answers": {
+      "A": "Admiral of the Ninth Fleet",
+      "B": "Adjutant to the Klingon High Council",
+      "C": "Adjutant and strategic operations officer planning the war effort",
+      "D": "Commander-in-Chief of Starfleet"
+    },
+    "correct": "C",
+    "explanation": "Captain Sisko is assigned as adjutant/strategic-operations planner coordinating the Allied war effort from Starbase 375 in the Season 6 opening arc ('A Time to Stand' onward), directing fleet operations against the Dominion."
+  },
+  {
+    "id": "DS9-146",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "The recapture of Deep Space 9 from the Dominion is depicted in the six-episode arc that opens Season 6.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Season 6 opens with a serialized six-episode arc ('A Time to Stand' through 'Sacrifice of Angels') in which the Federation, having lost the station to the Dominion in 'Call to Arms,' fights to retake DS9 and the wormhole."
+  },
+  {
+    "id": "DS9-147",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "In 'Children of Time,' the Defiant crew discovers a colony descended from themselves. What caused the colony to exist?",
+    "answers": {
+      "A": "A transporter accident duplicated the crew",
+      "B": "A time-travel accident sent the crew 200 years into the past, where they settled",
+      "C": "The Prophets created copies of the crew",
+      "D": "A Dominion cloning experiment"
+    },
+    "correct": "B",
+    "explanation": "In 'Children of Time,' an energy barrier throws the Defiant 200 years into the past upon departure; a previous attempt stranded the crew, who founded a colony of 8,000 descendants, creating a wrenching temporal dilemma."
+  },
+  {
+    "id": "DS9-148",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What is the registry of the runabout USS Rio Grande, DS9's longest-surviving runabout?",
+    "answers": {
+      "A": "NCC-72452",
+      "B": "NCC-74205",
+      "C": "NCC-72003",
+      "D": "NCC-1701"
+    },
+    "correct": "A",
+    "explanation": "The USS Rio Grande, registry NCC-72452, is among the first runabouts assigned to DS9 and notably survives the entire series while several sister runabouts are destroyed."
+  },
+  {
+    "id": "DS9-149",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Worf's discommendation and his brother Kurn's fate are revisited in the DS9 episode 'Sons of Mogh.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Sons of Mogh' (Season 4), Worf's brother Kurn arrives dishonored and suicidal after Worf's break with Gowron; to save him, Dr. Bashir wipes Kurn's memory and he is given a new identity as Rodek."
+  },
+  {
+    "id": "DS9-150",
+    "series": "DS9",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "The Founders relocated their homeworld after the Omarion Nebula planet was destroyed. Where was their new homeworld located relative to the Dominion?",
+    "answers": {
+      "A": "In the Alpha Quadrant, hidden near Cardassia",
+      "B": "In the Bajoran wormhole itself",
+      "C": "At the center of Dominion space in the Gamma Quadrant",
+      "D": "Inside the Briar Patch"
+    },
+    "correct": "C",
+    "explanation": "After their Omarion Nebula world was destroyed in 'The Die is Cast,' the Founders established a new, secret homeworld deep within Dominion territory in the Gamma Quadrant, where Odo is judged in 'Broken Link.'"
   }
 ]

@@ -2,7 +2,7 @@
 
 A self-contained, LCARS-styled Star Trek trivia game that runs locally in any modern browser — no installer, no server, no `npm install`. Just double-click `index.html`.
 
-**440 canon-verified questions** spanning four series: TOS, TNG, DS9, and VOY. Every question includes a brief explanation citing the relevant episode or film.
+**600 canon-verified questions** spanning four series: TOS, TNG, DS9, and VOY. Every question includes a brief explanation citing the relevant episode or film.
 
 ---
 
@@ -20,11 +20,11 @@ Tested in Edge, Chrome, and Firefox on Windows 11. Should work in any modern bro
 
 | Series | Easy | Medium | Hard | Total |
 |---|---:|---:|---:|---:|
-| TOS — The Original Series | 33 | 33 | 44 | 110 |
-| TNG — The Next Generation | 33 | 33 | 44 | 110 |
-| DS9 — Deep Space Nine | 33 | 33 | 44 | 110 |
-| VOY — Voyager | 33 | 33 | 44 | 110 |
-| **Total** | **132** | **132** | **176** | **440** |
+| TOS — The Original Series | 50 | 50 | 50 | 150 |
+| TNG — The Next Generation | 50 | 50 | 50 | 150 |
+| DS9 — Deep Space Nine | 50 | 50 | 50 | 150 |
+| VOY — Voyager | 50 | 50 | 50 | 150 |
+| **Total** | **200** | **200** | **200** | **600** |
 
 Each series mixes multiple-choice and true/false questions across 10 categories: Characters & Crew, Ships & Technology, Alien Species & Cultures, Villains & Antagonists, Episodes & Story Arcs, Quotes & Catchphrases, Starfleet Ranks & Protocol, Planets & Locations, Timeline & History, and Crossovers & Connections.
 
@@ -69,7 +69,7 @@ To add or edit questions:
 ├── index.html          # Main app — open this to play
 ├── styles.css          # LCARS-inspired theme
 ├── app.js              # Game logic + verbose console logging
-├── data.js             # Generated bundle of all 440 questions
+├── data.js             # Generated bundle of all 600 questions
 ├── build_data.ps1      # Regenerates data.js from the *_trivia.json files
 ├── tos_trivia.json     # Source: TOS questions
 ├── tng_trivia.json     # Source: TNG questions
@@ -82,6 +82,6 @@ To add or edit questions:
 
 ## Quality notes
 
-Every answer was reviewed by independent canon-verification passes against Memory Alpha conventions. Known issues found in earlier drafts (e.g., `qapla'` mistranslation, the Doctor's "Latent Image" dilemma, Lursa & B'Etor's DS9 appearance) have been corrected. If you spot a remaining canon error, open an issue or edit the JSON and re-run the build script.
+Every answer was reviewed by independent canon-verification passes against Memory Alpha conventions. The expansion to 600 questions added a fresh per-series adversarial fact-check that caught and fixed issues such as a malformed Voyager question, a misnamed actress (Diana Muldaur), the USS Rio Grande registry (NCC-72452), the number of Weyoun clones, and several stray episode/citation errors. Known issues found in earlier drafts (e.g., `qapla'` mistranslation, the Doctor's "Latent Image" dilemma, Lursa & B'Etor's DS9 appearance) remain corrected. If you spot a remaining canon error, open an issue or edit the JSON and re-run the build script.
 
 Live long and prosper.

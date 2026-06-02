@@ -599,7 +599,7 @@
       "D": "Dr. Pulaski"
     },
     "correct": "D",
-    "explanation": "Dr. Katherine Pulaski, played by Diana Muldoon, serves as CMO throughout Season 2 before Beverly Crusher returns in Season 3."
+    "explanation": "Dr. Katherine Pulaski, played by Diana Muldaur, serves as CMO throughout Season 2 before Beverly Crusher returns in Season 3."
   },
   {
     "id": "TNG-041",
@@ -1267,15 +1267,15 @@
     "difficulty": "hard",
     "type": "multiple_choice",
     "category": "Ships & Technology",
-    "question": "What type of beam does the Enterprise use to scan inside a Borg cube and locate Locutus in 'Best of Both Worlds'?",
+    "question": "In 'The Best of Both Worlds, Part II,' how does Data ultimately disable the Borg cube heading for Earth?",
     "answers": {
-      "A": "Antiproton beam",
-      "B": "Graviton beam",
-      "C": "Dekyon beam",
-      "D": "Nadion beam"
+      "A": "By detonating the main deflector's energy discharge",
+      "B": "By tapping the captured Borg link and ordering the Collective to 'sleep'/regenerate",
+      "C": "By beaming a quantum torpedo into the cube's core",
+      "D": "By transmitting a self-replicating computer virus"
     },
-    "correct": "A",
-    "explanation": "In 'The Best of Both Worlds, Part II,' the Enterprise sweeps the Borg cube with a magneton/antiproton beam to locate Locutus, then beams an away team aboard."
+    "correct": "B",
+    "explanation": "After Locutus is captured, Data taps into the Borg subspace link; cued by Picard's whispered 'sleep,' he accesses the regeneration subroutine and commands the Collective to regenerate, shutting down the cube's systems so it self-destructs."
   },
   {
     "id": "TNG-086",
@@ -1652,5 +1652,617 @@
     },
     "correct": "A",
     "explanation": "The Vulcans detect Zefram Cochrane's warp flight from the Phoenix and land in Bozeman, Montana — establishing the canonical First Contact date that Picard references throughout TNG."
+  },
+  {
+    "id": "TNG-111",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "What two-word phrase does Picard often use to address his first officer, Commander Riker?",
+    "answers": {
+      "A": "Number One",
+      "B": "Mister Riker",
+      "C": "Commander Will",
+      "D": "First Officer"
+    },
+    "correct": "A",
+    "explanation": "Picard regularly calls Riker 'Number One,' a traditional naval term for the first officer, used throughout TNG beginning with 'Encounter at Farpoint.'"
+  },
+  {
+    "id": "TNG-112",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Quotes & Catchphrases",
+    "question": "Geordi La Forge's signature phrase when frustrated by engineering problems is the line 'I'm a doctor, not a bricklayer.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B",
+    "explanation": "'I'm a doctor, not a...' is Dr. McCoy's TOS catchphrase, not Geordi's; Geordi is an engineer and has no such line."
+  },
+  {
+    "id": "TNG-113",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "Worf frequently recommends which course of action to threats, becoming a running characterization?",
+    "answers": {
+      "A": "Raising shields and retreating",
+      "B": "Firing photon torpedoes / engaging the enemy",
+      "C": "Negotiating a truce",
+      "D": "Hailing for reinforcements"
+    },
+    "correct": "B",
+    "explanation": "Worf habitually advocates aggressive tactics such as firing torpedoes or boarding, a recurring trait often overruled by Picard throughout TNG."
+  },
+  {
+    "id": "TNG-114",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "In 'The Best of Both Worlds,' what does the assimilated Picard (Locutus) tell the Enterprise crew about resistance and their goal?",
+    "answers": {
+      "A": "'You will be assimilated. Your culture will adapt to service us.'",
+      "B": "'Surrender your vessel or be destroyed.'",
+      "C": "'We are the beginning and the end.'",
+      "D": "'Your weapons are useless against us.'"
+    },
+    "correct": "A",
+    "explanation": "As Locutus in 'The Best of Both Worlds, Part I,' Picard declares that resistance is futile and that human culture will adapt to service the Borg."
+  },
+  {
+    "id": "TNG-115",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "Chief Miles O'Brien marries Keiko, a botanist, while still serving aboard the Enterprise-D.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "O'Brien marries botanist Keiko Ishikawa in the Season 4 episode 'Data's Day' aboard the Enterprise-D, before the family transfers to Deep Space 9."
+  },
+  {
+    "id": "TNG-116",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "Which legendary TOS character appears in the TNG two-part episode 'Unification'?",
+    "answers": {
+      "A": "Captain Kirk",
+      "B": "Dr. McCoy",
+      "C": "Ambassador Spock",
+      "D": "Montgomery Scott"
+    },
+    "correct": "C",
+    "explanation": "Leonard Nimoy reprises Spock in 'Unification,' where the Vulcan ambassador is found on Romulus pursuing reunification of the Romulan and Vulcan peoples."
+  },
+  {
+    "id": "TNG-117",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "Which original-series-era character appears in TNG's pilot 'Encounter at Farpoint' as a very elderly admiral?",
+    "answers": {
+      "A": "Montgomery Scott",
+      "B": "Leonard McCoy",
+      "C": "Hikaru Sulu",
+      "D": "Spock"
+    },
+    "correct": "B",
+    "explanation": "DeForest Kelley cameos as a 137-year-old Admiral Leonard McCoy touring the Enterprise-D in 'Encounter at Farpoint,' linking TNG to the original crew."
+  },
+  {
+    "id": "TNG-118",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "Worf later became a main cast member of Star Trek: Deep Space Nine after TNG ended.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Michael Dorn's Worf joined the DS9 main cast in its fourth season (1995), making Worf the only character to be a regular on two Star Trek series."
+  },
+  {
+    "id": "TNG-119",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Crossovers & Connections",
+    "question": "Which recurring TNG character was later carried over as a recurring character on Star Trek: Voyager, bridging the two 24th-century series?",
+    "answers": {
+      "A": "Guinan",
+      "B": "Lwaxana Troi",
+      "C": "Chief O'Brien",
+      "D": "Reginald Barclay"
+    },
+    "correct": "D",
+    "explanation": "Lt. Reginald Barclay, introduced in TNG's 'Hollow Pursuits,' became a recurring character on Star Trek: Voyager, where his work on Project Pathfinder helped restore contact with the lost ship. (O'Brien instead moved to DS9.)"
+  },
+  {
+    "id": "TNG-120",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "What is Data's rank for most of TNG?",
+    "answers": {
+      "A": "Lieutenant",
+      "B": "Commander",
+      "C": "Lieutenant Commander",
+      "D": "Ensign"
+    },
+    "correct": "C",
+    "explanation": "Data holds the rank of Lieutenant Commander throughout TNG, serving as second officer and operations officer aboard the Enterprise-D."
+  },
+  {
+    "id": "TNG-121",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "At what rank does Wesley Crusher serve when he is formally given the position of acting ensign?",
+    "answers": {
+      "A": "Cadet",
+      "B": "Acting Ensign",
+      "C": "Lieutenant Junior Grade",
+      "D": "Crewman"
+    },
+    "correct": "B",
+    "explanation": "Picard appoints Wesley an 'acting ensign' in 'Where No One Has Gone Before,' allowing him to serve on the bridge before he formally enters Starfleet Academy."
+  },
+  {
+    "id": "TNG-122",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "In 'The Measure of a Man,' the hearing must determine whether Data is the property of Starfleet or has the right to refuse a procedure.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The JAG hearing in 'The Measure of a Man' decides whether Data is Starfleet property who can be ordered to be disassembled, or a sentient being with self-determination."
+  },
+  {
+    "id": "TNG-123",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "In 'Chain of Command,' who temporarily takes command of the Enterprise-D while Picard is on a covert mission?",
+    "answers": {
+      "A": "Commander Riker",
+      "B": "Captain Edward Jellico",
+      "C": "Admiral Nechayev",
+      "D": "Captain Morgan Bateson"
+    },
+    "correct": "B",
+    "explanation": "Captain Edward Jellico assumes command of the Enterprise-D in 'Chain of Command, Part I,' clashing with the crew over his rigid style while Picard goes undercover."
+  },
+  {
+    "id": "TNG-124",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "Commander Riker holds the rank of Commander for most of TNG.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "William Riker serves as a Commander and first officer throughout TNG, repeatedly declining promotion to captain of his own ship."
+  },
+  {
+    "id": "TNG-125",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Drumhead,' a retired admiral conducts a paranoid witch-hunt aboard the Enterprise. What is her name?",
+    "answers": {
+      "A": "Admiral Nechayev",
+      "B": "Admiral Satie",
+      "C": "Admiral Haftel",
+      "D": "Admiral Quinn"
+    },
+    "correct": "B",
+    "explanation": "Retired Admiral Norah Satie leads an escalating investigation into alleged conspiracy in 'The Drumhead,' which Picard ultimately condemns as a threat to civil liberties."
+  },
+  {
+    "id": "TNG-126",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Lower Decks,' the episode focuses on which group of characters?",
+    "answers": {
+      "A": "The senior staff",
+      "B": "Junior officers and enlisted crew",
+      "C": "Visiting Klingon dignitaries",
+      "D": "The ship's children"
+    },
+    "correct": "B",
+    "explanation": "'Lower Decks' tells the story from the perspective of junior officers like Ensign Sito Jaxa and Sam Lavelle, contrasting their view with the senior staff."
+  },
+  {
+    "id": "TNG-127",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Cause and Effect,' which starship emerges from the temporal distortion and collides with the Enterprise-D?",
+    "answers": {
+      "A": "USS Bozeman",
+      "B": "USS Yamato",
+      "C": "USS Hathaway",
+      "D": "USS Brattain"
+    },
+    "correct": "A",
+    "explanation": "The USS Bozeman, a Soyuz-class ship commanded by Captain Morgan Bateson and lost for 90 years, emerges from the rift and collides with the Enterprise in 'Cause and Effect.'"
+  },
+  {
+    "id": "TNG-128",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Naked Now,' the crew is affected by what condition?",
+    "answers": {
+      "A": "A telepathic plague",
+      "B": "An intoxicating illness that lowers inhibitions",
+      "C": "Rapid aging",
+      "D": "Memory loss"
+    },
+    "correct": "B",
+    "explanation": "'The Naked Now,' an homage to TOS's 'The Naked Time,' has a polywater intoxicant spread through the crew, removing their inhibitions."
+  },
+  {
+    "id": "TNG-129",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Hollow Pursuits,' Lieutenant Barclay creates holodeck fantasies featuring caricatures of the Enterprise crew.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Hollow Pursuits,' the socially anxious Reginald Barclay escapes into holodeck programs depicting idealized versions of himself defeating the senior staff."
+  },
+  {
+    "id": "TNG-130",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the name of the symbiotic species whose hosts carry a long-lived joined organism, introduced in TNG's 'The Host'?",
+    "answers": {
+      "A": "Trill",
+      "B": "Betazoid",
+      "C": "El-Aurian",
+      "D": "Changeling"
+    },
+    "correct": "A",
+    "explanation": "The Trill, a joined species blending humanoid host and symbiont, are first introduced in TNG's 'The Host' before becoming central to DS9's Dax."
+  },
+  {
+    "id": "TNG-131",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Alien Species & Cultures",
+    "question": "The Q Continuum is the extra-dimensional realm inhabited by Q and other members of his species.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Q hails from the Q Continuum, a realm of near-omnipotent beings; it is named throughout TNG and visited in later Trek series."
+  },
+  {
+    "id": "TNG-132",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "In 'Conspiracy,' what kind of creatures secretly infiltrate Starfleet Command?",
+    "answers": {
+      "A": "Shapeshifting Founders",
+      "B": "Parasitic neural beings that control hosts",
+      "C": "Cloaked Romulan agents",
+      "D": "Borg drones"
+    },
+    "correct": "B",
+    "explanation": "In 'Conspiracy,' parasitic alien creatures attach to and control Starfleet officers via a 'mother' creature, a rare graphically violent TNG episode."
+  },
+  {
+    "id": "TNG-133",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "On which planet does Picard's family own a vineyard?",
+    "answers": {
+      "A": "On Earth, in La Barre, France",
+      "B": "On Risa",
+      "C": "On Mars",
+      "D": "On Alpha Centauri"
+    },
+    "correct": "A",
+    "explanation": "The Picard family runs the Chateau Picard vineyard in La Barre, France, on Earth, shown in 'Family' when Picard returns home after his Borg ordeal."
+  },
+  {
+    "id": "TNG-134",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "At which star system does Starfleet make a doomed last stand against the Borg, an event referenced repeatedly in TNG and DS9?",
+    "answers": {
+      "A": "Wolf 359",
+      "B": "Sector 001",
+      "C": "Maxia Zeta",
+      "D": "Minos Korva"
+    },
+    "correct": "A",
+    "explanation": "The Battle of Wolf 359, where 39 starships were destroyed by the Borg cube led by Locutus, is referenced in 'The Best of Both Worlds, Part II' and depicted in DS9's 'Emissary.'"
+  },
+  {
+    "id": "TNG-135",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Planets & Locations",
+    "question": "Risa is depicted in TNG as a famous pleasure resort planet.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Risa, the tropical resort world, is featured in TNG episodes such as 'Captain's Holiday,' where Picard takes a vacation and encounters Vash."
+  },
+  {
+    "id": "TNG-136",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "In 'The Inner Light,' what is the name of the doomed planet whose civilization preserves itself in a memory probe?",
+    "answers": {
+      "A": "Kataan",
+      "B": "Ressik",
+      "C": "Tanagra",
+      "D": "Ohniaka"
+    },
+    "correct": "A",
+    "explanation": "The planet Kataan launches a probe before its sun goes nova; the probe gives Picard a lifetime of memories as Kamin in the village of Ressik."
+  },
+  {
+    "id": "TNG-137",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "Who is the recurring Romulan commander who repeatedly faces off against Picard, including in 'The Defector'?",
+    "answers": {
+      "A": "Tomalak",
+      "B": "Jarok",
+      "C": "Tebok",
+      "D": "Mendak"
+    },
+    "correct": "A",
+    "explanation": "Commander Tomalak is a recurring Romulan adversary who confronts Picard in episodes including 'The Enemy,' 'The Defector,' and the finale 'All Good Things...'"
+  },
+  {
+    "id": "TNG-138",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Villains & Antagonists",
+    "question": "The Duras sisters, Lursa and B'Etor, attempt to seize power in the Klingon Empire and later appear in Star Trek: Generations.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Lursa and B'Etor of the House of Duras instigate the Klingon civil war in 'Redemption' and return as villains in the film Star Trek: Generations."
+  },
+  {
+    "id": "TNG-139",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "In 'Q Who,' Q flings the Enterprise-D 7,000 light-years to introduce the crew to which threat?",
+    "answers": {
+      "A": "The Dominion",
+      "B": "The Borg",
+      "C": "Species 8472",
+      "D": "The Romulans"
+    },
+    "correct": "B",
+    "explanation": "In 'Q Who,' Q hurls the Enterprise into the path of a Borg cube in the Delta Quadrant, giving the Federation its first direct, deadly encounter with the Borg."
+  },
+  {
+    "id": "TNG-140",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "Which actor portrays the android Data in TNG?",
+    "answers": {
+      "A": "Jonathan Frakes",
+      "B": "Brent Spiner",
+      "C": "Wil Wheaton",
+      "D": "LeVar Burton"
+    },
+    "correct": "B",
+    "explanation": "Brent Spiner plays Data throughout TNG and the films, also portraying Lore, B-4, and Dr. Noonien Soong."
+  },
+  {
+    "id": "TNG-141",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "LeVar Burton, who plays Geordi La Forge, was also the host of the children's show 'Reading Rainbow.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "LeVar Burton, who portrays Chief Engineer Geordi La Forge, hosted the long-running PBS series 'Reading Rainbow' for over two decades."
+  },
+  {
+    "id": "TNG-142",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What is the name of the half-Klingon Federation ambassador who is the mother of Worf's son?",
+    "answers": {
+      "A": "K'Ehleyr",
+      "B": "Jadzia",
+      "C": "Grilka",
+      "D": "Sirella"
+    },
+    "correct": "A",
+    "explanation": "K'Ehleyr, a half-human, half-Klingon Federation envoy, is the mother of Worf's son Alexander; she appears in 'The Emissary' and is killed by Duras in 'Reunion.'"
+  },
+  {
+    "id": "TNG-143",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Nurse Alyssa Ogawa works in sickbay under Dr. Crusher aboard the Enterprise-D.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Nurse Alyssa Ogawa, played by Patti Yasutake, is a recurring medical staffer assisting Dr. Crusher in TNG's later seasons and the films."
+  },
+  {
+    "id": "TNG-144",
+    "series": "TNG",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What handheld device do Starfleet officers use to scan and analyze their environment?",
+    "answers": {
+      "A": "Phaser",
+      "B": "Tricorder",
+      "C": "PADD",
+      "D": "Communicator"
+    },
+    "correct": "B",
+    "explanation": "The tricorder is a multifunction handheld sensor and computing device used for scientific, medical, and engineering analysis throughout TNG."
+  },
+  {
+    "id": "TNG-145",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "In 'Booby Trap' and other episodes, Geordi works with a holographic recreation of which warp-field engineer?",
+    "answers": {
+      "A": "Zefram Cochrane",
+      "B": "Leah Brahms",
+      "C": "Katherine Pulaski",
+      "D": "Reginald Barclay"
+    },
+    "correct": "B",
+    "explanation": "In 'Booby Trap,' Geordi consults a holodeck recreation of warp-systems designer Dr. Leah Brahms; he later meets the real Brahms in 'Galaxy's Child.'"
+  },
+  {
+    "id": "TNG-146",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "A shuttlecraft is a small vessel used for short-range travel when the transporter cannot be used.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The Enterprise-D carries shuttlecraft in its shuttlebays for short-range transport, often used when transporters are unavailable or unsafe, as in many TNG episodes."
+  },
+  {
+    "id": "TNG-147",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "In what year does TNG's first season begin, according to onscreen stardates?",
+    "answers": {
+      "A": "2264",
+      "B": "2364",
+      "C": "2151",
+      "D": "2399"
+    },
+    "correct": "B",
+    "explanation": "'Encounter at Farpoint' establishes the start of TNG in 2364, placing the series in the 24th century."
+  },
+  {
+    "id": "TNG-148",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Timeline & History",
+    "question": "Before commanding the Enterprise-D, Picard captained the USS Stargazer for over twenty years.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Picard commanded the Constellation-class USS Stargazer for roughly 22 years until it was lost at Maxia, an event examined in 'The Battle.'"
+  },
+  {
+    "id": "TNG-149",
+    "series": "TNG",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "The 'Maxia Zeta' incident, in which Picard lost his previous ship, gave rise to a famous evasive starship tactic named after him. What is it called?",
+    "answers": {
+      "A": "The Riker Maneuver",
+      "B": "The Picard Maneuver",
+      "C": "The Kolvoord Starburst",
+      "D": "The Corbomite Maneuver"
+    },
+    "correct": "B",
+    "explanation": "When the Stargazer was attacked at Maxia, Picard jumped to warp to appear in two places at once; this 'Picard Maneuver' is a plot point in 'The Battle.'"
+  },
+  {
+    "id": "TNG-150",
+    "series": "TNG",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "TNG ran for seven seasons before concluding with its series finale.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Star Trek: The Next Generation aired seven seasons from 1987 to 1994, ending with the two-hour finale 'All Good Things...'"
   }
 ]

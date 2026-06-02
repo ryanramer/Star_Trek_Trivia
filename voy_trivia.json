@@ -387,7 +387,7 @@
       "B": "False"
     },
     "correct": "A",
-    "explanation": "The Delta Quadrant is the Borg's home territory, and Voyager has repeated encounters with the Collective starting in 'Blood Fever' / 'Unity' and the 'Scorpion' two-parter."
+    "explanation": "The Delta Quadrant is the Borg's home territory, and Voyager has repeated encounters with the Collective starting in 'Unity' (Season 3) and the 'Scorpion' two-parter."
   },
   {
     "id": "VOY-027",
@@ -613,7 +613,7 @@
       "B": "False"
     },
     "correct": "A",
-    "explanation": "Tuvok and Janeway served together aboard the USS Billings under Captain Paris years before Voyager; their long friendship is referenced throughout the series, particularly in 'Flashback' and 'Resolutions.'"
+    "explanation": "Tuvok served with Janeway for years before Voyager and is her most trusted confidant; their long friendship is referenced throughout the series, particularly in episodes like 'Revulsion' and 'Resolutions.'"
   },
   {
     "id": "VOY-042",
@@ -869,7 +869,7 @@
       "D": "He follows Bajoran religious customs"
     },
     "correct": "B",
-    "explanation": "Chakotay is from a fictional Native American colony world and practices spirit-guide traditions, frequently using a medicine wheel and pakma'ra to enter vision quests throughout the series."
+    "explanation": "Chakotay is from a fictional Native American colony world and practices spirit-guide traditions, frequently using a medicine wheel and an akoonah device to enter vision quests throughout the series."
   },
   {
     "id": "VOY-059",
@@ -883,7 +883,7 @@
       "B": "False"
     },
     "correct": "A",
-    "explanation": "In 'Q2' (Season 7), Q brings his troublesome son (also called Q) to Voyager so Janeway can mentor him; in earlier appearances ('Death Wish,' 'The Q and the Grey') Q develops a relationship with Janeway that leads to the son's birth."
+    "explanation": "In 'Q2' (Season 7), Q brings his troublesome son (also called Q) to Voyager so Janeway can mentor him; the son was conceived by Q and a female Q in 'The Q and the Grey' (Season 3) to help end the Q Continuum's civil war."
   },
   {
     "id": "VOY-060",
@@ -1349,7 +1349,7 @@
       "B": "False"
     },
     "correct": "A",
-    "explanation": "In 'Learning Curve' (Season 1), the bio-neural gel packs are infected by a bacterium from Neelix's cheese; the Doctor treats them with medical heat to kill the infection, a vulnerability the show repeatedly highlights."
+    "explanation": "In 'Learning Curve' (Season 1), the bio-neural gel packs are infected by a bacterium originating from Neelix's cheese; the crew cures them by raising the ship's temperature to induce a 'fever' that kills the bacteria, a vulnerability the show repeatedly highlights."
   },
   {
     "id": "VOY-091",
@@ -1652,5 +1652,613 @@
     },
     "correct": "A",
     "explanation": "Admiral Janeway, who arrived home after 23 more years of attrition and lost crew, breaks the Temporal Prime Directive to help Voyager return via a Borg transwarp hub — a paradox that overwrites the original future."
+  },
+  {
+    "id": "VOY-111",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "What standing order does Janeway give regarding the conservation of replicator energy early in the series?",
+    "answers": {
+      "A": "Replicator rations",
+      "B": "Power conservation protocol",
+      "C": "Energy lockdown",
+      "D": "Fuel restriction directive"
+    },
+    "correct": "A",
+    "explanation": "Because Voyager cannot resupply in the Delta Quadrant, the crew is placed on replicator rations, which is why Neelix's galley becomes the ship's primary food source ('Caretaker' onward)."
+  },
+  {
+    "id": "VOY-112",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Quotes & Catchphrases",
+    "question": "The Doctor frequently opens his appearances with the phrase 'Please state the nature of the medical emergency.'",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "As the Emergency Medical Hologram, the Doctor's automatic activation line is 'Please state the nature of the medical emergency,' a recurring catchphrase from the pilot 'Caretaker' onward."
+  },
+  {
+    "id": "VOY-113",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "What Borg phrase do the Collective use when first confronting their targets?",
+    "answers": {
+      "A": "You will be assimilated",
+      "B": "Surrender your vessel",
+      "C": "Resistance is futile",
+      "D": "We are the Collective"
+    },
+    "correct": "C",
+    "explanation": "'Resistance is futile' is the Borg's signature declaration, heard repeatedly in Voyager's Borg-centered episodes such as 'Scorpion' and 'Dark Frontier.'"
+  },
+  {
+    "id": "VOY-114",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "In which quadrant of the galaxy is Voyager stranded?",
+    "answers": {
+      "A": "Alpha Quadrant",
+      "B": "Beta Quadrant",
+      "C": "Gamma Quadrant",
+      "D": "Delta Quadrant"
+    },
+    "correct": "D",
+    "explanation": "Voyager is pulled into the Delta Quadrant by the Caretaker in the pilot, far from the Alpha Quadrant home of the Federation."
+  },
+  {
+    "id": "VOY-115",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Planets & Locations",
+    "question": "Voyager's journey begins in the Badlands, a region of space near Cardassian and Bajoran territory.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Caretaker,' Voyager enters the plasma-storm-filled Badlands to search for Chakotay's missing Maquis ship before both vessels are swept to the Delta Quadrant."
+  },
+  {
+    "id": "VOY-116",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "Where was Voyager built and launched from?",
+    "answers": {
+      "A": "Utopia Planitia Fleet Yards, Mars",
+      "B": "San Francisco Fleet Yards, Earth",
+      "C": "Starbase 74",
+      "D": "Deep Space 9"
+    },
+    "correct": "A",
+    "explanation": "The USS Voyager was constructed at the Utopia Planitia Fleet Yards in orbit of Mars, the Federation's primary starship construction facility."
+  },
+  {
+    "id": "VOY-117",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "Tuvok holds the rank of Lieutenant Commander for most of the series before being promoted.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Tuvok serves as a Lieutenant Commander and is promoted to full Commander by Janeway in the seventh-season episode 'Renaissance Man.'"
+  },
+  {
+    "id": "VOY-118",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "What rank does Tom Paris hold for most of the series as Voyager's helmsman?",
+    "answers": {
+      "A": "Ensign",
+      "B": "Lieutenant",
+      "C": "Commander",
+      "D": "Lieutenant Commander"
+    },
+    "correct": "B",
+    "explanation": "Paris is given the rank of Lieutenant when recruited; he is briefly demoted to Ensign in 'Thirty Days' (Season 5) before earning his rank back."
+  },
+  {
+    "id": "VOY-119",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Timeline & History",
+    "question": "At maximum speeds, Janeway estimates the journey home would take about 75 years.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Caretaker,' Janeway tells the crew that covering the roughly 70,000 light years back to the Alpha Quadrant would take approximately 75 years at maximum warp."
+  },
+  {
+    "id": "VOY-120",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "How many years does Voyager's journey home actually take before the crew returns in 'Endgame'?",
+    "answers": {
+      "A": "5 years",
+      "B": "7 years",
+      "C": "10 years",
+      "D": "23 years"
+    },
+    "correct": "B",
+    "explanation": "Thanks to numerous shortcuts and Admiral Janeway's intervention, Voyager makes it home in seven years rather than the originally estimated 75."
+  },
+  {
+    "id": "VOY-121",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "What is the name of Kes's species?",
+    "answers": {
+      "A": "Talaxian",
+      "B": "Ocampa",
+      "C": "Kazon",
+      "D": "Nacene"
+    },
+    "correct": "B",
+    "explanation": "Kes is an Ocampa, the short-lived species that lived underground and was cared for by the Caretaker, as established in 'Caretaker.'"
+  },
+  {
+    "id": "VOY-122",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "Kes and Neelix are romantically involved during Kes's time aboard Voyager.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Kes and Neelix arrive together as a couple in 'Caretaker' and remain romantically involved for much of Kes's run, though their relationship later ends before she departs in 'The Gift.'"
+  },
+  {
+    "id": "VOY-123",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "What kind of small auxiliary craft does Tom Paris design and build aboard Voyager?",
+    "answers": {
+      "A": "The Delta Flyer",
+      "B": "The Aeroshuttle",
+      "C": "The Cochrane",
+      "D": "A captain's yacht"
+    },
+    "correct": "A",
+    "explanation": "The Delta Flyer, designed largely by Tom Paris, is a custom shuttle built by the crew in 'Extreme Risk' (Season 5) and used on many subsequent missions."
+  },
+  {
+    "id": "VOY-124",
+    "series": "VOY",
+    "difficulty": "easy",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "Seven of Nine regenerates in a Borg alcove rather than sleeping in a conventional bed.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Because of her Borg physiology, Seven regenerates in a specially installed alcove in Cargo Bay 2, a recurring detail introduced after she joins the crew in Season 4."
+  },
+  {
+    "id": "VOY-125",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "In 'The 37's,' Voyager discovers humans abducted from Earth in what year?",
+    "answers": {
+      "A": "1937",
+      "B": "1947",
+      "C": "1969",
+      "D": "1996"
+    },
+    "correct": "A",
+    "explanation": "In 'The 37's' (Season 2), Voyager finds humans abducted from Earth in 1937, including aviator Amelia Earhart, who had been taken by the Briori centuries earlier."
+  },
+  {
+    "id": "VOY-126",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "What is the name of the desert planet where Voyager establishes a settlement after the crew is exiled in 'Basics, Part II'?",
+    "answers": {
+      "A": "Hanon IV",
+      "B": "Sikaris",
+      "C": "Tarok",
+      "D": "Ocampa"
+    },
+    "correct": "A",
+    "explanation": "In 'Basics, Part II' (Season 3), the Kazon strand the crew on the primitive planet Hanon IV, where they must survive among volcanic terrain and hostile natives until they retake the ship."
+  },
+  {
+    "id": "VOY-127",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Planets & Locations",
+    "question": "In 'Sacred Ground,' Janeway undergoes a spiritual trial on a planet to save Kes's life.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Sacred Ground' (Season 3), Kes is injured by an energy field at a sacred shrine, and Janeway must complete a ritual ordeal among the Nechani monks to win her recovery."
+  },
+  {
+    "id": "VOY-128",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "In 'Thirty Days,' why is Tom Paris demoted to Ensign and confined to the brig?",
+    "answers": {
+      "A": "He disobeyed orders to protect an alien ocean world",
+      "B": "He stole the Delta Flyer",
+      "C": "He attacked a fellow officer",
+      "D": "He leaked classified logs"
+    },
+    "correct": "A",
+    "explanation": "In 'Thirty Days' (Season 5), Paris defies Janeway's orders by trying to stop the destruction of a Monean ocean-world, earning a demotion to Ensign and 30 days in the brig."
+  },
+  {
+    "id": "VOY-129",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "Janeway holds the rank of Captain throughout Voyager's journey and is promoted to Vice Admiral only after returning home.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Janeway commands as a Captain for the entire Delta Quadrant journey; her promotion to Vice Admiral is established afterward, reflected by her rank in Star Trek Nemesis and referenced in 'Endgame.'"
+  },
+  {
+    "id": "VOY-130",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "In 'Eye of the Needle,' Voyager makes contact through a wormhole with a Romulan from which time period relative to Voyager?",
+    "answers": {
+      "A": "The distant future",
+      "B": "Twenty years in Voyager's past",
+      "C": "The same time period",
+      "D": "The 22nd century"
+    },
+    "correct": "B",
+    "explanation": "In 'Eye of the Needle' (Season 1), the micro-wormhole connects to a Romulan scientist named Telek R'Mor, who exists about twenty years before Voyager's present, dashing hopes of an immediate trip home."
+  },
+  {
+    "id": "VOY-131",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Quotes & Catchphrases",
+    "question": "What blunt assessment does Seven of Nine often give about human behavior she finds inefficient?",
+    "answers": {
+      "A": "'That is irrelevant.'",
+      "B": "'Fascinating.'",
+      "C": "'Make it so.'",
+      "D": "'The needs of the many...'"
+    },
+    "correct": "A",
+    "explanation": "Seven of Nine frequently dismisses things she considers unimportant with a flat 'That is irrelevant,' reflecting her lingering Borg directness across her Season 4-7 appearances."
+  },
+  {
+    "id": "VOY-132",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Quotes & Catchphrases",
+    "question": "Neelix's homecooked dish 'leola root' is referenced repeatedly as an unpopular ingredient among the crew.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "Leola root, a nutritious but unappetizing Delta Quadrant vegetable that Neelix insists on using, becomes a running joke about his cooking throughout the series."
+  },
+  {
+    "id": "VOY-133",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Characters & Crew",
+    "question": "What new ability does Kes develop that ultimately leads to her leaving Voyager in 'The Gift'?",
+    "answers": {
+      "A": "Time travel",
+      "B": "Rapidly growing telepathic and telekinetic powers",
+      "C": "Borg assimilation immunity",
+      "D": "Shapeshifting"
+    },
+    "correct": "B",
+    "explanation": "In 'The Gift' (Season 4), Kes's escalating mental powers begin to threaten the ship, and she evolves into a higher form of energy, propelling Voyager 9,500 light years closer to home as she departs."
+  },
+  {
+    "id": "VOY-134",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "In 'Flashback,' Tuvok recalls serving aboard the USS Excelsior under Captain Hikaru Sulu.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "The 30th-anniversary episode 'Flashback' (Season 3) reveals Tuvok served aboard the Excelsior under Captain Sulu (George Takei) during the events surrounding Star Trek VI: The Undiscovered Country."
+  },
+  {
+    "id": "VOY-135",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "What weakness do the Kazon notably lack that keeps them technologically behind Voyager?",
+    "answers": {
+      "A": "Warp drive",
+      "B": "The ability to replicate water",
+      "C": "Functional weapons",
+      "D": "Spaceflight"
+    },
+    "correct": "B",
+    "explanation": "The Kazon famously covet Federation replicator technology because they cannot reliably produce water, a vulnerability central to Seska's scheming in episodes like 'State of Flux.'"
+  },
+  {
+    "id": "VOY-136",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Mortal Coil,' which character dies and is revived by Seven's Borg nanoprobes, then struggles with a crisis of faith?",
+    "answers": {
+      "A": "Harry Kim",
+      "B": "Neelix",
+      "C": "Chakotay",
+      "D": "Tom Paris"
+    },
+    "correct": "B",
+    "explanation": "In 'Mortal Coil' (Season 4), Neelix dies on an away mission and is resurrected with Borg nanoprobes; experiencing no afterlife shatters his Talaxian religious beliefs and drives him to the brink of suicide."
+  },
+  {
+    "id": "VOY-137",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "true_false",
+    "category": "Ships & Technology",
+    "question": "The astrometrics lab, built by Seven of Nine and Harry Kim, dramatically improves Voyager's stellar navigation.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Year of Hell' (Season 4), Seven and Kim design and build the astrometrics lab, whose advanced sensors help chart safer, faster courses through the Delta Quadrant."
+  },
+  {
+    "id": "VOY-138",
+    "series": "VOY",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "In 'Cold Fire,' Voyager encounters the Caretaker's mate, a second Nacene entity. What is her name?",
+    "answers": {
+      "A": "Suspiria",
+      "B": "Sublimia",
+      "C": "Ocampa",
+      "D": "Tanis"
+    },
+    "correct": "A",
+    "explanation": "In 'Cold Fire' (Season 2), Voyager locates Suspiria, the female Caretaker and mate of the entity that stranded them. She protects a different group of Ocampa aboard a space station called Exosia; Tanis is the Ocampan who serves her, not the Caretaker herself."
+  },
+  {
+    "id": "VOY-139",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Timeline & History",
+    "question": "In 'Before and After,' Kes experiences her life out of sequence due to what condition?",
+    "answers": {
+      "A": "A transporter malfunction",
+      "B": "A chroniton-radiation effect causing her to move backward through her own timeline",
+      "C": "A Borg neural implant",
+      "D": "A holodeck accident"
+    },
+    "correct": "B",
+    "explanation": "In 'Before and After' (Season 3), chroniton radiation from a future Krenim weapon causes Kes to jump backward through the stages of her life, foreshadowing the later 'Year of Hell' arc."
+  },
+  {
+    "id": "VOY-140",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Timeline & History",
+    "question": "In 'Shattered,' Chakotay moves through different time periods of Voyager that coexist in separate sections of the ship.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Shattered' (Season 7), a spatial rift fractures Voyager into 37 different time frames; Chakotay, immune to the effect, travels between eras to enlist a past version of Janeway to repair the ship."
+  },
+  {
+    "id": "VOY-141",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Planets & Locations",
+    "question": "In 'Gravity,' Tuvok, Tom Paris, and the Doctor crash on a planet inside what unusual region of space?",
+    "answers": {
+      "A": "A nebula",
+      "B": "A subspace sinkhole where time runs faster",
+      "C": "A Borg debris field",
+      "D": "Fluidic space"
+    },
+    "correct": "B",
+    "explanation": "In 'Gravity' (Season 5), the away team is trapped on a desert world inside a subspace sinkhole where time passes far more quickly than outside, complicating Voyager's rescue effort."
+  },
+  {
+    "id": "VOY-142",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Starfleet Ranks & Protocol",
+    "question": "In 'Worst Case Scenario,' a Starfleet holonovel about a Maquis mutiny aboard Voyager becomes a popular crew pastime.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Worst Case Scenario' (Season 3), Tuvok's unfinished training scenario about a Maquis uprising is discovered and enjoyed by the crew, before Seska's sabotage turns it deadly."
+  },
+  {
+    "id": "VOY-143",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "In 'Nemesis,' Chakotay is psychologically conditioned by which warring species to hate their enemy?",
+    "answers": {
+      "A": "The Vori",
+      "B": "The Kradin",
+      "C": "The Devore",
+      "D": "The Swarm"
+    },
+    "correct": "A",
+    "explanation": "In 'Nemesis' (Season 4), Chakotay is brainwashed by the Vori into seeing the Kradin as monstrous enemies, exploring how propaganda manufactures hatred in wartime."
+  },
+  {
+    "id": "VOY-144",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Crossovers & Connections",
+    "question": "In 'Death Wish,' a rogue Q seeks asylum aboard Voyager so that he may end his immortal existence.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Death Wish' (Season 2), a Q known as Quinn asks Janeway for asylum to commit suicide and escape eternal life, leading to a hearing that draws in the familiar Q (John de Lancie)."
+  },
+  {
+    "id": "VOY-145",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'The Voyager Conspiracy,' Seven of Nine becomes consumed by paranoid theories after doing what?",
+    "answers": {
+      "A": "Mind-melding with Tuvok",
+      "B": "Assimilating data directly through her alcove while regenerating",
+      "C": "Reading the Doctor's holonovel",
+      "D": "Linking to a Borg cube"
+    },
+    "correct": "B",
+    "explanation": "In 'The Voyager Conspiracy' (Season 6), Seven modifies her alcove to absorb information while regenerating, but the data overload causes her to construct elaborate, contradictory conspiracy theories about the crew."
+  },
+  {
+    "id": "VOY-146",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Villains & Antagonists",
+    "question": "In 'Living Witness,' the reactivated Doctor backup is accused by the Kyrians of being part of a brutal warship's crew. What was Voyager falsely portrayed as?",
+    "answers": {
+      "A": "A peaceful trading vessel",
+      "B": "A genocidal warship called the 'Warship Voyager'",
+      "C": "A Borg cube",
+      "D": "A Hirogen hunting ship"
+    },
+    "correct": "B",
+    "explanation": "In 'Living Witness' (Season 4), Kyrian historians have reconstructed a distorted history casting Voyager as the brutal 'Warship Voyager' and its crew as war criminals, which the Doctor's backup must correct."
+  },
+  {
+    "id": "VOY-147",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Characters & Crew",
+    "question": "In 'Lineage,' B'Elanna Torres wants to genetically alter her unborn daughter to remove her Klingon traits.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Lineage' (Season 7), a pregnant B'Elanna, fearing her daughter will face the rejection she suffered, secretly schemes to have the Doctor genetically remove the child's Klingon characteristics before reconciling."
+  },
+  {
+    "id": "VOY-148",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Ships & Technology",
+    "question": "In 'Renaissance Man,' the Doctor impersonates several crew members to carry out a hostage demand. What did the aliens want?",
+    "answers": {
+      "A": "Voyager's warp core",
+      "B": "The Doctor's mobile emitter",
+      "C": "Seven of Nine",
+      "D": "The astrometrics database"
+    },
+    "correct": "A",
+    "explanation": "In 'Renaissance Man' (Season 7), the R'Kaal hold Janeway hostage, and the Doctor, believing her life is at stake, schemes to surrender Voyager's warp core while impersonating various crew members."
+  },
+  {
+    "id": "VOY-149",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "category": "Alien Species & Cultures",
+    "question": "In 'Tsunkatse,' Seven of Nine is forced to fight in alien gladiatorial matches alongside a guest character played by which famous wrestler?",
+    "answers": {
+      "A": "Hulk Hogan",
+      "B": "The Rock (Dwayne Johnson)",
+      "C": "Stone Cold Steve Austin",
+      "D": "Andre the Giant"
+    },
+    "correct": "B",
+    "explanation": "In 'Tsunkatse' (Season 6), Seven is forced into Penk's combat arena; pro wrestler The Rock (Dwayne Johnson) appears as a Pendari champion she must fight."
+  },
+  {
+    "id": "VOY-150",
+    "series": "VOY",
+    "difficulty": "hard",
+    "type": "true_false",
+    "category": "Episodes & Story Arcs",
+    "question": "In 'Blink of an Eye,' the rapidly evolving planetary civilization eventually launches astronauts who briefly visit Voyager.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "explanation": "In 'Blink of an Eye' (Season 6), the planet's civilization advances to spaceflight and sends astronauts to the ship that has loomed in their sky for generations, with one even living aboard Voyager for a time."
   }
 ]
