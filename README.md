@@ -152,9 +152,14 @@ Live long and prosper.
 
 ---
 
+## License
+
+The code in this repository is released under the [MIT License](LICENSE).
+
 ## Disclaimer
 
 This is an unofficial, non-commercial fan project. *Star Trek* and all related marks,
 characters, and names are trademarks of Paramount / CBS Studios Inc. This game is not
 affiliated with, endorsed by, or sponsored by the rights holders. All trivia content is
-provided for educational and entertainment purposes.
+provided for educational and entertainment purposes. The MIT license above applies to the
+project's own source code, not to any *Star Trek* trademarks or franchise material.
