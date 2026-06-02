@@ -35,6 +35,7 @@ const logE = (m, d) => log(LOG_LEVELS.ERROR, m, d);
 // ---------- STATE ----------
 const state = {
     allQuestions: [],
+    conflicts: null,          // Map<id, Set<id>> — anti-spoiler conflict graph
     settings: {
         series: 'ALL',
         difficulty: 'ALL',
@@ -48,6 +49,13 @@ const state = {
     answers: [],
     selectedAnswer: null
 };
+
+// Anti-spoiler tuning: an answer term is treated as a "distinctive" spoiler
+// only if it is at least this long and appears in at most this many question
+// texts across the whole corpus. Ubiquitous terms (e.g. "Vulcan", "Kirk")
+// exceed the frequency cap and are ignored, avoiding false positives.
+const SPOILER_MIN_LEN = 5;
+const SPOILER_FREQ_MAX = 3;
 
 // ---------- DOM HELPERS ----------
 function $(id) { return document.getElementById(id); }
@@ -66,6 +74,126 @@ function shuffle(arr) {
         [out[i], out[j]] = [out[j], out[i]];
     }
     return out;
+}
+
+// ---------- ANTI-SPOILER CONFLICT GRAPH ----------
+// Two questions "conflict" when one would give away the other's answer if both
+// appeared in the same session. We build an undirected graph of such pairs once
+// at startup, from three sources:
+//   1. Automatic: a question's distinctive correct-answer term appearing in the
+//      text of another question (rarity-weighted to skip ubiquitous terms).
+//   2. Explicit q.conflictsWith: ["DS9-100", ...] — hand-tuned force-exclude.
+//   3. Explicit q.topic: "dominion-war" — all questions sharing a topic conflict.
+function normalizeText(s) {
+    return String(s == null ? '' : s)
+        .toLowerCase()
+        .replace(/[^a-z0-9 ]+/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+}
+
+function buildConflictGraph(questions) {
+    const t0 = (typeof performance !== 'undefined' && performance.now) ? performance.now() : 0;
+
+    // Pre-normalize each question's "revealing" text, keyed by id. We include the
+    // question, the explanation (shown as feedback), and the CORRECT answer (also
+    // revealed as feedback) — but NOT the wrong distractors, which are never
+    // presented as fact and would otherwise inflate term frequencies with noise.
+    const fullText = new Map();
+    for (const q of questions) {
+        const correct = (q.answers && q.correct != null) ? q.answers[q.correct] : '';
+        fullText.set(q.id, normalizeText(`${q.question} ${q.explanation || ''} ${correct || ''}`));
+    }
+    const texts = Array.from(fullText.values());
+    const corpusFreq = phrase => {
+        let c = 0;
+        for (const t of texts) { if (t.includes(phrase)) c++; }
+        return c;
+    };
+
+    const graph = new Map();
+    const link = (a, b) => {
+        if (a === b) return;
+        if (!graph.has(a)) graph.set(a, new Set());
+        if (!graph.has(b)) graph.set(b, new Set());
+        graph.get(a).add(b);
+        graph.get(b).add(a);
+    };
+
+    // 1) Automatic rarity-weighted literal-leak detection.
+    let autoLinks = 0;
+    for (const q of questions) {
+        if (q.type !== 'multiple_choice') continue;          // T/F answers ("True") are not distinctive
+        const term = normalizeText(q.answers[q.correct]);
+        if (term.length < SPOILER_MIN_LEN) continue;
+        if (corpusFreq(term) > SPOILER_FREQ_MAX) continue;   // too common to be a real spoiler
+        for (const other of questions) {
+            if (other.id === q.id) continue;
+            if (fullText.get(other.id).includes(term)) { link(q.id, other.id); autoLinks++; }
+        }
+    }
+
+    // 2) Explicit conflictsWith overrides.
+    let explicitLinks = 0;
+    for (const q of questions) {
+        if (Array.isArray(q.conflictsWith)) {
+            for (const id of q.conflictsWith) { link(q.id, id); explicitLinks++; }
+        }
+    }
+
+    // 3) Topic clusters — every pair sharing a topic conflicts.
+    const byTopic = new Map();
+    for (const q of questions) {
+        if (q.topic) {
+            if (!byTopic.has(q.topic)) byTopic.set(q.topic, []);
+            byTopic.get(q.topic).push(q.id);
+        }
+    }
+    let topicLinks = 0;
+    for (const ids of byTopic.values()) {
+        for (let i = 0; i < ids.length; i++) {
+            for (let j = i + 1; j < ids.length; j++) { link(ids[i], ids[j]); topicLinks++; }
+        }
+    }
+
+    const t1 = (typeof performance !== 'undefined' && performance.now) ? performance.now() : 0;
+    logI(`Conflict graph built: ${graph.size} questions have conflicts ` +
+         `(auto=${autoLinks}, explicit=${explicitLinks}, topic=${topicLinks} directed links) ` +
+         `in ${(t1 - t0).toFixed(1)}ms`);
+    return graph;
+}
+
+// Greedy selection of up to n questions from an already-shuffled pool such that
+// no two chosen questions conflict. If conflicts make it impossible to reach n,
+// backfill from the deferred (conflicting) remainder so we never under-deliver.
+function selectNonConflicting(pool, n) {
+    const graph = state.conflicts || new Map();
+    const chosen = [];
+    const blocked = new Set();   // ids that conflict with something already chosen
+    const deferred = [];
+
+    for (const q of pool) {
+        if (chosen.length >= n) break;
+        if (blocked.has(q.id)) { deferred.push(q); continue; }
+        chosen.push(q);
+        const cs = graph.get(q.id);
+        if (cs) cs.forEach(id => blocked.add(id));
+    }
+
+    if (chosen.length < n && deferred.length > 0) {
+        const backfill = Math.min(n - chosen.length, deferred.length);
+        logW(`Anti-spoiler: only ${chosen.length} non-conflicting question(s) available ` +
+             `for a requested ${n}; backfilling ${backfill} from conflicting remainder ` +
+             `(pool too small/narrow to avoid all spoilers).`);
+        for (const q of deferred) {
+            if (chosen.length >= n) break;
+            chosen.push(q);
+        }
+    } else {
+        logI(`Anti-spoiler: selected ${chosen.length} non-conflicting question(s); ` +
+             `${deferred.length} candidate(s) skipped as potential spoilers.`);
+    }
+    return chosen;
 }
 
 // ---------- INITIALIZATION ----------
@@ -92,6 +220,8 @@ function init() {
         dist[key] = (dist[key] || 0) + 1;
     }
     logI('Question distribution', dist);
+
+    state.conflicts = buildConflictGraph(state.allQuestions);
 
     populateCategories();
 
@@ -189,7 +319,8 @@ function startQuiz() {
     const n = state.settings.count === 'ALL'
         ? pool.length
         : Math.min(state.settings.count, pool.length);
-    state.questions = pool.slice(0, n);
+    // Greedily pick n questions with no intra-session answer leakage.
+    state.questions = selectNonConflicting(pool, n);
     state.currentIndex = 0;
     state.score = 0;
     state.answers = [];

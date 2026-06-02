@@ -62,6 +62,35 @@ To add or edit questions:
 
 ---
 
+## Anti-spoiler logic
+
+Because every question shows its correct answer and an explanation as feedback, two
+questions in the same session can leak each other's answers — e.g. a question about a
+Dominion War battle, followed by "What was the major war in DS9?" To prevent this, the
+app builds a **conflict graph** once at load and then picks each session greedily,
+never placing two conflicting questions in the same run.
+
+Conflicts come from three sources:
+
+1. **Automatic (no maintenance):** a question's correct-answer term is treated as a
+   spoiler when it is *distinctive* — at least 5 characters and appearing in at most 3
+   questions' revealing text (the question, its explanation, and its correct answer;
+   wrong distractors are ignored). Any other question whose revealing text contains
+   that term is marked as conflicting. Ubiquitous terms like "Vulcan" or "Kirk" exceed
+   the frequency cap and are correctly ignored. (~99 conflict pairs across the current
+   600 questions.)
+2. **`conflictsWith`** — an optional array on any question to force-exclude specific
+   ids, e.g. `"conflictsWith": ["DS9-100"]`.
+3. **`topic`** — an optional cluster tag, e.g. `"topic": "dominion-war"`. All questions
+   sharing a topic conflict. This is the lever for *semantic* leaks that share no
+   literal answer text (which the automatic layer cannot detect).
+
+If a filtered pool is too small to fill the requested count without conflicts, the app
+backfills from the remaining questions and logs a `WARN` rather than under-delivering.
+The thresholds live in `app.js` as `SPOILER_MIN_LEN` and `SPOILER_FREQ_MAX`.
+
+---
+
 ## Project structure
 
 ```
